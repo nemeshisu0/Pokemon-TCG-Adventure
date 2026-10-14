@@ -3,11 +3,18 @@
 # 🎴 POKÉMON TCG ADVENTURE 🎮
 ### *The Next-Gen Bridge Between Physical Pokémon Cards & Gen 5 DS Adventures*
 
+<br/>
+
+[![Status](https://img.shields.io/badge/PROJECT%20STATUS-WORK%20IN%20PROGRESS%20(EMBRYONIC%20STAGE)-FF3838?style=for-the-badge&logo=gitkraken&logoColor=white)](#-project-status--stato-del-progetto)
+[![Build](https://img.shields.io/badge/Release%20Stage-Pre--Alpha%20Prototype-FFA500?style=for-the-badge)](#-project-status--stato-del-progetto)
+
+<br/>
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/GUI-PyQt6%20Dark%20Glass-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://riverbankcomputing.com/software/pyqt/)
 [![melonDS](https://img.shields.io/badge/Core-melonDS%20In--Process%2060FPS-FF3E00?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)](http://melonds.kuribo64.net/)
 [![OpenCV](https://img.shields.io/badge/Vision-OpenCV%20%2B%20OCR-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%2010%20%26%2011-0078D6?style=for-the-badge&logo=linux&logoColor=white)](#-installation--setup)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%2010%20%26%2011-0078D6?style=for-the-badge&logo=linux&logoColor=white)](#-cross-platform-installation)
 [![Language](https://img.shields.io/badge/i18n-English%20%7C%20Italiano-FFD700?style=for-the-badge)](file:///README.md)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
@@ -22,6 +29,21 @@
 ---
 
 </div>
+
+<br/>
+
+> [!CAUTION]
+> # ⚠️ WORK IN PROGRESS — EARLY EMBRYONIC STAGE ⚠️
+> ### 🇬🇧 **PROJECT STATUS (ENGLISH):**
+> **This project is currently in an early, embryonic, experimental pre-alpha stage.**
+> Core features, Computer Vision heuristics, ROM injection hooks, memory mappings, and graphical user interfaces are actively undergoing heavy development and frequent architectural refactoring. Features may be incomplete, experience bugs, or evolve rapidly.
+>
+> ---
+>
+> # ⚠️ PROGETTO IN STATO EMBRIONALE — WORK IN PROGRESS ⚠️
+> ### 🇮🇹 **STATO DEL PROGETTO (ITALIANO):**
+> **Questo software si trova attualmente in uno STATO EMBRIONALE e altamente sperimentale (Pre-Alpha).**
+> Tutti i moduli (emulazione in-process a 60 FPS, scanner ottico OpenCV, validazione PK5 e modifiche al salvataggio) sono in fase di ricerca, sviluppo attivo e perfezionamento continuo. Bug, modifiche radicali e nuove funzioni verranno rilasciate costantemente.
 
 <br/>
 
