@@ -1,0 +1,51 @@
+# ==============================================================================
+# Git Ignore for Pokémon TCG Adventure
+# ==============================================================================
+
+# Python Environments & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so.bak
+.venv/
+venv/
+venv_win/
+scanner/.venv/
+scanner/.tesseract_bin/
+
+# Wine prefixes & local build folders
+**/.wine_prefix/
+.wine/
+
+# Nintendo DS ROMs & Commercial Dumps (Users must provide their own Pokémon White 2 ROM)
+roms/
+*.nds
+*.nds.bak
+*.dump
+*.bin.bak
+
+# Saves & Personal Profiles
+saves/profiles/
+saves/backups/
+saves/archive/
+saves/*.sav
+!saves/template/
+!saves/Pokémon Bianco 2.sav
+
+# User Configs & Credentials
+config/launcher_config.json
+config/accounts.json
+config/keybindings.json
+
+# Temporary Scans & Test Outputs
+scanner/captures/
+scanner/cache/
+tools/*_preview.png
+scratch/
+.tempmediaStorage/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

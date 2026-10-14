@@ -1,0 +1,1 @@
+[03:05:42] 🛑 FERMO A     -> Grid X=35, Y=35 | Verso=SUD (⬇ Giù - Verso il Prato) | Frontale=(35, 36) | Mappa=445 (da 1098.8s)

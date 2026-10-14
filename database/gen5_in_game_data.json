@@ -1,0 +1,4998 @@
+{
+  "moves": {
+    "1": {
+      "name": "Botta",
+      "desc": "Colpisce il bersaglio con la coda o le zampe anteriori."
+    },
+    "2": {
+      "name": "Colpokarate",
+      "desc": "Colpisce il bersaglio con un colpo netto. Probabile brutto colpo."
+    },
+    "3": {
+      "name": "Doppiasberla",
+      "desc": "Schiaffeggia il bersaglio da due a cinque volte di fila."
+    },
+    "4": {
+      "name": "Cometapugno",
+      "desc": "Colpisce il bersaglio con una scarica di pugni da due a cinque volte di fila."
+    },
+    "5": {
+      "name": "Megapugno",
+      "desc": "Colpisce il bersaglio con un pugno poderoso."
+    },
+    "6": {
+      "name": "Giornopaga",
+      "desc": "Colpisce il bersaglio con una gran quantità di monete recuperabili dopo la lotta."
+    },
+    "7": {
+      "name": "Fuocopugno",
+      "desc": "Colpisce il bersaglio con un pugno ardente che può scottarlo."
+    },
+    "8": {
+      "name": "Gelopugno",
+      "desc": "Colpisce il bersaglio con un pugno di ghiaccio che può congelarlo."
+    },
+    "9": {
+      "name": "Tuonopugno",
+      "desc": "Colpisce il bersaglio con un pugno elettrico che può paralizzarlo."
+    },
+    "10": {
+      "name": "Graffio",
+      "desc": "Infligge danni al bersaglio con artigli acuminati, duri e affilati."
+    },
+    "11": {
+      "name": "Presa",
+      "desc": "Stringe il bersaglio in una morsa usando enormi e possenti tenaglie."
+    },
+    "12": {
+      "name": "Ghigliottina",
+      "desc": "Attacca il bersaglio con pericolose tenaglie. Se l’attacco va a segno, il Pokémon colpito va subito KO."
+    },
+    "13": {
+      "name": "Ventagliente",
+      "desc": "Chi la usa genera un turbine al primo turno e attacca al secondo. Probabile brutto colpo."
+    },
+    "14": {
+      "name": "Danzaspada",
+      "desc": "Danza frenetica che incrementa lo spirito combattivo. Chi la usa aumenta di molto il suo Attacco."
+    },
+    "15": {
+      "name": "Taglio",
+      "desc": "Attacca il bersaglio con artigli o falci affilate. Fuori dalla lotta si usa per tagliare piccoli alberi."
+    },
+    "16": {
+      "name": "Raffica",
+      "desc": "Infligge danni al bersaglio con una folata di vento sollevata dalle ali."
+    },
+    "17": {
+      "name": "Attacco d’Ala",
+      "desc": "Infligge danni al bersaglio spiegando delle grandi ali possenti."
+    },
+    "18": {
+      "name": "Turbine",
+      "desc": "Il bersaglio lascia il campo e viene sostituito. Mette fine alle lotte contro singoli Pokémon selvatici."
+    },
+    "19": {
+      "name": "Volo",
+      "desc": "Chi la usa si alza in volo per attaccare al turno seguente. Fuori dalla lotta permette di volare in città già visitate."
+    },
+    "20": {
+      "name": "Legatutto",
+      "desc": "Il lungo corpo o i tentacoli di chi la usa legano e stritolano il bersaglio per quattro o cinque turni."
+    },
+    "21": {
+      "name": "Schianto",
+      "desc": "Infligge danni al bersaglio con la coda, con una liana o simili."
+    },
+    "22": {
+      "name": "Frustata",
+      "desc": "Infligge danni al bersaglio con liane sottili simili a fruste."
+    },
+    "23": {
+      "name": "Pestone",
+      "desc": "Colpisce il bersaglio con un grosso piede e può anche farlo tentennare."
+    },
+    "24": {
+      "name": "Doppiocalcio",
+      "desc": "Colpisce il bersaglio due volte con una raffica di calci inferti con entrambi i piedi."
+    },
+    "25": {
+      "name": "Megacalcio",
+      "desc": "Colpisce il bersaglio con un calcio sferrato con la forza di muscoli poderosi."
+    },
+    "26": {
+      "name": "Calciosalto",
+      "desc": "Permette di saltare in alto per attaccare con un calcio. Se non va a buon fine, chi la usa si ferisce."
+    },
+    "27": {
+      "name": "Calciorullo",
+      "desc": "Chi la usa infierisce sul bersaglio con un calcio rotante. Può anche farlo tentennare."
+    },
+    "28": {
+      "name": "Turbosabbia",
+      "desc": "Getta sabbia in faccia al bersaglio e ne riduce la precisione."
+    },
+    "29": {
+      "name": "Bottintesta",
+      "desc": "Chi la usa si lancia diritto di testa contro il bersaglio. Può anche farlo tentennare."
+    },
+    "30": {
+      "name": "Incornata",
+      "desc": "Danneggia il bersaglio infilzandolo con un corno affilato."
+    },
+    "31": {
+      "name": "Furia",
+      "desc": "Infilza il bersaglio con corna affilate o con il becco da due a cinque volte di fila."
+    },
+    "32": {
+      "name": "Perforcorno",
+      "desc": "Colpisce il bersaglio con un corno perforante come un trapano. Se il colpo va a segno, il Pokémon colpito va KO."
+    },
+    "33": {
+      "name": "Azione",
+      "desc": "Attacco fisico che colpisce il bersaglio investendolo con tutto il corpo."
+    },
+    "34": {
+      "name": "Corposcontro",
+      "desc": "Chi la usa carica il bersaglio con tutto il corpo. Può causarne anche la paralisi."
+    },
+    "35": {
+      "name": "Avvolgibotta",
+      "desc": "Il lungo corpo o le liane di chi la usa avvolgono e stritolano il bersaglio per quattro o cinque turni."
+    },
+    "36": {
+      "name": "Riduttore",
+      "desc": "Carica spericolata con tutto il corpo contro il bersaglio. Danneggia un po’ anche chi la usa."
+    },
+    "37": {
+      "name": "Colpo",
+      "desc": "Assale e attacca il nemico per due o tre turni, ma confonde chi la usa."
+    },
+    "38": {
+      "name": "Sdoppiatore",
+      "desc": "Carica spietata e pericolosa che danneggia molto anche chi la usa."
+    },
+    "39": {
+      "name": "Colpocoda",
+      "desc": "Chi la usa agita la coda per distrarre i nemici che ha intorno, riducendone la Difesa."
+    },
+    "40": {
+      "name": "Velenospina",
+      "desc": "Colpisce il bersaglio con un aculeo tossico che può anche avvelenarlo."
+    },
+    "41": {
+      "name": "Doppio Ago",
+      "desc": "Colpisce il bersaglio due volte di seguito con un paio di aghi. Può anche avvelenarlo."
+    },
+    "42": {
+      "name": "Missilspillo",
+      "desc": "Il bersaglio viene colpito da due a cinque volte con spilli appuntiti in rapida successione."
+    },
+    "43": {
+      "name": "Fulmisguardo",
+      "desc": "Terrorizza i nemici intorno con uno sguardo fulminante e intimidatorio, riducendone la Difesa."
+    },
+    "44": {
+      "name": "Morso",
+      "desc": "Il bersaglio viene morso da denti affilatissimi che possono farlo tentennare."
+    },
+    "45": {
+      "name": "Ruggito",
+      "desc": "Distrae i nemici intorno con un ruggito potente e ne riduce l’Attacco."
+    },
+    "46": {
+      "name": "Boato",
+      "desc": "Il bersaglio lascia il campo e viene sostituito. Mette fine alle lotte contro singoli Pokémon selvatici."
+    },
+    "47": {
+      "name": "Canto",
+      "desc": "Dolce ninnananna, cantata da una voce suadente, che fa addormentare il bersaglio."
+    },
+    "48": {
+      "name": "Supersuono",
+      "desc": "Chi la usa genera dal proprio corpo strane onde acustiche che possono confondere il bersaglio."
+    },
+    "49": {
+      "name": "Sonicboom",
+      "desc": "Il bersaglio viene colpito da onde acustiche devastanti che gli provocano un danno pari a 20 PS."
+    },
+    "50": {
+      "name": "Inibitore",
+      "desc": "Per quattro turni impedisce al bersaglio di riutilizzare l’ultima mossa usata."
+    },
+    "51": {
+      "name": "Acido",
+      "desc": "Colpisce i nemici intorno spruzzando un acido corrosivo. Può anche ridurne la Difesa Speciale."
+    },
+    "52": {
+      "name": "Braciere",
+      "desc": "Il bersaglio viene colpito da fiammelle che possono anche scottarlo."
+    },
+    "53": {
+      "name": "Lanciafiamme",
+      "desc": "Il bersaglio viene colpito da intense fiammate che possono anche scottarlo."
+    },
+    "54": {
+      "name": "Nebbia",
+      "desc": "Chi la usa attira una nebbia che blocca la riduzione delle statistiche per sé e gli alleati per cinque turni."
+    },
+    "55": {
+      "name": "Pistolacqua",
+      "desc": "Il bersaglio è colpito da un potente getto d’acqua."
+    },
+    "56": {
+      "name": "Idropompa",
+      "desc": "Il bersaglio è travolto da un potente getto d’acqua spruzzato ad altissima pressione."
+    },
+    "57": {
+      "name": "Surf",
+      "desc": "Un’onda enorme sommerge il campo di lotta, colpendo tutti i Pokémon intorno a chi la scatena. Fuori dalla lotta si usa per spostarsi sull’acqua."
+    },
+    "58": {
+      "name": "Geloraggio",
+      "desc": "Il bersaglio è colpito da un raggio di energia gelida che può anche congelarlo."
+    },
+    "59": {
+      "name": "Bora",
+      "desc": "Colpisce i nemici intorno con una tremenda tempesta di ghiaccio che può anche congelarli."
+    },
+    "60": {
+      "name": "Psicoraggio",
+      "desc": "Colpisce il bersaglio con un raggio speciale. Può anche confonderlo."
+    },
+    "61": {
+      "name": "Bollaraggio",
+      "desc": "Colpisce il bersaglio con una forte scarica di bolle. Può anche ridurne la Velocità."
+    },
+    "62": {
+      "name": "Raggiaurora",
+      "desc": "Colpisce il bersaglio con un raggio dai colori dell’iride. Può anche ridurne l’Attacco."
+    },
+    "63": {
+      "name": "Iper Raggio",
+      "desc": "Colpisce il bersaglio con un potente raggio. Chi la usa salta il turno successivo per recuperare energia."
+    },
+    "64": {
+      "name": "Beccata",
+      "desc": "Colpisce il bersaglio con il becco appuntito o con un corno."
+    },
+    "65": {
+      "name": "Perforbecco",
+      "desc": "Attacco a spirale con un becco aguzzo che fa da trapano."
+    },
+    "66": {
+      "name": "Sottomissione",
+      "desc": "Chi la usa carica il bersaglio in modo spericolato, ma danneggia anche se stesso."
+    },
+    "67": {
+      "name": "Colpo Basso",
+      "desc": "Un calcio basso e potente che fa cadere il bersaglio. Danneggia maggiormente i Pokémon più pesanti."
+    },
+    "68": {
+      "name": "Contrattacco",
+      "desc": "Mossa che contrasta ogni attacco fisico, arrecando il doppio del danno ricevuto."
+    },
+    "69": {
+      "name": "Movim. Sismico",
+      "desc": "Colpisce il bersaglio con la forza di gravità. Infligge un danno pari al livello di chi la usa."
+    },
+    "70": {
+      "name": "Forza",
+      "desc": "Colpisce il bersaglio con un’enorme energia. Fuori dalla lotta si usa per spostare i massi."
+    },
+    "71": {
+      "name": "Assorbimento",
+      "desc": "Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto."
+    },
+    "72": {
+      "name": "Megassorbimento",
+      "desc": "Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto."
+    },
+    "73": {
+      "name": "Parassiseme",
+      "desc": "Vengono piantati semi sul bersaglio. Questi sottraggono PS a ogni turno permettendo a chi la usa di curarsi."
+    },
+    "74": {
+      "name": "Crescita",
+      "desc": "Provoca la crescita immediata del corpo e l’aumento dell’Attacco e dell’Attacco Speciale di chi la usa."
+    },
+    "75": {
+      "name": "Foglielama",
+      "desc": "Foglie taglienti sferzano i nemici intorno. Probabile brutto colpo."
+    },
+    "76": {
+      "name": "Solarraggio",
+      "desc": "Chi la usa assorbe luce al primo turno per proiettare un raggio intenso al turno successivo."
+    },
+    "77": {
+      "name": "Velenpolvere",
+      "desc": "Investe il bersaglio con una nuvola di polvere tossica che avvelena."
+    },
+    "78": {
+      "name": "Paralizzante",
+      "desc": "Investe il bersaglio con una nuvola di polvere che paralizza."
+    },
+    "79": {
+      "name": "Sonnifero",
+      "desc": "Investe il bersaglio con una grande nuvola di polvere soporifera che lo fa addormentare."
+    },
+    "80": {
+      "name": "Petalodanza",
+      "desc": "Attacca il nemico cospargendolo di petali per due o tre turni, ma chi la usa rimane confuso."
+    },
+    "81": {
+      "name": "Millebave",
+      "desc": "Chi la usa produce della seta che avvolge i nemici intorno e ne riduce di molto la Velocità."
+    },
+    "82": {
+      "name": "Ira di Drago",
+      "desc": "Colpisce il bersaglio con un’onda d’urto generata dall’ira. Questo attacco provoca sempre un danno di 40 PS."
+    },
+    "83": {
+      "name": "Turbofuoco",
+      "desc": "Intrappola il bersaglio in un turbine di fuoco che dura per quattro o cinque turni."
+    },
+    "84": {
+      "name": "Tuonoshock",
+      "desc": "Danneggia il bersaglio con una scarica elettrica che può anche paralizzarlo."
+    },
+    "85": {
+      "name": "Fulmine",
+      "desc": "Il bersaglio viene colpito da una potente scarica elettrica che può anche paralizzarlo."
+    },
+    "86": {
+      "name": "Tuononda",
+      "desc": "Il bersaglio viene colpito da una debole scarica elettrica che, se va a segno, ne causa la paralisi."
+    },
+    "87": {
+      "name": "Tuono",
+      "desc": "Il bersaglio è colpito da un lampo molto violento che può anche paralizzarlo."
+    },
+    "88": {
+      "name": "Sassata",
+      "desc": "Chi la usa solleva una roccia e la lancia contro il bersaglio."
+    },
+    "89": {
+      "name": "Terremoto",
+      "desc": "Chi la usa provoca un potente sisma che colpisce i Pokémon che ha intorno."
+    },
+    "90": {
+      "name": "Abisso",
+      "desc": "Chi la usa crea una spaccatura nel terreno e cerca di gettarvici dentro il bersaglio. Se va a segno, il Pokémon colpito va KO."
+    },
+    "91": {
+      "name": "Fossa",
+      "desc": "Chi la usa scava al primo turno e attacca al successivo. Fuori dalla lotta fa uscire da alcuni luoghi."
+    },
+    "92": {
+      "name": "Tossina",
+      "desc": "Iperavvelena il bersaglio con una potente tossina. Il danno peggiora a ogni turno."
+    },
+    "93": {
+      "name": "Confusione",
+      "desc": "Colpisce il bersaglio con una leggera forza telecinetica e può anche confonderlo."
+    },
+    "94": {
+      "name": "Psichico",
+      "desc": "Il bersaglio viene colpito da una potente forza telecinetica che può anche ridurne la Difesa Speciale."
+    },
+    "95": {
+      "name": "Ipnosi",
+      "desc": "Chi la usa si avvale della suggestione ipnotica per far addormentare il bersaglio."
+    },
+    "96": {
+      "name": "Meditazione",
+      "desc": "Chi la usa medita per risvegliare la propria forza interiore e migliorare l’Attacco."
+    },
+    "97": {
+      "name": "Agilità",
+      "desc": "Chi la usa rilassa e alleggerisce il proprio corpo per far salire di molto la Velocità."
+    },
+    "98": {
+      "name": "Attacco Rapido",
+      "desc": "Chi la usa colpisce sempre per primo e a una tale velocità da rendersi quasi invisibile."
+    },
+    "99": {
+      "name": "Ira",
+      "desc": "Questa mossa ha il potere di aumentare la statistica Attacco ogni volta che chi la usa viene colpito durante una lotta."
+    },
+    "100": {
+      "name": "Teletrasporto",
+      "desc": "Fa fuggire dai Pokémon selvatici. Fuori dalla lotta porta all’ultimo Centro Pokémon visitato."
+    },
+    "101": {
+      "name": "Ombra Notturna",
+      "desc": "Fa apparire un orribile miraggio al bersaglio e infligge un danno pari al livello di chi la usa."
+    },
+    "102": {
+      "name": "Mimica",
+      "desc": "Copia l’ultima mossa usata dal bersaglio. La mossa copiata si può utilizzare fino alla sostituzione del Pokémon che l’ha usata."
+    },
+    "103": {
+      "name": "Stridio",
+      "desc": "Stridio assordante che riduce di molto la Difesa del bersaglio."
+    },
+    "104": {
+      "name": "Doppioteam",
+      "desc": "Chi la usa si muove in fretta e crea copie illusorie di se stesso che aumentano la capacità di elusione."
+    },
+    "105": {
+      "name": "Ripresa",
+      "desc": "Mossa autocurativa. Chi la usa recupera metà dei PS massimi."
+    },
+    "106": {
+      "name": "Rafforzatore",
+      "desc": "Tutti i muscoli del corpo si tonificano per aumentare la Difesa."
+    },
+    "107": {
+      "name": "Minimizzato",
+      "desc": "Il corpo di chi la usa si comprime e diventa più piccolo. La sua capacità di elusione aumenta di molto."
+    },
+    "108": {
+      "name": "Muro di Fumo",
+      "desc": "Nuvola di fumo o inchiostro che riduce la precisione del bersaglio."
+    },
+    "109": {
+      "name": "Stordiraggio",
+      "desc": "Colpisce il bersaglio con un raggio funesto che lo confonde."
+    },
+    "110": {
+      "name": "Ritirata",
+      "desc": "Il corpo si ritira nel suo duro guscio per aumentare la Difesa."
+    },
+    "111": {
+      "name": "Ricciolscudo",
+      "desc": "Chi la usa si raggomitola per nascondere i punti deboli e aumentare la propria Difesa."
+    },
+    "112": {
+      "name": "Barriera",
+      "desc": "Innalza una barriera resistente che aumenta molto la Difesa."
+    },
+    "113": {
+      "name": "Schermoluce",
+      "desc": "Innalza una barriera di luce fantastica che riduce i danni degli attacchi speciali per sé e gli alleati per cinque turni."
+    },
+    "114": {
+      "name": "Nube",
+      "desc": "Chi la usa crea una nube nera che annulla ogni modifica alle statistiche di tutti i Pokémon in campo."
+    },
+    "115": {
+      "name": "Riflesso",
+      "desc": "Innalza una barriera di luce fantastica che riduce i danni degli attacchi fisici per sé e gli alleati per cinque turni."
+    },
+    "116": {
+      "name": "Focalenergia",
+      "desc": "Chi la usa fa un profondo respiro e si concentra per rendere più probabili i brutti colpi."
+    },
+    "117": {
+      "name": "Pazienza",
+      "desc": "Chi la usa subisce attacchi per due turni e poi restituisce il danno moltiplicato per due."
+    },
+    "118": {
+      "name": "Metronomo",
+      "desc": "Chi la usa fa di no con il dito e stimola il cervello a usare a caso una delle tante mosse esistenti."
+    },
+    "119": {
+      "name": "Speculmossa",
+      "desc": "Chi la usa colpisce il bersaglio copiandone l’ultima mossa usata."
+    },
+    "120": {
+      "name": "Autodistruzione",
+      "desc": "Chi la usa esplode e infligge danni ai Pokémon che ha intorno, ma poi va KO."
+    },
+    "121": {
+      "name": "Uovobomba",
+      "desc": "Colpisce il bersaglio con un grande uovo scaraventato con enorme forza."
+    },
+    "122": {
+      "name": "Leccata",
+      "desc": "Una lingua lunga infligge danni al bersaglio e può anche paralizzarlo."
+    },
+    "123": {
+      "name": "Smog",
+      "desc": "Colpisce il bersaglio con una scarica di gas maleodoranti. Può anche avvelenarlo."
+    },
+    "124": {
+      "name": "Fango",
+      "desc": "Lancio di fango malsano che arreca danno al bersaglio. Può anche avvelenarlo."
+    },
+    "125": {
+      "name": "Ossoclava",
+      "desc": "Chi la usa colpisce il bersaglio con un osso e può farlo anche tentennare."
+    },
+    "126": {
+      "name": "Fuocobomba",
+      "desc": "Investe il bersaglio con un’intensa fiammata che fa terra bruciata. Può anche scottarlo."
+    },
+    "127": {
+      "name": "Cascata",
+      "desc": "Carica il bersaglio a grande velocità e può farlo tentennare. Fuori dalla lotta fa risalire le cascate."
+    },
+    "128": {
+      "name": "Tenaglia",
+      "desc": "Chi la usa intrappola e stritola il bersaglio con la sua corazza spessa e forte per quattro o cinque turni."
+    },
+    "129": {
+      "name": "Comete",
+      "desc": "Chi la usa colpisce i nemici intorno con raggi a forma di stella. Questo attacco è infallibile."
+    },
+    "130": {
+      "name": "Capocciata",
+      "desc": "Chi la usa ritira la testa per aumentare la Difesa e poi attacca al turno successivo."
+    },
+    "131": {
+      "name": "Sparalance",
+      "desc": "Il bersaglio viene colpito da due a cinque volte con spilli appuntiti in rapida successione."
+    },
+    "132": {
+      "name": "Limitazione",
+      "desc": "Colpisce il bersaglio con lunghi tentacoli o piante rampicanti. Può anche ridurne la Velocità."
+    },
+    "133": {
+      "name": "Amnesia",
+      "desc": "Chi la usa svuota per un po’ la mente per dimenticare i problemi. La Difesa Speciale aumenta di molto."
+    },
+    "134": {
+      "name": "Cinèsi",
+      "desc": "Chi la usa distrae il bersaglio piegando un cucchiaio e ne riduce la precisione."
+    },
+    "135": {
+      "name": "Covauova",
+      "desc": "Chi la usa recupera metà dei propri PS massimi. Fuori dalla lotta può anche far trasferire PS agli alleati."
+    },
+    "136": {
+      "name": "Calcinvolo",
+      "desc": "Chi la usa colpisce il bersaglio con una ginocchiata in volo. Se fallisce, subisce danni."
+    },
+    "137": {
+      "name": "Sguardo Feroce",
+      "desc": "Chi la usa spaventa il bersaglio con uno sguardo terrificante e ne causa la paralisi."
+    },
+    "138": {
+      "name": "Mangiasogni",
+      "desc": "Attacco che funziona solo su un bersaglio che dorme. Chi lo usa riceve metà dei PS persi dal Pokémon colpito."
+    },
+    "139": {
+      "name": "Velenogas",
+      "desc": "Spruzza in faccia ai nemici che ha intorno una nuvola di gas tossico che avvelena."
+    },
+    "140": {
+      "name": "Attacco Pioggia",
+      "desc": "Piovono enormi sfere sulla testa del bersaglio da due a cinque volte di fila."
+    },
+    "141": {
+      "name": "Sanguisuga",
+      "desc": "Mossa succhiasangue. Chi la usa recupera una quantità di PS pari alla metà del danno inferto."
+    },
+    "142": {
+      "name": "Demonbacio",
+      "desc": "Chi la usa intimidisce il bersaglio con una faccia paurosa e gli schiocca un bacio che lo fa addormentare."
+    },
+    "143": {
+      "name": "Aeroattacco",
+      "desc": "Attacco in due turni e probabile brutto colpo. Può anche far tentennare il bersaglio."
+    },
+    "144": {
+      "name": "Trasformazione",
+      "desc": "Chi la usa si trasforma in una copia esatta del bersaglio per sfruttarne le caratteristiche."
+    },
+    "145": {
+      "name": "Bolla",
+      "desc": "Una pioggia di bolle investe i nemici intorno e può anche ridurne la Velocità."
+    },
+    "146": {
+      "name": "Stordipugno",
+      "desc": "Colpisce il bersaglio con una sequenza di pugni che può anche confonderlo."
+    },
+    "147": {
+      "name": "Spora",
+      "desc": "Nube di spore che fa sempre addormentare il bersaglio."
+    },
+    "148": {
+      "name": "Flash",
+      "desc": "Investe il bersaglio con una luce abbagliante che ne riduce la precisione."
+    },
+    "149": {
+      "name": "Psiconda",
+      "desc": "Colpisce il bersaglio con una strana onda psichica. Ha un’intensità variabile."
+    },
+    "150": {
+      "name": "Splash",
+      "desc": "Chi la usa sguazza nell’acqua, senza ottenere alcun effetto."
+    },
+    "151": {
+      "name": "Scudo Acido",
+      "desc": "Chi la usa altera la sua struttura cellulare passando allo stato liquido. La Difesa sale di molto."
+    },
+    "152": {
+      "name": "Martellata",
+      "desc": "Danneggia il bersaglio servendosi di una grande tenaglia. Probabile brutto colpo."
+    },
+    "153": {
+      "name": "Esplosione",
+      "desc": "Chi la usa esplode per infliggere danni agli altri Pokémon attorno, ma va KO."
+    },
+    "154": {
+      "name": "Sfuriate",
+      "desc": "Colpisce il bersaglio con artigli o falci affilate da due a cinque volte in rapida successione."
+    },
+    "155": {
+      "name": "Ossomerang",
+      "desc": "Chi la usa lancia l’osso che tiene. L’osso colpisce due volte e ritorna come un vero e proprio boomerang."
+    },
+    "156": {
+      "name": "Riposo",
+      "desc": "Chi la usa recupera tutti i PS e guarisce da tutti i suoi problemi di stato, ma dorme per due turni."
+    },
+    "157": {
+      "name": "Frana",
+      "desc": "I nemici intorno a chi la usa vengono colpiti da grandi massi che possono anche farli tentennare."
+    },
+    "158": {
+      "name": "Iperzanna",
+      "desc": "Chi la usa morde il bersaglio con i suoi incisivi affilati. Può anche farlo tentennare."
+    },
+    "159": {
+      "name": "Affilatore",
+      "desc": "Chi la usa riduce il numero di poligoni sul proprio corpo per accentuarne gli spigoli e aumentare l’Attacco."
+    },
+    "160": {
+      "name": "Conversione",
+      "desc": "Il tipo di chi la usa muta in quello della prima mossa nella lista delle sue mosse."
+    },
+    "161": {
+      "name": "Tripletta",
+      "desc": "Colpisce il bersaglio con tre sfere simultanee che possono paralizzarlo, scottarlo o congelarlo."
+    },
+    "162": {
+      "name": "Superzanna",
+      "desc": "Chi la usa salta sul bersaglio azzannandolo con i suoi incisivi affilati e facendogli perdere metà dei PS."
+    },
+    "163": {
+      "name": "Lacerazione",
+      "desc": "Attacca il bersaglio con artigli, falci o altro. Probabile brutto colpo."
+    },
+    "164": {
+      "name": "Sostituto",
+      "desc": "Chi la usa crea una copia di se stesso usando alcuni PS. La copia serve come esca per il nemico."
+    },
+    "165": {
+      "name": "Scontro",
+      "desc": "Mossa da usare solo in caso estremo, quando non si hanno più PP. Danneggia anche chi la usa."
+    },
+    "166": {
+      "name": "Schizzo",
+      "desc": "Permette a chi la usa di imparare l’ultima mossa usata dal bersaglio. La nuova mossa appresa sostituisce Schizzo."
+    },
+    "167": {
+      "name": "Triplocalcio",
+      "desc": "Chi la usa sferra fino a tre calci consecutivi la cui potenza aumenta a ogni colpo."
+    },
+    "168": {
+      "name": "Furto",
+      "desc": "Chi la usa attacca il bersaglio e può rubargli lo strumento, se non ne ha già uno."
+    },
+    "169": {
+      "name": "Ragnatela",
+      "desc": "Copre il bersaglio con un filo di seta sottile e appiccicoso. Il Pokémon colpito non può fuggire."
+    },
+    "170": {
+      "name": "Leggimente",
+      "desc": "Chi la usa prevede i movimenti del bersaglio per mandare a segno l’attacco successivo."
+    },
+    "171": {
+      "name": "Incubo",
+      "desc": "Il bersaglio addormentato ha un incubo e perde PS a ogni turno."
+    },
+    "172": {
+      "name": "Ruotafuoco",
+      "desc": "Chi la usa si copre di fuoco e carica il bersaglio. Può anche scottarlo."
+    },
+    "173": {
+      "name": "Russare",
+      "desc": "Mossa da usare solo mentre si dorme. Il chiasso assordante può anche far tentennare il bersaglio."
+    },
+    "174": {
+      "name": "Maledizione",
+      "desc": "Una mossa che agisce in modo diverso se chi la usa è di tipo Spettro."
+    },
+    "175": {
+      "name": "Flagello",
+      "desc": "Chi la usa si dimena per attaccare. È più efficace se i suoi PS sono bassi."
+    },
+    "176": {
+      "name": "Conversione2",
+      "desc": "Chi la usa cambia tipo per rendersi resistente al tipo dell’ultima mossa usata dal bersaglio."
+    },
+    "177": {
+      "name": "Aerocolpo",
+      "desc": "Colpisce il bersaglio con un vortice d’aria per danneggiarlo. Probabile brutto colpo."
+    },
+    "178": {
+      "name": "Cottonspora",
+      "desc": "Rilascia spore simili al cotone che si attaccano ai nemici nei paraggi e ne riducono di molto la Velocità."
+    },
+    "179": {
+      "name": "Contropiede",
+      "desc": "Chi la usa attacca con tutte le sue forze. Più i PS sono bassi, maggiore è la potenza di questa mossa."
+    },
+    "180": {
+      "name": "Dispetto",
+      "desc": "Chi la usa sfoga la propria rabbia sull’ultima mossa usata dal bersaglio e le sottrae quattro PP."
+    },
+    "181": {
+      "name": "Polneve",
+      "desc": "Attacca i nemici che ha intorno con una raffica di neve farinosa e può anche congelarli."
+    },
+    "182": {
+      "name": "Protezione",
+      "desc": "Permette di eludere tutti gli attacchi. Se usata in successione può fallire."
+    },
+    "183": {
+      "name": "Pugnorapido",
+      "desc": "Chi la usa tira un pugno a una velocità impressionante e colpisce sempre per primo."
+    },
+    "184": {
+      "name": "Visotruce",
+      "desc": "Chi la usa spaventa il bersaglio con una faccia terribile e ne riduce di molto la Velocità."
+    },
+    "185": {
+      "name": "Finta",
+      "desc": "Chi la usa si avvicina al bersaglio facendo finta di niente, per poi scagliare un pugno infallibile a tradimento."
+    },
+    "186": {
+      "name": "Dolcebacio",
+      "desc": "Chi la usa bacia il bersaglio con una dolcezza angelica, confondendolo."
+    },
+    "187": {
+      "name": "Panciamburo",
+      "desc": "Chi la usa massimizza l’Attacco in cambio di metà dei PS massimi."
+    },
+    "188": {
+      "name": "Fangobomba",
+      "desc": "Lancio di fango malsano che arreca danno al bersaglio. Può anche avvelenarlo."
+    },
+    "189": {
+      "name": "Fangosberla",
+      "desc": "Chi la usa butta fango in faccia al bersaglio per arrecargli danni e ridurne la precisione."
+    },
+    "190": {
+      "name": "Octazooka",
+      "desc": "Chi la usa spruzza inchiostro in faccia al bersaglio. Può anche ridurne la precisione."
+    },
+    "191": {
+      "name": "Punte",
+      "desc": "Chi la usa piazza sul terreno una trappola di punte che danneggia i nemici quando scendono in campo."
+    },
+    "192": {
+      "name": "Falcecannone",
+      "desc": "Chi la usa provoca un’esplosione elettrica che infligge danni e paralizza il bersaglio."
+    },
+    "193": {
+      "name": "Preveggenza",
+      "desc": "Chi la usa rende i Pokémon di tipo Spettro vulnerabili a qualsiasi tipo di mossa e può, inoltre, colpire i nemici sfuggenti."
+    },
+    "194": {
+      "name": "Destinobbligato",
+      "desc": "Se chi la usa va KO prima del turno successivo, chi ha sferrato il colpo da KO fa la stessa fine."
+    },
+    "195": {
+      "name": "Ultimocanto",
+      "desc": "Qualunque Pokémon che senta questo canto va KO in tre turni, se non lo si sostituisce."
+    },
+    "196": {
+      "name": "Ventogelato",
+      "desc": "Chi la usa attacca i nemici intorno con una folata di aria gelida e ne riduce anche la Velocità."
+    },
+    "197": {
+      "name": "Individua",
+      "desc": "Permette di eludere tutti gli attacchi. Se usata in successione può fallire."
+    },
+    "198": {
+      "name": "Ossoraffica",
+      "desc": "Chi la usa colpisce il bersaglio con un osso da due a cinque volte di fila."
+    },
+    "199": {
+      "name": "Localizza",
+      "desc": "Chi la usa punta il bersaglio con precisione. La mossa successiva andrà a segno."
+    },
+    "200": {
+      "name": "Oltraggio",
+      "desc": "Chi la usa sfoga la sua ira e attacca il nemico per due o tre turni prima di essere lasciato in preda alla confusione."
+    },
+    "201": {
+      "name": "Terrempesta",
+      "desc": "Causa una tempesta di sabbia per cinque turni che danneggia tutti i tipi in campo esclusi Terra, Roccia e Acciaio."
+    },
+    "202": {
+      "name": "Gigassorbimento",
+      "desc": "Mossa che assorbe PS. Chi la usa recupera una quantità di PS pari alla metà del danno inferto."
+    },
+    "203": {
+      "name": "Resistenza",
+      "desc": "Chi la usa resta con un PS anche se subisce un colpo da KO in quel turno. Usata in successione può fallire."
+    },
+    "204": {
+      "name": "Fascino",
+      "desc": "Ammalia il bersaglio con lo sguardo per renderlo meno cauto. Ne riduce molto l’Attacco."
+    },
+    "205": {
+      "name": "Rotolamento",
+      "desc": "Chi la usa colpisce il bersaglio rotolando per cinque turni, con aumento progressivo della potenza ogni volta che va a segno."
+    },
+    "206": {
+      "name": "Falsofinale",
+      "desc": "Chi la usa trattiene il colpo per impedire al bersaglio di andare KO, lasciandolo con almeno un PS."
+    },
+    "207": {
+      "name": "Bullo",
+      "desc": "Chi la usa provoca il bersaglio e lo confonde, facendo aumentare però di molto il suo Attacco."
+    },
+    "208": {
+      "name": "Buonlatte",
+      "desc": "Chi la usa recupera metà dei propri PS massimi. Fuori dalla lotta può anche far trasferire PS agli alleati."
+    },
+    "209": {
+      "name": "Scintilla",
+      "desc": "Colpisce il bersaglio con una scarica elettrica e può anche paralizzarlo."
+    },
+    "210": {
+      "name": "Tagliofuria",
+      "desc": "Colpisce il bersaglio con falci o artigli. Se usata in successione aumenta di potenza ogni volta che va a segno."
+    },
+    "211": {
+      "name": "Alacciaio",
+      "desc": "Colpisce il bersaglio con ali d’acciaio. Può anche aumentare la Difesa di chi la usa."
+    },
+    "212": {
+      "name": "Malosguardo",
+      "desc": "Chi la usa blocca il bersaglio con uno sguardo oscuro e ammaliante, impedendogli la fuga."
+    },
+    "213": {
+      "name": "Attrazione",
+      "desc": "Se il bersaglio è del sesso opposto, s’infatua e diventa riluttante ad attaccare."
+    },
+    "214": {
+      "name": "Sonnolalia",
+      "desc": "Chi la usa sfodera a caso una delle proprie mosse mentre sta dormendo."
+    },
+    "215": {
+      "name": "Rintoccasana",
+      "desc": "Chi la usa produce uno scampanellio che cura i problemi di stato suoi e dei Pokémon alleati."
+    },
+    "216": {
+      "name": "Ritorno",
+      "desc": "Mossa che diventa tanto più potente quanto maggiore è il grado di affezione del Pokémon per il proprio Allenatore."
+    },
+    "217": {
+      "name": "Regalino",
+      "desc": "Chi la usa dà un regalo bomba al bersaglio. A volte, però, può fargli recuperare PS."
+    },
+    "218": {
+      "name": "Frustrazione",
+      "desc": "Mossa che diventa tanto più potente quanto minore è il grado di affezione del Pokémon per il proprio Allenatore."
+    },
+    "219": {
+      "name": "Salvaguardia",
+      "desc": "Chi la usa crea un campo protettivo che evita problemi di stato per sé e gli alleati per cinque turni."
+    },
+    "220": {
+      "name": "Malcomune",
+      "desc": "Chi la usa somma i propri PS a quelli di un altro Pokémon per poi dividerli in parti uguali."
+    },
+    "221": {
+      "name": "Magifuoco",
+      "desc": "Colpisce il bersaglio con un fuoco mistico di enorme intensità che può anche causargli una scottatura."
+    },
+    "222": {
+      "name": "Magnitudo",
+      "desc": "Chi la usa scatena un terremoto d’intensità variabile che danneggia i Pokémon che ha intorno."
+    },
+    "223": {
+      "name": "Dinamipugno",
+      "desc": "Colpisce il bersaglio con un pugno davvero forte. Se va a segno, lo confonde."
+    },
+    "224": {
+      "name": "Megacorno",
+      "desc": "Chi la usa utilizza il suo robusto e imponente corno per colpire il bersaglio con tutto se stesso."
+    },
+    "225": {
+      "name": "Dragospiro",
+      "desc": "Investe il bersaglio con una raffica potentissima che arreca danni. Può anche paralizzarlo."
+    },
+    "226": {
+      "name": "Staffetta",
+      "desc": "Chi la usa è sostituito da un Pokémon della squadra, che eredita anche ogni modifica alle statistiche."
+    },
+    "227": {
+      "name": "Ripeti",
+      "desc": "Chi la usa obbliga il bersaglio a ripetere per tre turni l’ultima mossa eseguita."
+    },
+    "228": {
+      "name": "Inseguimento",
+      "desc": "Una mossa d’attacco che infligge un danno doppio se il bersaglio è in fase di sostituzione."
+    },
+    "229": {
+      "name": "Rapigiro",
+      "desc": "Attacco rotante che elimina gli effetti di mosse come Legatutto, Avvolgibotta, Punte e Parassiseme."
+    },
+    "230": {
+      "name": "Profumino",
+      "desc": "Un dolce profumo che riduce di molto l’elusione dei nemici intorno a chi la usa. Fuori dalla lotta attira i Pokémon selvatici."
+    },
+    "231": {
+      "name": "Codacciaio",
+      "desc": "Il bersaglio viene colpito da una robusta coda d’acciaio. Può anche ridurne la Difesa."
+    },
+    "232": {
+      "name": "Ferrartigli",
+      "desc": "Colpisce il bersaglio con artigli d’acciaio. Può anche aumentare l’Attacco di chi la usa."
+    },
+    "233": {
+      "name": "Vitaltiro",
+      "desc": "Chi la usa attacca per ultimo, ma il colpo è sempre infallibile."
+    },
+    "234": {
+      "name": "Mattindoro",
+      "desc": "Chi la usa recupera PS. Il numero di PS recuperati dipende dalle condizioni atmosferiche."
+    },
+    "235": {
+      "name": "Sintesi",
+      "desc": "Chi la usa recupera PS. Il numero di PS recuperati dipende dalle condizioni atmosferiche."
+    },
+    "236": {
+      "name": "Lucelunare",
+      "desc": "Chi la usa recupera PS. Il numero di PS recuperati dipende dalle condizioni atmosferiche."
+    },
+    "237": {
+      "name": "Introforza",
+      "desc": "Mossa singolare che cambia tipo a seconda del Pokémon che la usa."
+    },
+    "238": {
+      "name": "Incrocolpo",
+      "desc": "Investe il bersaglio con un colpo sferrato con entrambe le braccia incrociate. Probabile brutto colpo."
+    },
+    "239": {
+      "name": "Tornado",
+      "desc": "Un potente tornado si abbatte sui nemici nei paraggi. Può anche farli tentennare."
+    },
+    "240": {
+      "name": "Pioggiadanza",
+      "desc": "Chi la usa provoca una forte pioggia per cinque turni, potenziando le mosse di tipo Acqua."
+    },
+    "241": {
+      "name": "Giornodisole",
+      "desc": "Chi la usa intensifica i raggi solari per cinque turni, potenziando le mosse di tipo Fuoco."
+    },
+    "242": {
+      "name": "Sgranocchio",
+      "desc": "Il bersaglio viene morso con denti affilati. Può anche ridurne la Difesa."
+    },
+    "243": {
+      "name": "Specchiovelo",
+      "desc": "Mossa che replica ogni attacco speciale, arrecando il doppio del danno ricevuto."
+    },
+    "244": {
+      "name": "Psicamisù",
+      "desc": "Chi la usa s’ipnotizza per copiare ogni modifica alle statistiche del bersaglio."
+    },
+    "245": {
+      "name": "Extrarapido",
+      "desc": "Chi la usa carica il bersaglio a una velocità impressionante e attacca sempre per primo."
+    },
+    "246": {
+      "name": "Forzantica",
+      "desc": "Colpisce il bersaglio con una forza primordiale. Può aumentare tutte le statistiche."
+    },
+    "247": {
+      "name": "Palla Ombra",
+      "desc": "Lancia sul bersaglio una sfera nera. Può anche ridurne la Difesa Speciale."
+    },
+    "248": {
+      "name": "Divinazione",
+      "desc": "Due turni dopo l’utilizzo di questa mossa, il bersaglio viene attaccato con energia psichica."
+    },
+    "249": {
+      "name": "Spaccaroccia",
+      "desc": "Chi la usa colpisce il bersaglio con un pugno in grado di frantumare anche la roccia. Può anche ridurne la Difesa."
+    },
+    "250": {
+      "name": "Mulinello",
+      "desc": "Intrappola il bersaglio in un turbine d’acqua per quattro o cinque turni infliggendo danni a ogni turno."
+    },
+    "251": {
+      "name": "Picchiaduro",
+      "desc": "Chi la usa chiama in aiuto i Pokémon della squadra: più ce ne sono, maggiore è il numero di attacchi."
+    },
+    "252": {
+      "name": "Bruciapelo",
+      "desc": "Mossa che fa agire per primi e fa tentennare il bersaglio. Funziona solo appena scesi in campo."
+    },
+    "253": {
+      "name": "Baraonda",
+      "desc": "Chi la usa attacca per tre turni con un frastuono che non fa dormire nessuno."
+    },
+    "254": {
+      "name": "Accumulo",
+      "desc": "Chi la usa accumula energia aumentando la Difesa e la Difesa Speciale. Si può utilizzare tre volte."
+    },
+    "255": {
+      "name": "Sfoghenergia",
+      "desc": "Tutta l’energia accumulata in precedenza con Accumulo è rilasciata nell’attacco. Maggiore è l’energia, più danni si arrecano."
+    },
+    "256": {
+      "name": "Introenergia",
+      "desc": "Chi la usa assorbe l’energia raccolta con la mossa Accumulo e recupera PS. Maggiore è l’energia, più PS si recuperano."
+    },
+    "257": {
+      "name": "Ondacalda",
+      "desc": "Chi la usa investe i nemici che ha intorno con una folata di vento caldo. Può anche scottarli."
+    },
+    "258": {
+      "name": "Grandine",
+      "desc": "Chi la usa causa una grandinata che dura cinque turni. Danneggia tutti i Pokémon tranne quelli di tipo Ghiaccio."
+    },
+    "259": {
+      "name": "Attaccalite",
+      "desc": "Chi la usa tormenta e fa infuriare il bersaglio, impedendogli di usare la stessa mossa due volte di seguito."
+    },
+    "260": {
+      "name": "Adulazione",
+      "desc": "Adula il bersaglio e lo confonde, ma ne aumenta l’Attacco Speciale."
+    },
+    "261": {
+      "name": "Fuocofatuo",
+      "desc": "Fiamme intense di colore viola causano una scottatura al bersaglio."
+    },
+    "262": {
+      "name": "Memento",
+      "desc": "Chi la usa va KO. Tuttavia, riduce di molto l’Attacco e l’Attacco Speciale del bersaglio."
+    },
+    "263": {
+      "name": "Facciata",
+      "desc": "Mossa d’attacco che raddoppia la potenza se chi la usa è scottato, avvelenato o paralizzato."
+    },
+    "264": {
+      "name": "Centripugno",
+      "desc": "Chi la usa prende la mira prima di sferrare un pugno. Fallirà se verrà colpito prima di eseguire la mossa."
+    },
+    "265": {
+      "name": "Maniereforti",
+      "desc": "Infligge un danno doppio a un bersaglio paralizzato, ma ne cura anche la paralisi."
+    },
+    "266": {
+      "name": "Sonoqui",
+      "desc": "Chi la usa attira l’attenzione su di sé, costringendo i nemici a sceglierlo sempre come bersaglio."
+    },
+    "267": {
+      "name": "Naturforza",
+      "desc": "Mossa che fa uso della forza della natura. Il suo effetto varia in base all’ambiente."
+    },
+    "268": {
+      "name": "Sottocarica",
+      "desc": "Potenzia la mossa di tipo Elettro usata subito dopo. Aumenta anche la Difesa Speciale di chi la usa."
+    },
+    "269": {
+      "name": "Provocazione",
+      "desc": "Provoca il bersaglio inducendolo a usare solo mosse d’attacco per tre turni."
+    },
+    "270": {
+      "name": "Altruismo",
+      "desc": "Mossa che aumenta la potenza dell’attacco di un alleato."
+    },
+    "271": {
+      "name": "Raggiro",
+      "desc": "Chi la usa coglie il bersaglio in contropiede e lo obbliga a cambiare il suo strumento con il proprio."
+    },
+    "272": {
+      "name": "Giocodiruolo",
+      "desc": "Chi la usa mima in tutto il bersaglio, copiandone l’abilità."
+    },
+    "273": {
+      "name": "Desiderio",
+      "desc": "Permette di recuperare metà dei PS massimi al turno successivo."
+    },
+    "274": {
+      "name": "Assistente",
+      "desc": "Chi la usa utilizza in fretta e a caso una delle mosse degli altri Pokémon della squadra."
+    },
+    "275": {
+      "name": "Radicamento",
+      "desc": "Chi la usa mette delle radici che gli fanno recuperare PS a ogni turno. Non può essere sostituito."
+    },
+    "276": {
+      "name": "Troppoforte",
+      "desc": "Chi la usa attacca il bersaglio con grande forza, ma il suo Attacco e la sua Difesa diminuiscono."
+    },
+    "277": {
+      "name": "Magivelo",
+      "desc": "Una barriera rimanda al mittente l’effetto di mosse come Parassiseme e di mosse che influenzano lo stato."
+    },
+    "278": {
+      "name": "Riciclo",
+      "desc": "Chi la usa ricicla uno strumento già usato nella lotta e lo può riutilizzare."
+    },
+    "279": {
+      "name": "Vendetta",
+      "desc": "Mossa d’attacco che infligge un danno doppio se si è stati colpiti dal Pokémon bersaglio nello stesso turno."
+    },
+    "280": {
+      "name": "Breccia",
+      "desc": "Colpisce il bersaglio con una mano e rompe barriere come Riflesso e Schermoluce."
+    },
+    "281": {
+      "name": "Sbadiglio",
+      "desc": "Chi la usa fa un grande sbadiglio che addormenta il bersaglio al turno seguente."
+    },
+    "282": {
+      "name": "Privazione",
+      "desc": "Attacco che blocca lo strumento del bersaglio, impedendone l’uso nella lotta. La sua potenza aumenta se il Pokémon colpito ha uno strumento."
+    },
+    "283": {
+      "name": "Rimonta",
+      "desc": "Attacco che riduce i PS del bersaglio a una quantità pari ai PS di chi la usa."
+    },
+    "284": {
+      "name": "Eruzione",
+      "desc": "Attacco impetuoso ed esplosivo la cui potenza è proporzionale ai PS di chi lo usa."
+    },
+    "285": {
+      "name": "Baratto",
+      "desc": "Chi la usa sfrutta le sue facoltà mentali per scambiare l’abilità con il bersaglio."
+    },
+    "286": {
+      "name": "Esclusiva",
+      "desc": "Chi la usa impedisce al nemico di usare mosse che conoscono entrambi."
+    },
+    "287": {
+      "name": "Rinfrescata",
+      "desc": "Chi la usa riposa per guarire da avvelenamento, paralisi e scottatura."
+    },
+    "288": {
+      "name": "Rancore",
+      "desc": "Se chi la usa va KO, i PP della mossa nemica che lo ha messo fuori gioco si azzerano."
+    },
+    "289": {
+      "name": "Scippo",
+      "desc": "Chi la usa ruba e utilizza la mossa curativa o modifica-statistiche che un altro Pokémon stava per usare."
+    },
+    "290": {
+      "name": "Forzasegreta",
+      "desc": "Attacco che può avere un effetto aggiuntivo a seconda del luogo in cui si trova chi lo usa."
+    },
+    "291": {
+      "name": "Sub",
+      "desc": "Chi la usa si tuffa in acqua per emergere e attaccare al turno seguente."
+    },
+    "292": {
+      "name": "Sberletese",
+      "desc": "Raffica di ceffoni che colpisce da due a cinque volte di fila."
+    },
+    "293": {
+      "name": "Camuffamento",
+      "desc": "Modifica il tipo di chi la usa a seconda del luogo, ad esempio sull’acqua, nell’erba o in una grotta."
+    },
+    "294": {
+      "name": "Codadiluce",
+      "desc": "Chi la usa fissa una luce forte per concentrarsi e aumentare moltissimo l’Attacco Speciale."
+    },
+    "295": {
+      "name": "Abbagliante",
+      "desc": "Chi la usa scatena un’esplosione abbagliante che può anche ridurre la Difesa Speciale del Pokémon colpito."
+    },
+    "296": {
+      "name": "Foschisfera",
+      "desc": "Una sfera di nebbia avvolge e danneggia il bersaglio. Può anche ridurne l’Attacco Speciale."
+    },
+    "297": {
+      "name": "Danzadipiume",
+      "desc": "Chi la usa copre il bersaglio con un manto di piume che riduce di molto il suo Attacco."
+    },
+    "298": {
+      "name": "Strampadanza",
+      "desc": "Chi la usa esegue una danza goffa che confonde tutti i Pokémon attorno."
+    },
+    "299": {
+      "name": "Calciardente",
+      "desc": "Chi la usa tira un calcio. Probabile brutto colpo. Può anche scottare il bersaglio."
+    },
+    "300": {
+      "name": "Fangata",
+      "desc": "Chi la usa sparge fango sul campo di lotta indebolendo per cinque turni le mosse di tipo Elettro."
+    },
+    "301": {
+      "name": "Palla Gelo",
+      "desc": "Chi la usa attacca il bersaglio rotolando per cinque turni, con aumento progressivo della potenza ogni volta che va a segno."
+    },
+    "302": {
+      "name": "Pugnospine",
+      "desc": "Chi la usa attacca colpendo il bersaglio con i suoi arti pieni di spine. Può far tentennare il Pokémon colpito."
+    },
+    "303": {
+      "name": "Pigro",
+      "desc": "Chi la usa si rilassa recuperando metà dei propri PS massimi."
+    },
+    "304": {
+      "name": "Granvoce",
+      "desc": "Chi la usa lancia un urlo straziante che danneggia i nemici intorno a sé."
+    },
+    "305": {
+      "name": "Velenodenti",
+      "desc": "Chi la usa morde il bersaglio con denti avvelenati che possono anche iperavvelenarlo."
+    },
+    "306": {
+      "name": "Tritartigli",
+      "desc": "Colpisce il bersaglio con artigli robusti e affilati che possono ridurne la Difesa."
+    },
+    "307": {
+      "name": "Incendio",
+      "desc": "Potente esplosione che danneggia il bersaglio, ma fa saltare il turno successivo a chi la provoca."
+    },
+    "308": {
+      "name": "Idrocannone",
+      "desc": "Colpisce il bersaglio con un potente getto d’acqua. Chi la usa salta il turno successivo."
+    },
+    "309": {
+      "name": "Meteorpugno",
+      "desc": "Colpisce il bersaglio con un pugno veloce come una meteora. Può far salire l’Attacco di chi la usa."
+    },
+    "310": {
+      "name": "Sgomento",
+      "desc": "Chi la usa attacca il bersaglio emettendo un verso terrificante. Può anche farlo tentennare."
+    },
+    "311": {
+      "name": "Palla Clima",
+      "desc": "Mossa d’attacco che varia tipo e forza in base alle condizioni atmosferiche."
+    },
+    "312": {
+      "name": "Aromaterapia",
+      "desc": "Chi la usa rilascia un dolce profumo che cura tutti i problemi di stato propri e degli alleati."
+    },
+    "313": {
+      "name": "Falselacrime",
+      "desc": "Chi la usa inscena un pianto teatrale per commuovere il bersaglio. Ne riduce di molto la Difesa Speciale."
+    },
+    "314": {
+      "name": "Aerasoio",
+      "desc": "Chi la usa provoca un vento tagliente che sferza i nemici intorno. Probabile brutto colpo."
+    },
+    "315": {
+      "name": "Vampata",
+      "desc": "Chi la usa sferra un potente attacco, ma il contraccolpo riduce di molto il suo Attacco Speciale."
+    },
+    "316": {
+      "name": "Segugio",
+      "desc": "Chi la usa rende i Pokémon di tipo Spettro vulnerabili a qualsiasi tipo di mossa e può, inoltre, colpire i nemici sfuggenti."
+    },
+    "317": {
+      "name": "Rocciotomba",
+      "desc": "Colpisce il bersaglio con rocce. Inoltre, lo rallenta riducendone la Velocità."
+    },
+    "318": {
+      "name": "Ventargenteo",
+      "desc": "Attacca con un forte vento di polvere di squame. Tutte le statistiche di chi la usa possono salire."
+    },
+    "319": {
+      "name": "Ferrostrido",
+      "desc": "Orribile stridio, simile a quello prodotto dal metallo, che riduce di molto la Difesa Speciale del bersaglio."
+    },
+    "320": {
+      "name": "Meloderba",
+      "desc": "Una dolce melodia culla il bersaglio e lo costringe ad addormentarsi."
+    },
+    "321": {
+      "name": "Solletico",
+      "desc": "Chi la usa solletica il bersaglio e lo fa ridere, riducendo il suo Attacco e la sua Difesa."
+    },
+    "322": {
+      "name": "Cosmoforza",
+      "desc": "Chi la usa assorbe una forza mistica dallo spazio che aumenta la Difesa e la Difesa Speciale."
+    },
+    "323": {
+      "name": "Zampillo",
+      "desc": "Lancia un getto d’acqua contro il nemico che ha davanti e quelli adiacenti. La potenza è proporzionale al numero di PS di chi la usa."
+    },
+    "324": {
+      "name": "Segnoraggio",
+      "desc": "Chi la usa attacca con uno strano raggio di luce che può anche confondere il Pokémon colpito."
+    },
+    "325": {
+      "name": "Pugnodombra",
+      "desc": "Il bersaglio riceve un pugno proveniente dalle tenebre. Questa mossa è infallibile."
+    },
+    "326": {
+      "name": "Extrasenso",
+      "desc": "Chi la usa attacca con una misteriosa forza invisibile. Può far tentennare il bersaglio."
+    },
+    "327": {
+      "name": "Stramontante",
+      "desc": "Chi la usa attacca il bersaglio con un montante che può arrivare fino al cielo."
+    },
+    "328": {
+      "name": "Sabbiotomba",
+      "desc": "Chi la usa intrappola il bersaglio in un turbine di sabbia per quattro o cinque turni."
+    },
+    "329": {
+      "name": "Purogelo",
+      "desc": "Ondata di freddo penetrante che, se va a segno, fa andare KO il bersaglio."
+    },
+    "330": {
+      "name": "Fanghiglia",
+      "desc": "Chi la usa attacca i nemici che ha intorno con un getto di fango che può anche ridurne la precisione."
+    },
+    "331": {
+      "name": "Semitraglia",
+      "desc": "Chi la usa spara da due a cinque raffiche di semi contro il bersaglio in successione."
+    },
+    "332": {
+      "name": "Aeroassalto",
+      "desc": "Chi la usa attacca il bersaglio a grande velocità. Questa mossa è infallibile."
+    },
+    "333": {
+      "name": "Gelolancia",
+      "desc": "Chi la usa spara ghiaccioli affilati contro il bersaglio da due a cinque volte di fila."
+    },
+    "334": {
+      "name": "Ferroscudo",
+      "desc": "Il corpo di chi la usa si indurisce come il ferro, facendone salire di molto la Difesa."
+    },
+    "335": {
+      "name": "Blocco",
+      "desc": "Chi la usa sbarra la strada al bersaglio impedendone la fuga o la sostituzione."
+    },
+    "336": {
+      "name": "Gridodilotta",
+      "desc": "Chi la usa emette un forte verso per darsi coraggio e aumentare l’Attacco."
+    },
+    "337": {
+      "name": "Dragartigli",
+      "desc": "Chi la usa attacca con artigli affilati che graffiano il bersaglio rapidamente e con grande forza."
+    },
+    "338": {
+      "name": "Radicalbero",
+      "desc": "Un groviglio di radici colpisce il bersaglio. Chi la usa salta il turno successivo."
+    },
+    "339": {
+      "name": "Granfisico",
+      "desc": "Chi la usa tende i muscoli per gonfiare il corpo, aumentando Difesa e Attacco."
+    },
+    "340": {
+      "name": "Rimbalzo",
+      "desc": "Chi la usa balza in alto e ricade sul bersaglio dopo un turno. Può anche paralizzarlo."
+    },
+    "341": {
+      "name": "Colpodifango",
+      "desc": "Chi la usa attacca lanciando fango sul bersaglio, riducendone anche la Velocità."
+    },
+    "342": {
+      "name": "Velenocoda",
+      "desc": "Chi la usa colpisce con la coda e può avvelenare il bersaglio. Probabile brutto colpo."
+    },
+    "343": {
+      "name": "Supplica",
+      "desc": "Chi la usa attacca il bersaglio sorridendo e gli ruba lo strumento."
+    },
+    "344": {
+      "name": "Locomovolt",
+      "desc": "Chi la usa si carica di elettricità e poi attacca. Può paralizzare il bersaglio. Il contraccolpo causa seri danni."
+    },
+    "345": {
+      "name": "Fogliamagica",
+      "desc": "Chi la usa sparpaglia strane foglie che inseguono il bersaglio. Questa mossa è infallibile."
+    },
+    "346": {
+      "name": "Docciascudo",
+      "desc": "Chi la usa sparge acqua sul campo di lotta indebolendo per cinque turni le mosse di tipo Fuoco."
+    },
+    "347": {
+      "name": "Calmamente",
+      "desc": "Chi la usa, meditando, placa il proprio spirito per aumentare l’Attacco Speciale e la Difesa Speciale."
+    },
+    "348": {
+      "name": "Fendifoglia",
+      "desc": "Colpisce il bersaglio usando una foglia affilata come una spada. Probabile brutto colpo."
+    },
+    "349": {
+      "name": "Dragodanza",
+      "desc": "Danza mistica e vigorosa che aumenta l’Attacco e la Velocità di chi la usa."
+    },
+    "350": {
+      "name": "Cadutamassi",
+      "desc": "Colpisce il bersaglio con dei massi pesanti lanciati in rapida successione. Il numero di massi varia da due a cinque."
+    },
+    "351": {
+      "name": "Ondashock",
+      "desc": "Chi la usa colpisce il bersaglio con una scossa di elettricità. È impossibile eludere questa mossa."
+    },
+    "352": {
+      "name": "Idropulsar",
+      "desc": "Il bersaglio viene colpito da un getto d’acqua potentissimo che può anche confonderlo."
+    },
+    "353": {
+      "name": "Obbliderio",
+      "desc": "Intensa luce solare che colpisce il bersaglio dopo due turni dall’uso della mossa."
+    },
+    "354": {
+      "name": "Psicoslancio",
+      "desc": "Chi la usa sferra un potente attacco, ma il contraccolpo riduce di molto il suo Attacco Speciale."
+    },
+    "355": {
+      "name": "Trespolo",
+      "desc": "Chi la usa sta fermo e riposa, recuperando metà dei propri PS massimi."
+    },
+    "356": {
+      "name": "Gravità",
+      "desc": "Intensifica la gravità per cinque turni. Le mosse che fanno volare sono inutilizzabili e l’abilità Levitazione non ha effetto."
+    },
+    "357": {
+      "name": "Miracolvista",
+      "desc": "Chi la usa rende i Pokémon di tipo Buio vulnerabili a qualsiasi tipo di mossa e può, inoltre, colpire i nemici sfuggenti."
+    },
+    "358": {
+      "name": "Svegliopacca",
+      "desc": "Questa mossa infligge un danno doppio a un bersaglio addormentato, ma allo stesso tempo lo risveglia."
+    },
+    "359": {
+      "name": "Martelpugno",
+      "desc": "Chi la usa colpisce il bersaglio con il suo pugno forte e pesante, ma perde Velocità."
+    },
+    "360": {
+      "name": "Vortexpalla",
+      "desc": "Chi la usa colpisce il bersaglio con un vortice rapidissimo. Più lento è chi la usa, maggiore è il danno."
+    },
+    "361": {
+      "name": "Curardore",
+      "desc": "Chi la usa va KO, ma il Pokémon che lo sostituisce recupera tutti i PS e guarisce dai problemi di stato."
+    },
+    "362": {
+      "name": "Acquadisale",
+      "desc": "Se i PS del bersaglio sono scesi a metà o meno, questa mossa colpirà con il doppio della potenza."
+    },
+    "363": {
+      "name": "Dononaturale",
+      "desc": "Chi la usa trae forza dalla bacca che ha. Da questa dipendono il tipo e la potenza dell’attacco."
+    },
+    "364": {
+      "name": "Fintoattacco",
+      "desc": "Mossa che colpisce anche un bersaglio che ha usato Protezione o Individua, annullandone gli effetti."
+    },
+    "365": {
+      "name": "Spennata",
+      "desc": "Chi la usa becca il bersaglio. Inoltre, se questi ha una bacca, gliela ruba e ne sfrutta gli effetti."
+    },
+    "366": {
+      "name": "Ventoincoda",
+      "desc": "Chi la usa scatena un turbine che aumenta la Velocità di tutti i Pokémon della squadra per quattro turni."
+    },
+    "367": {
+      "name": "Acupressione",
+      "desc": "Chi la usa esercita pressione su alcuni punti nevralgici e aumenta di molto una statistica a caso."
+    },
+    "368": {
+      "name": "Metalscoppio",
+      "desc": "Chi la usa si vendica sul nemico che l’ha appena ferito con una mossa anche più potente."
+    },
+    "369": {
+      "name": "Retromarcia",
+      "desc": "Chi usa questa mossa fa marcia indietro per farsi sostituire dopo aver sferrato l’attacco."
+    },
+    "370": {
+      "name": "Zuffa",
+      "desc": "Chi la usa attacca abbassando la guardia. La propria Difesa e la Difesa Speciale si riducono."
+    },
+    "371": {
+      "name": "Rivincita",
+      "desc": "Chi la usa accumula forza, poi attacca. La potenza raddoppia se agisce dopo il Pokémon colpito."
+    },
+    "372": {
+      "name": "Garanzia",
+      "desc": "Se il bersaglio ha già subito dei danni nello stesso turno, la potenza di questa mossa raddoppia."
+    },
+    "373": {
+      "name": "Divieto",
+      "desc": "Impedisce al bersaglio di usare il suo strumento e al suo Allenatore di usarne altri sul Pokémon."
+    },
+    "374": {
+      "name": "Lancio",
+      "desc": "Chi la usa lancia il suo strumento addosso al bersaglio. La forza e l’effetto dipendono dallo strumento."
+    },
+    "375": {
+      "name": "Psicotransfer",
+      "desc": "Con la forza psichica e la suggestione, chi la usa può trasferire i suoi problemi di stato al Pokémon colpito."
+    },
+    "376": {
+      "name": "Asso",
+      "desc": "La potenza di questa mossa aumenta man mano che i suoi PP diminuiscono."
+    },
+    "377": {
+      "name": "Anticura",
+      "desc": "Chi la usa impedisce ai nemici che ha intorno di utilizzare mosse o abilità recupera-PS per cinque turni."
+    },
+    "378": {
+      "name": "Strizzata",
+      "desc": "Chi la usa stritola con forza il bersaglio. Più PS ha il Pokémon colpito, maggiore è la potenza della mossa."
+    },
+    "379": {
+      "name": "Ingannoforza",
+      "desc": "Mossa psichica che permette a chi la usa di scambiare i valori delle sue statistiche di Attacco e Difesa."
+    },
+    "380": {
+      "name": "Gastroacido",
+      "desc": "Chi la usa lancia acidi gastrici sul bersaglio. Il fluido annulla l’abilità del Pokémon colpito."
+    },
+    "381": {
+      "name": "Fortuncanto",
+      "desc": "Chi la usa rivolge un incantesimo al cielo, impedendo al nemico di sferrare brutti colpi alla squadra."
+    },
+    "382": {
+      "name": "Precedenza",
+      "desc": "Se chi la usa è più veloce del nemico, gli ruba la mossa e gliela ritorce contro con potenza persino maggiore."
+    },
+    "383": {
+      "name": "Copione",
+      "desc": "Chi la usa mima l’ultima mossa eseguita. Fallisce se non è stata ancora usata alcuna mossa."
+    },
+    "384": {
+      "name": "Barattoforza",
+      "desc": "Chi la usa sfrutta la sua forza psichica per scambiare le modifiche ad Attacco e Attacco Speciale con il bersaglio."
+    },
+    "385": {
+      "name": "Barattoscudo",
+      "desc": "Chi la usa sfrutta la sua forza psichica per scambiare le modifiche a Difesa e Difesa Speciale con il bersaglio."
+    },
+    "386": {
+      "name": "Punizione",
+      "desc": "Questa mossa diventa più potente ogni volta che il bersaglio aumenta le proprie statistiche."
+    },
+    "387": {
+      "name": "Ultimascelta",
+      "desc": "Per usare questa mossa, bisogna prima avvalersi in lotta di tutte le altre mosse conosciute."
+    },
+    "388": {
+      "name": "Affannoseme",
+      "desc": "Un seme che causa ansia viene piantato sul bersaglio. Ne muta l’abilità in Insonnia e ne previene o rimuove il sonno."
+    },
+    "389": {
+      "name": "Sbigoattacco",
+      "desc": "Chi la usa può attaccare per primo. Fallisce se il bersaglio non sta preparando un attacco."
+    },
+    "390": {
+      "name": "Fielepunte",
+      "desc": "Chi la usa piazza una trappola di punte che avvelenano i nemici che scendono in campo."
+    },
+    "391": {
+      "name": "Cuorbaratto",
+      "desc": "Chi la usa sfrutta la sua forza psichica per scambiare le modifiche alle statistiche con il bersaglio."
+    },
+    "392": {
+      "name": "Acquanello",
+      "desc": "Chi la usa si avvolge in un velo d’acqua. Recupera alcuni PS a ogni turno."
+    },
+    "393": {
+      "name": "Magnetascesa",
+      "desc": "Chi la usa si solleva in aria per cinque turni grazie a un campo elettromagnetico."
+    },
+    "394": {
+      "name": "Fuococarica",
+      "desc": "Chi la usa si ricopre di fuoco e carica il bersaglio, ma subisce il contraccolpo. Può anche scottare il Pokémon colpito."
+    },
+    "395": {
+      "name": "Palmoforza",
+      "desc": "Chi la usa attacca con un’onda d’urto che può anche paralizzare il bersaglio."
+    },
+    "396": {
+      "name": "Forzasfera",
+      "desc": "Chi la usa rilascia una forza eterea dal profondo del corpo. La mossa è infallibile."
+    },
+    "397": {
+      "name": "Lucidatura",
+      "desc": "Chi la usa leviga il proprio corpo per ridurne l’attrito. Aumenta di molto la Velocità."
+    },
+    "398": {
+      "name": "Velenpuntura",
+      "desc": "Il bersaglio è colpito da un tentacolo o da un arto intriso di una sostanza tossica che può anche avvelenarlo."
+    },
+    "399": {
+      "name": "Neropulsar",
+      "desc": "Chi la usa emana un’aura impregnata di oscuri pensieri. Può anche far tentennare il Pokémon colpito."
+    },
+    "400": {
+      "name": "Nottesferza",
+      "desc": "Chi la usa colpisce il bersaglio appena si presenta l’occasione. Probabile brutto colpo."
+    },
+    "401": {
+      "name": "Idrondata",
+      "desc": "Chi la usa attacca agitando la coda come se fosse una violenta ondata in una tempesta furiosa."
+    },
+    "402": {
+      "name": "Semebomba",
+      "desc": "Chi la usa emette una raffica di semi dal guscio duro che colpiscono il bersaglio dall’alto."
+    },
+    "403": {
+      "name": "Eterelama",
+      "desc": "Chi la usa attacca con un vento tagliente che squarcia il cielo. Può anche far tentennare il Pokémon colpito."
+    },
+    "404": {
+      "name": "Forbice X",
+      "desc": "Chi la usa colpisce il bersaglio usando le sue falci o i suoi artigli come se fossero delle forbici."
+    },
+    "405": {
+      "name": "Ronzio",
+      "desc": "Chi la usa fa vibrare le ali creando un’onda sonora pericolosa. Può anche ridurre la Difesa Speciale del bersaglio."
+    },
+    "406": {
+      "name": "Dragopulsar",
+      "desc": "Chi la usa spalanca la bocca e genera un’onda d’urto che colpisce il bersaglio."
+    },
+    "407": {
+      "name": "Dragofuria",
+      "desc": "Chi la usa attacca con fare minaccioso e in questo modo può anche far tentennare il bersaglio."
+    },
+    "408": {
+      "name": "Gemmoforza",
+      "desc": "Chi la usa attacca con un raggio di luce che brilla come se fosse fatto di pietre preziose."
+    },
+    "409": {
+      "name": "Assorbipugno",
+      "desc": "Pugno che assorbe energia. Fa recuperare una quantità di PS pari alla metà del danno inferto."
+    },
+    "410": {
+      "name": "Vuotonda",
+      "desc": "Chi la usa rotea i pugni per lanciare un’onda di vuoto assoluto verso il bersaglio e attacca per primo."
+    },
+    "411": {
+      "name": "Focalcolpo",
+      "desc": "Chi la usa si concentra e rilascia la sua forza. Può ridurre la Difesa Speciale del Pokémon colpito."
+    },
+    "412": {
+      "name": "Energipalla",
+      "desc": "Chi la usa attinge energia dalla natura e la scaglia contro il bersaglio. Può anche ridurne la Difesa Speciale."
+    },
+    "413": {
+      "name": "Baldeali",
+      "desc": "Chi la usa si nasconde sotto le ali e carica da bassa quota. Tuttavia, subisce considerevoli danni."
+    },
+    "414": {
+      "name": "Geoforza",
+      "desc": "Dal terreno sotto il bersaglio si sprigiona una forza devastante. Può anche ridurne la Difesa Speciale."
+    },
+    "415": {
+      "name": "Rapidscambio",
+      "desc": "Chi la usa scambia lo strumento che ha con quello del bersaglio a una velocità impressionante."
+    },
+    "416": {
+      "name": "Gigaimpatto",
+      "desc": "Chi la usa carica il bersaglio usando tutta la sua forza, ma al turno successivo deve riposarsi."
+    },
+    "417": {
+      "name": "Congiura",
+      "desc": "Chi la usa stimola il cervello pensando a cose cattive. Aumenta di molto l’Attacco Speciale."
+    },
+    "418": {
+      "name": "Pugnoscarica",
+      "desc": "Chi la usa attacca con una scarica di pugni veloci come proiettili. Con questa mossa si colpisce per primi."
+    },
+    "419": {
+      "name": "Slavina",
+      "desc": "Mossa d’attacco che infligge doppi danni se chi la usa è stato ferito dal Pokémon bersaglio nello stesso turno."
+    },
+    "420": {
+      "name": "Geloscheggia",
+      "desc": "Chi la usa crea dei pezzi di ghiaccio e li lancia. Con questa mossa si colpisce per primi."
+    },
+    "421": {
+      "name": "Ombrartigli",
+      "desc": "Chi la usa attacca con artigli d’ombra che colpiscono con gran forza. Probabile brutto colpo."
+    },
+    "422": {
+      "name": "Fulmindenti",
+      "desc": "Chi la usa morde con denti elettrificati che possono anche paralizzare o far tentennare il bersaglio."
+    },
+    "423": {
+      "name": "Gelodenti",
+      "desc": "Chi la usa morde con denti ghiacciati. Può anche congelare o far tentennare il bersaglio."
+    },
+    "424": {
+      "name": "Rogodenti",
+      "desc": "Chi la usa morde con denti infuocati. Può anche scottare o far tentennare il bersaglio."
+    },
+    "425": {
+      "name": "Furtivombra",
+      "desc": "Chi la usa estende la sua ombra e attacca il nemico alle spalle. Con questa mossa si colpisce per primi."
+    },
+    "426": {
+      "name": "Pantanobomba",
+      "desc": "Chi la usa lancia una compatta palla di fango. Può anche ridurre la precisione del Pokémon colpito."
+    },
+    "427": {
+      "name": "Psicotaglio",
+      "desc": "Chi la usa colpisce il bersaglio con lame fatte di forza psichica. Probabile brutto colpo."
+    },
+    "428": {
+      "name": "Cozzata Zen",
+      "desc": "Chi la usa concentra la forza nella testa e si lancia contro il bersaglio. Può anche farlo tentennare."
+    },
+    "429": {
+      "name": "Cristalcolpo",
+      "desc": "Chi la usa rilascia fasci d’energia dal corpo levigato. Può anche ridurre la precisione del bersaglio."
+    },
+    "430": {
+      "name": "Cannonflash",
+      "desc": "Chi la usa attacca raccogliendo e rilasciando energia luminosa. Può ridurre la Difesa Speciale del nemico."
+    },
+    "431": {
+      "name": "Scalaroccia",
+      "desc": "Chi la usa carica con impeto incredibile. Il colpo può confondere il bersaglio."
+    },
+    "432": {
+      "name": "Scacciabruma",
+      "desc": "Chi la usa spazza via barriere come Riflesso e Schermoluce con un forte vento e riduce la capacità d’elusione del bersaglio."
+    },
+    "433": {
+      "name": "Distortozona",
+      "desc": "Chi la usa crea una dimensione in cui i Pokémon più lenti agiscono per primi per cinque turni."
+    },
+    "434": {
+      "name": "Dragobolide",
+      "desc": "Attacca con meteore che cadono dal cielo. Il contraccolpo fa calare di molto l’Attacco Speciale di chi la usa."
+    },
+    "435": {
+      "name": "Scarica",
+      "desc": "Chi la usa colpisce i Pokémon che ha intorno con un bagliore elettrico. Può anche paralizzarli."
+    },
+    "436": {
+      "name": "Lavasbuffo",
+      "desc": "Chi la usa lancia fiamme scarlatte su tutti i Pokémon nelle vicinanze, danneggiandoli. Può anche scottarli."
+    },
+    "437": {
+      "name": "Verdebufera",
+      "desc": "Si forma una tempesta di foglie affilate. Il contraccolpo riduce di molto l’Attacco Speciale di chi la usa."
+    },
+    "438": {
+      "name": "Vigorcolpo",
+      "desc": "Chi la usa agita violentemente liane o tentacoli per sferzare il bersaglio."
+    },
+    "439": {
+      "name": "Devastomasso",
+      "desc": "Chi la usa attacca il bersaglio con un enorme masso, ma si deve riposare al turno successivo."
+    },
+    "440": {
+      "name": "Velenocroce",
+      "desc": "Attacco con zanne avvelenate che può anche avvelenare il Pokémon colpito. Probabile brutto colpo."
+    },
+    "441": {
+      "name": "Sporcolancio",
+      "desc": "Chi la usa attacca il bersaglio con rifiuti sudici che possono anche avvelenarlo."
+    },
+    "442": {
+      "name": "Metaltestata",
+      "desc": "Chi la usa colpisce il bersaglio con la sua testa dura come l’acciaio. Può anche farlo tentennare."
+    },
+    "443": {
+      "name": "Bombagnete",
+      "desc": "Chi la usa lancia bombe d’acciaio che si attaccano al bersaglio. Una mossa infallibile."
+    },
+    "444": {
+      "name": "Pietrataglio",
+      "desc": "Chi la usa colpisce il bersaglio dal basso con pietre affilate. Probabile brutto colpo."
+    },
+    "445": {
+      "name": "Incanto",
+      "desc": "Se i nemici che ha intorno sono del sesso opposto a chi la usa, saranno ammaliati e il loro Attacco Speciale diminuirà di molto."
+    },
+    "446": {
+      "name": "Levitoroccia",
+      "desc": "Chi la usa piazza una trappola di rocce sospese che danneggia i nemici che entrano in campo."
+    },
+    "447": {
+      "name": "Laccioerboso",
+      "desc": "Chi la usa intrappola il bersaglio con l’erba e lo fa cadere. Danneggia maggiormente i Pokémon più pesanti."
+    },
+    "448": {
+      "name": "Schiamazzo",
+      "desc": "Chi la usa attacca creando un’onda sonora con le parole imparate e confonde il bersaglio."
+    },
+    "449": {
+      "name": "Giudizio",
+      "desc": "Chi la usa rilascia numerosi colpi di luce. Il tipo varia a seconda della lastra che ha."
+    },
+    "450": {
+      "name": "Coleomorso",
+      "desc": "Chi la usa morde il bersaglio. Inoltre, se questi ha una bacca, gliela ruba e ne sfrutta gli effetti."
+    },
+    "451": {
+      "name": "Raggioscossa",
+      "desc": "Chi la usa lancia un fascio di elettricità molto intensa. Può anche aumentare il suo Attacco Speciale."
+    },
+    "452": {
+      "name": "Mazzuolegno",
+      "desc": "Chi la usa si lancia con tutto il corpo contro il bersaglio, ma subisce anche considerevoli danni."
+    },
+    "453": {
+      "name": "Acquagetto",
+      "desc": "Chi la usa colpisce sempre per primo e a una tale velocità da rendersi quasi invisibile."
+    },
+    "454": {
+      "name": "Comandourto",
+      "desc": "Chi la usa raduna i suoi sgherri per colpire il bersaglio. Probabile brutto colpo."
+    },
+    "455": {
+      "name": "Comandoscudo",
+      "desc": "Chi la usa raduna i suoi sgherri per creare uno scudo, aumentando Difesa e Difesa Speciale."
+    },
+    "456": {
+      "name": "Comandocura",
+      "desc": "Chi la usa raduna i suoi sgherri per farsi curare. Recupera metà dei PS massimi."
+    },
+    "457": {
+      "name": "Zuccata",
+      "desc": "Chi la usa attacca con tutta la potenza di cui dispone, ma subisce danni considerevoli."
+    },
+    "458": {
+      "name": "Doppiosmash",
+      "desc": "Chi la usa colpisce il bersaglio due volte di fila con la coda, una liana o simili."
+    },
+    "459": {
+      "name": "Fragortempo",
+      "desc": "Chi la usa colpisce il bersaglio con una forza capace di alterare il tempo, ma deve stare fermo al turno successivo."
+    },
+    "460": {
+      "name": "Fendispazio",
+      "desc": "Chi la usa lacera il bersaglio e lo spazio che lo circonda. Probabile brutto colpo."
+    },
+    "461": {
+      "name": "Lunardanza",
+      "desc": "Chi la usa va KO. Il Pokémon che lo sostituisce guarisce dai propri problemi di stato e recupera PS e PP."
+    },
+    "462": {
+      "name": "Sbriciolmano",
+      "desc": "Colpisce il bersaglio con grande forza. Più PS ha il Pokémon colpito, maggiore è la potenza della mossa."
+    },
+    "463": {
+      "name": "Magmaclisma",
+      "desc": "Intrappola il bersaglio in un turbine di fuoco che dura per quattro o cinque turni."
+    },
+    "464": {
+      "name": "Vuototetro",
+      "desc": "Trascina i nemici intorno in un mondo di totale oscurità e li fa addormentare."
+    },
+    "465": {
+      "name": "Infuriaseme",
+      "desc": "Chi la usa genera un’onda d’urto dal suo corpo. Può anche ridurre di molto la Difesa Speciale del bersaglio."
+    },
+    "466": {
+      "name": "Funestovento",
+      "desc": "Chi la usa attacca con una forte raffica di vento che può aumentare tutte le sue statistiche."
+    },
+    "467": {
+      "name": "Oscurotuffo",
+      "desc": "Chi la usa sparisce e poi colpisce il bersaglio al turno successivo. Colpisce anche un Pokémon che ha usato Protezione o Individua."
+    },
+    "468": {
+      "name": "Unghiaguzze",
+      "desc": "Chi la usa affila i propri artigli aumentando Attacco e precisione."
+    },
+    "469": {
+      "name": "Bodyguard",
+      "desc": "Chi la usa protegge sé e gli alleati da colpi ad ampio raggio."
+    },
+    "470": {
+      "name": "Paridifesa",
+      "desc": "Chi la usa sfrutta la sua forza psichica per sommare Difesa e Difesa Speciale a quelle del bersaglio e dividerle equamente."
+    },
+    "471": {
+      "name": "Pariattacco",
+      "desc": "Chi la usa sfrutta la sua forza psichica per sommare Attacco e Attacco Speciale a quelli del bersaglio e dividerli equamente."
+    },
+    "472": {
+      "name": "Mirabilzona",
+      "desc": "Chi la usa crea una dimensione in cui Difesa e Difesa Speciale di tutti i Pokémon vengono scambiate per cinque turni."
+    },
+    "473": {
+      "name": "Psicoshock",
+      "desc": "Chi la usa attacca il bersaglio facendo materializzare un misterioso raggio psichico che provoca danni fisici."
+    },
+    "474": {
+      "name": "Velenoshock",
+      "desc": "Lancia uno speciale liquido tossico sul bersaglio. Se questi è avvelenato, il danno provocato raddoppia."
+    },
+    "475": {
+      "name": "Sganciapesi",
+      "desc": "Chi la usa si libera di tutti i pesi in eccesso, alleggerendosi e aumentando di molto la propria Velocità."
+    },
+    "476": {
+      "name": "Polverabbia",
+      "desc": "Chi la usa attira l’attenzione dei nemici cospargendosi di una polvere irritante e diventando bersaglio di tutti gli attacchi."
+    },
+    "477": {
+      "name": "Telecinesi",
+      "desc": "Chi la usa fa fluttuare in aria il bersaglio, rendendolo facile da colpire per tre turni."
+    },
+    "478": {
+      "name": "Magicozona",
+      "desc": "Chi la usa crea una dimensione in cui l’effetto degli strumenti di tutti i Pokémon è annullato per cinque turni."
+    },
+    "479": {
+      "name": "Abbattimento",
+      "desc": "Chi la usa lancia una pietra o un proiettile. Può colpire anche un bersaglio in volo e farlo cadere."
+    },
+    "480": {
+      "name": "Tempestretta",
+      "desc": "Chi la usa sferra un colpo micidiale al bersaglio, stritolandolo. Brutto colpo assicurato."
+    },
+    "481": {
+      "name": "Pirolancio",
+      "desc": "Chi la usa emana una fiammata che colpisce il bersaglio e si propaga fino a raggiungere i Pokémon vicini."
+    },
+    "482": {
+      "name": "Fangonda",
+      "desc": "Lancia un’onda di fango che attacca tutti i Pokémon nelle vicinanze. Può anche avvelenarli."
+    },
+    "483": {
+      "name": "Eledanza",
+      "desc": "Danza leggiadra ed elegante che aumenta l’Attacco Speciale, la Difesa Speciale e la Velocità di chi la usa."
+    },
+    "484": {
+      "name": "Pesobomba",
+      "desc": "Chi la usa si lancia contro il bersaglio con tutto il proprio peso. Più è pesante rispetto ad esso, più danni causa."
+    },
+    "485": {
+      "name": "Sincrumore",
+      "desc": "Chi la usa infligge danni a tutti i Pokémon dello stesso tipo che si trovano nelle vicinanze usando misteriose onde elettromagnetiche."
+    },
+    "486": {
+      "name": "Energisfera",
+      "desc": "Chi la usa attacca con una sfera d’energia elettrica. Più è rapido rispetto al bersaglio, più danni arreca."
+    },
+    "487": {
+      "name": "Inondazione",
+      "desc": "Chi la usa proietta un lungo getto d’acqua contro il bersaglio e lo rende un Pokémon di tipo Acqua."
+    },
+    "488": {
+      "name": "Nitrocarica",
+      "desc": "Chi la usa si copre di fuoco e attacca il bersaglio. Concentrandosi aumenta, inoltre, la propria Velocità."
+    },
+    "489": {
+      "name": "Arrotola",
+      "desc": "Chi la usa si concentra aumentando Attacco, Difesa e precisione."
+    },
+    "490": {
+      "name": "Calciobasso",
+      "desc": "Chi la usa colpisce con un attacco fulmineo la parte inferiore del corpo del bersaglio, riducendone la Velocità."
+    },
+    "491": {
+      "name": "Acidobomba",
+      "desc": "Chi la usa attacca il bersaglio con un acido altamente corrosivo. Il fluido riduce di molto la Difesa Speciale del bersaglio."
+    },
+    "492": {
+      "name": "Ripicca",
+      "desc": "Chi la usa sfrutta la forza del bersaglio. Il danno inflitto è proporzionale all’Attacco del nemico."
+    },
+    "493": {
+      "name": "Ondisinvolta",
+      "desc": "Chi la usa emette un misterioso raggio psichico che trasforma l’abilità del Pokémon colpito in Disinvoltura."
+    },
+    "494": {
+      "name": "Saltamicizia",
+      "desc": "Chi la usa saltella con un buffo ritmo, inducendo il bersaglio a imitarlo e rendendo la sua abilità identica alla propria."
+    },
+    "495": {
+      "name": "Cortesia",
+      "desc": "Chi la usa aiuta un bersaglio più lento permettendogli di agire subito dopo."
+    },
+    "496": {
+      "name": "Coro",
+      "desc": "Attacca il bersaglio con una melodia. Se usata durante lo stesso turno da più Pokémon, i danni inflitti aumentano."
+    },
+    "497": {
+      "name": "Echeggiavoce",
+      "desc": "Attacca il bersaglio con la propria voce echeggiante. Se usata a ripetizione da uno o più Pokémon il danno aumenta."
+    },
+    "498": {
+      "name": "Insidia",
+      "desc": "Chi la usa attacca non appena il bersaglio abbassa la guardia. Il danno inflitto prescinde dalle modifiche alle statistiche del bersaglio."
+    },
+    "499": {
+      "name": "Pulifumo",
+      "desc": "Attacca il bersaglio lanciandogli contro una nuvola di fumo speciale, che annulla ogni modifica alle statistiche."
+    },
+    "500": {
+      "name": "Veicolaforza",
+      "desc": "Attacca il bersaglio con l’energia accumulata. Più sono state aumentate le statistiche, maggiore è il danno inflitto."
+    },
+    "501": {
+      "name": "Anticipo",
+      "desc": "Chi la usa protegge sé e gli alleati dalle mosse dei nemici che fanno colpire per primi."
+    },
+    "502": {
+      "name": "Cambiaposto",
+      "desc": "Chi la usa si teletrasporta al posto di un alleato in campo, grazie a un misterioso potere."
+    },
+    "503": {
+      "name": "Idrovampata",
+      "desc": "Chi la usa attacca il bersaglio con un getto d’acqua bollente che può anche scottarlo."
+    },
+    "504": {
+      "name": "Gettaguscio",
+      "desc": "Chi la usa si disfa del guscio. Difesa e Difesa Speciale calano, ma aumentano di molto Attacco, Attacco Speciale e Velocità."
+    },
+    "505": {
+      "name": "Ondasana",
+      "desc": "Chi la usa lancia un’onda rilassante che fa recuperare al bersaglio metà dei suoi PS massimi."
+    },
+    "506": {
+      "name": "Sciagura",
+      "desc": "Attacco che causa un danno enorme se il bersaglio ha problemi di stato."
+    },
+    "507": {
+      "name": "Cadutalibera",
+      "desc": "Porta il bersaglio in cielo e lo scaglia a terra al turno successivo. Il bersaglio catturato non può muoversi."
+    },
+    "508": {
+      "name": "Cambiomarcia",
+      "desc": "Facendo ruotare gli ingranaggi, chi la usa aumenta non solo il proprio Attacco, ma anche di molto la propria Velocità."
+    },
+    "509": {
+      "name": "Ribaltiro",
+      "desc": "Il bersaglio è scaraventato via ed è costretto a lasciare il posto a un altro. Mette fine alle lotte contro singoli Pokémon selvatici."
+    },
+    "510": {
+      "name": "Bruciatutto",
+      "desc": "Attacca i nemici che ha intorno con una fiammata. Il fuoco distruggerà le bacche o alcuni tipi di strumenti che i Pokémon hanno con sé."
+    },
+    "511": {
+      "name": "Spintone",
+      "desc": "Chi la usa spinge via il bersaglio, costringendolo ad agire per ultimo."
+    },
+    "512": {
+      "name": "Acrobazia",
+      "desc": "Attacca rapidamente il bersaglio. Se chi la usa non ha uno strumento, infligge al nemico grossi danni."
+    },
+    "513": {
+      "name": "Riflettipo",
+      "desc": "Chi la usa cambia il proprio tipo in quello del bersaglio."
+    },
+    "514": {
+      "name": "Nemesi",
+      "desc": "Vendica un alleato messo KO. Se ciò è accaduto al turno precedente, il danno è maggiore."
+    },
+    "515": {
+      "name": "Azzardo",
+      "desc": "Chi la usa attacca con tutta la potenza di cui dispone e va KO, ma infligge al bersaglio un danno pari ai PS che ha perso."
+    },
+    "516": {
+      "name": "Cediregalo",
+      "desc": "Chi la usa consegna il proprio strumento al bersaglio, se questi ne è sprovvisto."
+    },
+    "517": {
+      "name": "Marchiatura",
+      "desc": "Il bersaglio viene avvolto da intense fiammate che causano scottature."
+    },
+    "518": {
+      "name": "Acquapatto",
+      "desc": "Attacca il bersaglio con una colonna d’acqua. Se usata con Fiammapatto, gli effetti aumentano e appare un arcobaleno."
+    },
+    "519": {
+      "name": "Fiammapatto",
+      "desc": "Attacca il bersaglio con una colonna di fuoco. Se usata con Erbapatto, gli effetti aumentano e il campo diventa un mare di fuoco."
+    },
+    "520": {
+      "name": "Erbapatto",
+      "desc": "Attacca il bersaglio con una colonna d’erba. Se usata con Acquapatto, gli effetti aumentano e il campo diventa una palude."
+    },
+    "521": {
+      "name": "Invertivolt",
+      "desc": "Chi usa questa mossa si tira indietro per farsi sostituire dopo aver sferrato l’attacco."
+    },
+    "522": {
+      "name": "Entomoblocco",
+      "desc": "Colpisce i nemici intorno opponendo resistenza e riducendo il loro Attacco Speciale."
+    },
+    "523": {
+      "name": "Battiterra",
+      "desc": "Chi la usa calpesta il terreno e scatena un terremoto che danneggia i Pokémon nei paraggi, riducendone la Velocità."
+    },
+    "524": {
+      "name": "Alitogelido",
+      "desc": "Chi la usa attacca il bersaglio con un soffio d’aria gelida. Brutto colpo assicurato."
+    },
+    "525": {
+      "name": "Codadrago",
+      "desc": "Chi la usa fa volar via il bersaglio in modo che venga sostituito. Se il bersaglio è un singolo Pokémon selvatico, la lotta finisce."
+    },
+    "526": {
+      "name": "Cuordileone",
+      "desc": "Chi la usa si tira su di morale, aumentando il proprio Attacco e l’Attacco Speciale."
+    },
+    "527": {
+      "name": "Elettrotela",
+      "desc": "Chi la usa attacca i nemici intorno a sé catturandoli con una ragnatela elettrica e riducendone la Velocità."
+    },
+    "528": {
+      "name": "Sprizzalampo",
+      "desc": "Chi la usa si carica di elettricità per poi scagliarsi sul bersaglio, ma subisce dei danni per il contraccolpo."
+    },
+    "529": {
+      "name": "Giravvita",
+      "desc": "Chi la usa si scaglia sul bersaglio ruotando su se stesso come un trapano perforante. Probabile brutto colpo."
+    },
+    "530": {
+      "name": "Doppiocolpo",
+      "desc": "Chi la usa attacca due volte il bersaglio con dei colpi estremamente forti."
+    },
+    "531": {
+      "name": "Cuorestampo",
+      "desc": "Chi la usa distrae il bersaglio con un faccino innocente per poi sferrargli un colpo devastante che può farlo tentennare."
+    },
+    "532": {
+      "name": "Legnicorno",
+      "desc": "Chi la usa infilza il bersaglio con le corna e assorbe una quantità di PS pari a metà del danno inferto."
+    },
+    "533": {
+      "name": "Spadasolenne",
+      "desc": "Chi la usa taglia il bersaglio con una spada magica. Il danno inflitto ignora le modifiche alle statistiche del Pokémon colpito."
+    },
+    "534": {
+      "name": "Conchilama",
+      "desc": "Chi la usa colpisce il bersaglio con il suo guscio affilato. Il colpo può anche ridurre la Difesa del bersaglio."
+    },
+    "535": {
+      "name": "Marchiafuoco",
+      "desc": "Chi la usa carica con il suo corpo rovente. Più è pesante rispetto al bersaglio e più danni causa."
+    },
+    "536": {
+      "name": "Vorticerba",
+      "desc": "Chi la usa avvolge e attacca il bersaglio con foglie affilate che possono anche ridurne la precisione."
+    },
+    "537": {
+      "name": "Rulloduro",
+      "desc": "Chi la usa ruota su se stesso ad alta velocità e schiaccia il bersaglio. Può anche farlo tentennare."
+    },
+    "538": {
+      "name": "Cotonscudo",
+      "desc": "Chi la usa avvolge il proprio corpo con del cotone molto morbido, proteggendosi e aumentando moltissimo la propria Difesa."
+    },
+    "539": {
+      "name": "Urtoscuro",
+      "desc": "Chi la usa attacca il bersaglio con un’onda d’urto oscura che può ridurne la precisione."
+    },
+    "540": {
+      "name": "Psicobotta",
+      "desc": "Chi la usa attacca il bersaglio facendo materializzare un misterioso raggio psichico che provoca danni fisici."
+    },
+    "541": {
+      "name": "Spazzasberla",
+      "desc": "Chi la usa colpisce il bersaglio con la sua coda dura da due a cinque volte di fila."
+    },
+    "542": {
+      "name": "Tifone",
+      "desc": "Chi la usa attacca il bersaglio avvolgendolo con un vento fortissimo. Può anche confonderlo."
+    },
+    "543": {
+      "name": "Ricciolata",
+      "desc": "Chi la usa carica il bersaglio con la testa in stile afro, ma subisce un po’ di danni per il contraccolpo."
+    },
+    "544": {
+      "name": "Ingracolpo",
+      "desc": "Chi la usa colpisce il bersaglio due volte di fila lanciandogli contro dei dischi d’acciaio."
+    },
+    "545": {
+      "name": "Sparafuoco",
+      "desc": "Chi la usa lancia fiamme scarlatte su tutti i Pokémon nelle vicinanze, danneggiandoli. Può anche scottarli."
+    },
+    "546": {
+      "name": "Tecnobotto",
+      "desc": "Chi la usa rilascia un colpo di luce contro il bersaglio. Il tipo varia a seconda del modulo che ha."
+    },
+    "547": {
+      "name": "Cantoantico",
+      "desc": "Chi la usa attacca i nemici intorno a sé intonando un’antica melodia che colpisce il loro spirito. Può anche farli addormentare."
+    },
+    "548": {
+      "name": "Spadamistica",
+      "desc": "Chi la usa attacca il bersaglio tagliandolo con una spada mistica. La misteriosa energia sprigionata provoca danni fisici."
+    },
+    "549": {
+      "name": "Gelamondo",
+      "desc": "Chi la usa attacca i nemici intorno con una folata d’aria gelida e ne riduce anche la Velocità."
+    },
+    "550": {
+      "name": "Lucesiluro",
+      "desc": "Colpisce il bersaglio con una possente carica elettrica e può anche paralizzarlo."
+    },
+    "551": {
+      "name": "Fuocoblu",
+      "desc": "Chi la usa attacca il bersaglio avvolgendolo con magnifiche e intense fiamme blu che possono anche scottarlo."
+    },
+    "552": {
+      "name": "Voldifuoco",
+      "desc": "Chi la usa viene avvolto da fiamme che scaglia contro il bersaglio, sbattendo le ali. Può anche aumentare l’Attacco Speciale."
+    },
+    "553": {
+      "name": "Elettrogelo",
+      "desc": "Chi la usa lancia contro il bersaglio al turno successivo una sfera di ghiaccio ricoperta di elettricità. Può anche paralizzarlo."
+    },
+    "554": {
+      "name": "Vampagelida",
+      "desc": "Chi la usa attacca il bersaglio al turno successivo e lo avvolge in un soffio d’aria gelida. Può anche scottarlo."
+    },
+    "555": {
+      "name": "Urlorabbia",
+      "desc": "Chi la usa si mette a urlare per un po’, riducendo l’Attacco Speciale dei nemici intorno."
+    },
+    "556": {
+      "name": "Scagliagelo",
+      "desc": "Chi la usa attacca violentemente il bersaglio con grosse stalattiti di ghiaccio che possono anche farlo tentennare."
+    },
+    "557": {
+      "name": "Generatore V",
+      "desc": "Chi la usa carica emettendo fiamme ardenti dalla fronte, a costo di una riduzione di Difesa, Difesa Speciale e Velocità."
+    },
+    "558": {
+      "name": "Incrofiamma",
+      "desc": "Chi la usa lancia una fiammata enorme. Se usata in combinazione con Incrotuono, il danno provocato dalla mossa aumenta."
+    },
+    "559": {
+      "name": "Incrotuono",
+      "desc": "Chi la usa lancia un fulmine enorme. Se usata in combinazione con Incrofiamma, il danno provocato dalla mossa aumenta."
+    },
+    "560": {
+      "name": "Schiacciatuffo",
+      "desc": "Chi la usa si tuffa sul bersaglio dall’alto. È una mossa di tipo Lotta e Volante allo stesso tempo."
+    },
+    "561": {
+      "name": "Ribaltappeto",
+      "desc": "Chi la usa protegge se stesso e i propri alleati dai danni di mosse nemiche, adoperando un tappetino come scudo. Non è efficace contro mosse di stato."
+    },
+    "562": {
+      "name": "Rutto",
+      "desc": "Chi la usa attacca il bersaglio con un rutto potente. Per utilizzare questa mossa, il Pokémon deve mangiare la bacca che possiede."
+    },
+    "563": {
+      "name": "Aracampo",
+      "desc": "Chi la usa dissoda la terra per far crescere meglio l’erba. Questa mossa aumenta l’Attacco e l’Attacco Speciale dei Pokémon di tipo Erba."
+    },
+    "564": {
+      "name": "Rete Vischiosa",
+      "desc": "Chi la usa intreccia una rete appiccicosa attorno alla squadra avversaria, diminuendo la Velocità dei Pokémon nemici che entreranno in campo."
+    },
+    "565": {
+      "name": "Pungiglione",
+      "desc": "L’Attacco di chi la usa aumenta notevolmente se grazie alla mossa il bersaglio va KO."
+    },
+    "566": {
+      "name": "Spettrotuffo",
+      "desc": "Chi la usa scompare improvvisamente per attaccare poi nel turno seguente. Questa mossa neutralizza le difese del bersaglio."
+    },
+    "567": {
+      "name": "Halloween",
+      "desc": "Il bersaglio viene invitato a festeggiare Halloween e aggiunge così al proprio tipo anche il tipo Spettro."
+    },
+    "568": {
+      "name": "Urlo",
+      "desc": "Chi la usa emette un urlo potente che intimidisce il bersaglio, riducendone l’Attacco e l’Attacco Speciale."
+    },
+    "569": {
+      "name": "Pioggiaplasma",
+      "desc": "Chi la usa disperde delle particelle elettrizzate che trasformano le mosse di tipo Normale in mosse di tipo Elettro."
+    },
+    "570": {
+      "name": "Caricaparabola",
+      "desc": "Infligge danni a tutti i Pokémon vicini. Chi la usa recupera una quantità di PS pari alla metà del danno inferto."
+    },
+    "571": {
+      "name": "Boscomalocchio",
+      "desc": "Chi la usa invoca la maledizione del bosco sul bersaglio, che acquisisce così anche il tipo Erba."
+    },
+    "572": {
+      "name": "Fiortempesta",
+      "desc": "Infligge danni ai Pokémon che ha intorno attaccandoli con una tempesta di fiori."
+    },
+    "573": {
+      "name": "Liofilizzazione",
+      "desc": "Chi la usa raffredda istantaneamente il bersaglio e può congelarlo. Risulta superefficace contro i Pokémon di tipo Acqua."
+    },
+    "574": {
+      "name": "Incantavoce",
+      "desc": "Chi la usa infligge un danno spirituale ai nemici nei paraggi con una voce suadente. L’attacco andrà immancabilmente a segno."
+    },
+    "575": {
+      "name": "Monito",
+      "desc": "Chi la usa lancia un monito intimidatorio al bersaglio, riducendone l’Attacco e l’Attacco Speciale, e si fa sostituire da un altro Pokémon della squadra."
+    },
+    "576": {
+      "name": "Sottosopra",
+      "desc": "Inverte tutte le modifiche alle statistiche del Pokémon bersaglio."
+    },
+    "577": {
+      "name": "Assorbibacio",
+      "desc": "Chi la usa assorbe energia dal bersaglio con un bacio, recuperando così PS in quantità pari a più della metà del danno inferto."
+    },
+    "578": {
+      "name": "Truccodifesa",
+      "desc": "Grazie a un misterioso potere, protegge chi la usa e gli alleati dalle mosse di stato. È tuttavia inefficace contro mosse che infliggono danni."
+    },
+    "579": {
+      "name": "Fiordifesa",
+      "desc": "Grazie a un misterioso potere, aumenta la Difesa di tutti i Pokémon di tipo Erba presenti in campo."
+    },
+    "580": {
+      "name": "Campo Erboso",
+      "desc": "Per cinque turni trasforma il terreno di lotta in un campo erboso, facendo recuperare PS ai Pokémon a terra in ogni turno."
+    },
+    "581": {
+      "name": "Campo Nebbioso",
+      "desc": "Per cinque turni trasforma il terreno di lotta in un campo nebbioso, impedendo ai Pokémon a terra di essere colpiti da problemi di stato."
+    },
+    "582": {
+      "name": "Elettrocontagio",
+      "desc": "Se si contagia il bersaglio prima che usi la sua mossa, per quel turno le sue mosse saranno di tipo Elettro."
+    },
+    "583": {
+      "name": "Carineria",
+      "desc": "Chi la usa attacca il bersaglio con delle carinerie. Può anche ridurne l’Attacco."
+    },
+    "584": {
+      "name": "Vento di Fata",
+      "desc": "Chi la usa solleva un vento fatato che investe il bersaglio."
+    },
+    "585": {
+      "name": "Forza Lunare",
+      "desc": "Chi la usa sfrutta il potere della luna per attaccare il bersaglio. Può anche ridurne l’Attacco Speciale."
+    },
+    "586": {
+      "name": "Ondaboato",
+      "desc": "Colpisce i Pokémon che ha intorno con la forza di un boato distruttivo."
+    },
+    "587": {
+      "name": "Blocco Fatato",
+      "desc": "Impone un blocco al terreno di lotta che nel turno successivo impedisce a tutti i Pokémon di fuggire."
+    },
+    "588": {
+      "name": "Scudo Reale",
+      "desc": "Chi la usa si protegge, assumendo una posizione di difesa e riducendo di molto l’Attacco di nemici o alleati con cui entra in contatto."
+    },
+    "589": {
+      "name": "Simpatia",
+      "desc": "Chi la usa diventa amico del bersaglio, rabbonendolo e riducendone così l’Attacco."
+    },
+    "590": {
+      "name": "Confidenza",
+      "desc": "Chi la usa svela dei segreti al bersaglio, distraendolo e riducendone l’Attacco Speciale."
+    },
+    "591": {
+      "name": "Diamantempesta",
+      "desc": "Colpisce i nemici che ha intorno con una tempesta di diamanti. Può anche aumentare la Difesa di chi la usa."
+    },
+    "592": {
+      "name": "Vaporscoppio",
+      "desc": "Travolge il bersaglio con un’ondata di vapore rovente che può anche scottarlo."
+    },
+    "593": {
+      "name": "Forodimensionale",
+      "desc": "Chi la usa, sfrutta un passaggio interdimensionale per comparire a fianco del bersaglio e colpirlo, eludendo mosse come Protezione e Individua."
+    },
+    "594": {
+      "name": "Acqualame",
+      "desc": "Chi la usa attacca sempre per primo, colpendo il bersaglio con uno shuriken di muco da due a cinque volte di fila."
+    },
+    "595": {
+      "name": "Magifiamma",
+      "desc": "Colpisce il bersaglio soffiandogli contro delle fiammate incredibilmente roventi, riducendone l’Attacco Speciale."
+    },
+    "596": {
+      "name": "Agodifesa",
+      "desc": "Protegge dagli attacchi, riducendo inoltre i PS dei Pokémon che entrano in contatto con chi la usa."
+    },
+    "597": {
+      "name": "Nebularoma",
+      "desc": "Aumenta la Difesa Speciale di un alleato tramite un misterioso aroma."
+    },
+    "598": {
+      "name": "Elettromistero",
+      "desc": "Il corpo di chi la usa emette onde anomale che investono il bersaglio, riducendone di molto l’Attacco Speciale."
+    },
+    "599": {
+      "name": "Velenotrappola",
+      "desc": "Emette un liquido particolare che riduce l’Attacco, l’Attacco Speciale e la Velocità dei nemici avvelenati intorno a chi la usa."
+    },
+    "600": {
+      "name": "Pulviscoppio",
+      "desc": "Il bersaglio viene coperto da un pulviscolo che esplode danneggiandolo se questi utilizza una mossa di tipo Fuoco nello stesso turno."
+    },
+    "601": {
+      "name": "Geocontrollo",
+      "desc": "Chi la usa assorbe energia nel primo turno per aumentare poi notevolmente l’Attacco Speciale, la Difesa Speciale e la Velocità in quello seguente."
+    },
+    "602": {
+      "name": "Controllo Polare",
+      "desc": "Tramite il controllo dei campi magnetici, aumenta la Difesa e la Difesa Speciale dei Pokémon alleati dotati dell’abilità Più o Meno."
+    },
+    "603": {
+      "name": "Cuccagna",
+      "desc": "Questa mossa raddoppia la ricompensa ricevuta dopo aver vinto una lotta."
+    },
+    "604": {
+      "name": "Campo Elettrico",
+      "desc": "Per cinque turni trasforma il terreno di lotta in un campo elettrico, impedendo ai Pokémon a terra di addormentarsi."
+    },
+    "605": {
+      "name": "Magibrillio",
+      "desc": "Emette una luce potentissima che infligge danni ai nemici che sono vicini a chi la usa."
+    },
+    "606": {
+      "name": "Auguri",
+      "desc": "Il Pokémon ti fa gli auguri nel tuo giorno speciale."
+    },
+    "607": {
+      "name": "Mano nella Mano",
+      "desc": "Il Pokémon che la usa e un alleato si prendono per mano e fanno salti di gioia."
+    },
+    "608": {
+      "name": "Occhioni Teneri",
+      "desc": "Chi la usa rivolge i propri occhioni languidi al bersaglio, riducendone l’Attacco. Colpisce sempre per primo."
+    },
+    "609": {
+      "name": "Elettrococcola",
+      "desc": "Chi la usa strofina le guance elettrizzate contro il bersaglio, paralizzandolo."
+    },
+    "610": {
+      "name": "Riguardo",
+      "desc": "Chi la usa attacca il bersaglio, modulando il colpo in modo da lasciargli almeno un PS."
+    },
+    "611": {
+      "name": "Assillo",
+      "desc": "Chi la usa lancia un attacco che tormenta il bersaglio per quattro o cinque turni, durante i quali gli impedisce di fuggire."
+    },
+    "612": {
+      "name": "Crescipugno",
+      "desc": "Rende i pugni più duri a ogni colpo inferto. Se i pugni vanno a segno, aumenta l’Attacco."
+    },
+    "613": {
+      "name": "Ali del Fato",
+      "desc": "Chi la usa assorbe energia dal bersaglio recuperando una quantità di PS pari a più della metà del danno inferto."
+    },
+    "614": {
+      "name": "Mille Frecce",
+      "desc": "Colpisce anche i Pokémon che fluttuano in aria. I nemici nei paraggi vengono scaraventati a terra."
+    },
+    "615": {
+      "name": "Mille Onde",
+      "desc": "Un’onda strisciante investe i nemici intorno impedendo loro di fuggire."
+    },
+    "616": {
+      "name": "Forza Tellurica",
+      "desc": "Chi la usa raccoglie energia tellurica e ne concentra il potere sui nemici che ha intorno, danneggiandoli."
+    },
+    "617": {
+      "name": "Luce Nefasta",
+      "desc": "Concentra il potere del Fiore Eterno in un raggio di luce potentissimo con cui attacca il bersaglio. Causa danni ingenti anche a chi la usa."
+    },
+    "618": {
+      "name": "Primopulsar",
+      "desc": "Attacca i nemici intorno colpendoli con miriadi di raggi di luce blu."
+    },
+    "619": {
+      "name": "Spade Telluriche",
+      "desc": "Attacca i nemici intorno trasformando la potenza della terra in lame affilate."
+    },
+    "620": {
+      "name": "Ascesa del Drago",
+      "desc": "Permette di proiettarsi in aria e fiondarsi sul bersaglio attaccando ad altissima velocità. Riduce la Difesa e la Difesa Speciale di chi la usa."
+    },
+    "621": {
+      "name": "Urtodimensionale",
+      "desc": "Permette di attaccare ripetutamente grazie ai molti arti, ignorando mosse come Protezione o Individua. Riduce la Difesa di chi la usa."
+    },
+    "622": {
+      "name": "Carica Travolgente",
+      "desc": "Grazie al Potere Z, chi la usa accumula energia e si lancia a tutta forza contro il bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "623": {
+      "name": "Carica Travolgente",
+      "desc": "Dummy Data"
+    },
+    "624": {
+      "name": "Iperscarica Furiosa",
+      "desc": "Chi la usa scaglia sul bersaglio una scarica di colpi carichi di Potere Z. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "625": {
+      "name": "Iperscarica Furiosa",
+      "desc": "Dummy Data"
+    },
+    "626": {
+      "name": "Picchiata Devastante",
+      "desc": "Chi la usa si serve del Potere Z per alzarsi in volo e attaccare il bersaglio piombandogli addosso. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "627": {
+      "name": "Picchiata Devastante",
+      "desc": "Dummy Data"
+    },
+    "628": {
+      "name": "Acidiluvio Corrosivo",
+      "desc": "Chi la usa sfrutta il Potere Z per creare una palude velenosa che sommerge il bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "629": {
+      "name": "Acidiluvio Corrosivo",
+      "desc": "Dummy Data"
+    },
+    "630": {
+      "name": "Furore della Terra",
+      "desc": "Grazie al Potere Z, chi la usa si tuffa nelle viscere della terra e colpisce con violenza il bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "631": {
+      "name": "Furore della Terra",
+      "desc": "Dummy Data"
+    },
+    "632": {
+      "name": "Gigamacigno Polverizzante",
+      "desc": "Grazie al Potere Z, chi la usa crea un masso enorme e lo lancia sul bersaglio schiacciandolo. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "633": {
+      "name": "Gigamacigno Polverizzante",
+      "desc": "Dummy Data"
+    },
+    "634": {
+      "name": "Bozzolo Fatale",
+      "desc": "Chi la usa sfrutta il Potere Z per creare dei filamenti che intrappolano il bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "635": {
+      "name": "Bozzolo Fatale",
+      "desc": "Dummy Data"
+    },
+    "636": {
+      "name": "Abbraccio Spettrale",
+      "desc": "Grazie al Potere Z, chi la usa intrappola il bersaglio in una morsa generata dal proprio rancore. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "637": {
+      "name": "Abbraccio Spettrale",
+      "desc": "Dummy Data"
+    },
+    "638": {
+      "name": "Spirale Perforante",
+      "desc": "Grazie al Potere Z, chi la usa vortica su se stesso e si scaglia sul bersaglio con tutte le sue forze. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "639": {
+      "name": "Spirale Perforante",
+      "desc": "Dummy Data"
+    },
+    "640": {
+      "name": "Fiammobomba Detonante",
+      "desc": "Chi la usa sfrutta il Potere Z per emettere fiamme incandescenti che inceneriscono il bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "641": {
+      "name": "Fiammobomba Detonante",
+      "desc": "Dummy Data"
+    },
+    "642": {
+      "name": "Idrovortice Abissale",
+      "desc": "Grazie al Potere Z, chi la usa crea un enorme vortice che inghiotte il bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "643": {
+      "name": "Idrovortice Abissale",
+      "desc": "Dummy Data"
+    },
+    "644": {
+      "name": "Floriscoppio Sfolgorante",
+      "desc": "Grazie al Potere Z, chi la usa concentra l’energia delle piante per scatenare un potente attacco. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "645": {
+      "name": "Floriscoppio Sfolgorante",
+      "desc": "Dummy Data"
+    },
+    "646": {
+      "name": "Gigascarica Folgorante",
+      "desc": "Grazie al Potere Z, chi la usa genera una fortissima scarica elettrica che colpisce il bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "647": {
+      "name": "Gigascarica Folgorante",
+      "desc": "Dummy Data"
+    },
+    "648": {
+      "name": "Impatto Psicocinetico",
+      "desc": "Chi la usa si serve del Potere Z per manipolare la mente del bersaglio causando ingenti danni. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "649": {
+      "name": "Impatto Psicocinetico",
+      "desc": "Dummy Data"
+    },
+    "650": {
+      "name": "Criodistruzione Polare",
+      "desc": "Chi la usa sfrutta il Potere Z per far calare di colpo la temperatura e congelare il bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "651": {
+      "name": "Criodistruzione Polare",
+      "desc": "Dummy Data"
+    },
+    "652": {
+      "name": "Dragoschianto Finale",
+      "desc": "Grazie al Potere Z, chi la usa materializza la propria aura per colpire con forza il nemico. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "653": {
+      "name": "Dragoschianto Finale",
+      "desc": "Dummy Data"
+    },
+    "654": {
+      "name": "Buco Nero del Non Ritorno",
+      "desc": "Chi la usa si serve del Potere Z per concentrare energia negativa con cui inghiotte il bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "655": {
+      "name": "Buco Nero del Non Ritorno",
+      "desc": "Dummy Data"
+    },
+    "656": {
+      "name": "Astroimpatto Fatato",
+      "desc": "Grazie al Potere Z, chi la usa crea una dimensione fatata in cui fa ciò che vuole del proprio bersaglio. La potenza varia a seconda della mossa su cui si basa."
+    },
+    "657": {
+      "name": "Astroimpatto Fatato",
+      "desc": "Dummy Data"
+    },
+    "658": {
+      "name": "Super Pikaboom",
+      "desc": "Grazie al Potere Z, Pikachu accumula un’enorme quantità di energia elettrica e si lancia contro il bersaglio a tutta forza."
+    },
+    "659": {
+      "name": "Sabbiaccumulo",
+      "desc": "Chi la usa recupera metà dei propri PS massimi. Durante le tempeste di sabbia ne recupera di più."
+    },
+    "660": {
+      "name": "Schermaglia",
+      "desc": "È una mossa molto potente, ma funziona solo appena scesi in campo."
+    },
+    "661": {
+      "name": "Fortino",
+      "desc": "Protegge dagli attacchi e avvelena i Pokémon che lanciano un attacco diretto su chi la usa."
+    },
+    "662": {
+      "name": "Cucitura d’Ombra",
+      "desc": "Chi la usa attacca il bersaglio e fissa la sua ombra a terra impedendogli di fuggire."
+    },
+    "663": {
+      "name": "Braccioteso",
+      "desc": "Chi la usa attacca il bersaglio mulinando gli arti. Il danno inflitto ignora le modifiche alle statistiche del bersaglio."
+    },
+    "664": {
+      "name": "Canto Effimero",
+      "desc": "Chi la usa si mette a cantare emettendo tanti palloncini d’acqua. I Pokémon che subiscono danni da questa mossa guariscono dalle scottature."
+    },
+    "665": {
+      "name": "Martelgelo",
+      "desc": "Infligge danni al bersaglio colpendolo con un pugno molto potente. Riduce la Velocità di chi la usa."
+    },
+    "666": {
+      "name": "Cura Floreale",
+      "desc": "Fa recuperare metà dei PS massimi al bersaglio. È più efficace quando il terreno di lotta è nello stato di Campo Erboso."
+    },
+    "667": {
+      "name": "Forza Equina",
+      "desc": "Chi la usa travolge il bersaglio con un attacco possente."
+    },
+    "668": {
+      "name": "Assorbiforza",
+      "desc": "Fa recuperare una quantità di PS pari all’Attacco del bersaglio, che vedrà diminuire questa statistica."
+    },
+    "669": {
+      "name": "Lama Solare",
+      "desc": "Chi la usa assorbe la luce condensandola in una lama al primo turno per poi attaccare al turno successivo."
+    },
+    "670": {
+      "name": "Fogliame",
+      "desc": "Attacca il bersaglio con delle foglie."
+    },
+    "671": {
+      "name": "Riflettore",
+      "desc": "Chi la usa accende un riflettore sopra il bersaglio deviando su di lui per quel turno tutti gli attacchi dei suoi nemici."
+    },
+    "672": {
+      "name": "Velenotela",
+      "desc": "Avvelena il bersaglio avvolgendolo con filamenti tossici e ne riduce la Velocità."
+    },
+    "673": {
+      "name": "Concentrazione",
+      "desc": "Chi la usa si concentra e nel turno successivo metterà sicuramente a segno un brutto colpo."
+    },
+    "674": {
+      "name": "Marciainpiù",
+      "desc": "Dà una marcia in più agli alleati con le abilità Meno o Più aumentandone l’Attacco e l’Attacco Speciale."
+    },
+    "675": {
+      "name": "Colpo Infernale",
+      "desc": "Chi viene colpito da questa mossa prova un dolore lancinante e non può più usare mosse basate sul suono per due turni."
+    },
+    "676": {
+      "name": "Sferapolline",
+      "desc": "Chi la usa attacca il nemico con una sfera esplosiva. Se colpisce degli alleati, fa recuperare loro dei PS."
+    },
+    "677": {
+      "name": "Colpo d’Ancora",
+      "desc": "Chi la usa attacca il nemico con un’ancora e lo intrappola nella catena impedendogli di fuggire."
+    },
+    "678": {
+      "name": "Campo Psichico",
+      "desc": "Per cinque turni il terreno entra nello stato di Campo Psichico: i Pokémon a terra non subiscono mosse ad alta priorità e le mosse di tipo Psico sono potenziate."
+    },
+    "679": {
+      "name": "Assalto",
+      "desc": "Chi la usa si lancia con tutte le sue forze sul bersaglio e ne riduce l’Attacco."
+    },
+    "680": {
+      "name": "Frusta di Fuoco",
+      "desc": "Colpisce il bersaglio con una frusta infuocata e ne riduce la Difesa."
+    },
+    "681": {
+      "name": "Tracotanza",
+      "desc": "Chi la usa attacca il bersaglio sfoggiando la propria forza. Più le sue statistiche sono state aumentate, più la mossa è potente."
+    },
+    "682": {
+      "name": "Ultima Fiamma",
+      "desc": "Chi la usa attacca sfruttando tutta la sua potenza incendiaria per infliggere gravi danni al bersaglio, ma come conseguenza perde il tipo Fuoco."
+    },
+    "683": {
+      "name": "Velociscambio",
+      "desc": "Chi la usa scambia la propria Velocità con quella del bersaglio."
+    },
+    "684": {
+      "name": "Sottilcorno",
+      "desc": "Chi la usa colpisce il bersaglio con un corno appuntito. Questa mossa va sempre a segno."
+    },
+    "685": {
+      "name": "Purificazione",
+      "desc": "Chi la usa cura i problemi di stato del bersaglio e in cambio recupera PS."
+    },
+    "686": {
+      "name": "Mutadanza",
+      "desc": "Chi la usa si lancia in una danza e attacca il nemico con tutte le sue forze. Il tipo della mossa corrisponde al tipo del Pokémon che la usa."
+    },
+    "687": {
+      "name": "Nucleocastigo",
+      "desc": "Il bersaglio subisce dei danni e, se ha già agito nel turno, perde la sua abilità."
+    },
+    "688": {
+      "name": "Tropicalcio",
+      "desc": "Chi la usa colpisce il bersaglio con un potente calcio sfruttando una tecnica originaria dei paesi tropicali e ne riduce l’Attacco."
+    },
+    "689": {
+      "name": "Imposizione",
+      "desc": "Costringe il bersaglio a ripetere immediatamente l’ultima mossa che ha sferrato."
+    },
+    "690": {
+      "name": "Cannonbecco",
+      "desc": "Chi la usa arroventa il proprio becco e poi attacca. Se un Pokémon lo colpisce con un attacco diretto mentre sta accumulando calore, resta scottato."
+    },
+    "691": {
+      "name": "Clamorsquame",
+      "desc": "Chi la usa attacca il bersaglio con un suono fortissimo che genera sfregando le scaglie del corpo. Dopo aver attaccato, la sua Difesa diminuisce."
+    },
+    "692": {
+      "name": "Marteldrago",
+      "desc": "Chi la usa infligge danni al bersaglio usando il proprio corpo come se fosse un martello."
+    },
+    "693": {
+      "name": "Vorticolpo",
+      "desc": "Chi la usa infligge danni intorno a sé facendo ruotare una parte del suo corpo."
+    },
+    "694": {
+      "name": "Velaurora",
+      "desc": "Riduce i danni subiti dalle mosse fisiche e dalle mosse speciali per cinque turni. Si può usare solo quando grandina."
+    },
+    "695": {
+      "name": "Dardoassalto Spettrale",
+      "desc": "Grazie al Potere Z, Decidueye crea una formazione di frecce che colpisce il bersaglio a gran velocità."
+    },
+    "696": {
+      "name": "Iperschianto delle Tenebre",
+      "desc": "Grazie al Potere Z, Incineroar richiama tutta la sua forza e si lancia impetuosamente sul bersaglio."
+    },
+    "697": {
+      "name": "Sinfonia del Mare",
+      "desc": "Grazie al Potere Z, Primarina concentra un’enorme quantità d’acqua e attacca il bersaglio con una potenza smisurata."
+    },
+    "698": {
+      "name": "Collera del Guardiano",
+      "desc": "Grazie al Potere Z, il Nume Locale evoca l’energia di Alola e attacca con grande potenza, facendo perdere al bersaglio la maggior parte dei suoi PS."
+    },
+    "699": {
+      "name": "Colpo Eptastellare Rubanima",
+      "desc": "Grazie al Potere Z, Marshadow fa appello a tutte le sue forze e colpisce il bersaglio con una scarica di calci e pugni potentissimi."
+    },
+    "700": {
+      "name": "Elettrosurf Folgorante",
+      "desc": "Grazie al Potere Z, il Raichu di Alola attacca con tutta la sua potenza e paralizza il bersaglio."
+    },
+    "701": {
+      "name": "Adesso Faccio sul Serio",
+      "desc": "Grazie al Potere Z, Snorlax tira fuori la grinta e, muovendo energicamente il suo enorme corpo, attacca il bersaglio con tutta la sua forza."
+    },
+    "702": {
+      "name": "Potenziamento Eevolutivo",
+      "desc": "Grazie al Potere Z, Eevee evoca a sé tutta l’energia delle sue possibili evoluzioni e aumenta di molto le sue statistiche."
+    },
+    "703": {
+      "name": "Supernova delle Origini",
+      "desc": "Grazie al Potere Z, Mew attacca il bersaglio con tutta la sua forza e genera un Campo Psichico a terra."
+    },
+    "704": {
+      "name": "Gusciotrappola",
+      "desc": "Il guscio del Pokémon diventa una trappola. Se un nemico lo colpisce con una mossa fisica, innesca un’esplosione e subisce dei danni."
+    },
+    "705": {
+      "name": "Cannonfiore",
+      "desc": "Colpisce il bersaglio con un potente raggio, ma riduce di molto l’Attacco Speciale di chi la usa."
+    },
+    "706": {
+      "name": "Psicozanna",
+      "desc": "Morde il bersaglio con delle zanne generate con l’energia psichica e rompe barriere come Riflesso e Schermoluce."
+    },
+    "707": {
+      "name": "Battipiedi",
+      "desc": "Chi la usa attacca battendo i piedi per la rabbia. Se la mossa usata al turno precedente non è andata a segno, la potenza raddoppia."
+    },
+    "708": {
+      "name": "Ossotetro",
+      "desc": "Chi la usa colpisce il bersaglio con un osso in cui alberga uno spirito. Può anche ridurne la Difesa."
+    },
+    "709": {
+      "name": "Rocciarapida",
+      "desc": "Chi la usa attacca il bersaglio colpendolo a tutta velocità. Questa mossa ha priorità alta."
+    },
+    "710": {
+      "name": "Idrobreccia",
+      "desc": "Chi la usa colpisce il bersaglio con la forza dell’acqua. Può anche ridurne la Difesa."
+    },
+    "711": {
+      "name": "Prismalaser",
+      "desc": "Chi la usa proietta dei potenti raggi di luce grazie alla potenza del suo prisma, ma non può agire nel turno successivo."
+    },
+    "712": {
+      "name": "Ombrafurto",
+      "desc": "Chi la usa ruba gli aumenti delle statistiche del bersaglio, poi si nasconde nella sua ombra e lo attacca."
+    },
+    "713": {
+      "name": "Astrocarica",
+      "desc": "Chi la usa travolge il bersaglio con la potenza di una meteora. Questo attacco ignora l’abilità del bersaglio."
+    },
+    "714": {
+      "name": "Raggio d’Ombra",
+      "desc": "Chi la usa proietta sul bersaglio un misterioso raggio di luce. Questo attacco ignora l’abilità del bersaglio."
+    },
+    "715": {
+      "name": "Occhionilucidi",
+      "desc": "Chi la usa guarda il bersaglio con gli occhi pieni di lacrime e gli fa perdere lo spirito combattivo, riducendone l’Attacco e l’Attacco Speciale."
+    },
+    "716": {
+      "name": "Elettropizzico",
+      "desc": "Chi la usa colpisce il bersaglio investendolo con una potente scarica elettrica che può anche farlo tentennare."
+    },
+    "717": {
+      "name": "Ira della Natura",
+      "desc": "Scatena l’ira della natura sul bersaglio e ne dimezza i PS."
+    },
+    "718": {
+      "name": "Multiattacco",
+      "desc": "Chi la usa si avvolge in un potente campo energetico e colpisce il bersaglio. Il tipo della mossa varia in base alla ROM installata."
+    },
+    "719": {
+      "name": "Iperfulmine",
+      "desc": "Grazie al Potere Z, Pikachu con il berretto scatena una potentissima scarica elettrica. Probabile brutto colpo."
+    },
+    "720": {
+      "name": "Sbalorditesta",
+      "desc": "Chi la usa fa esplodere la propria testa per attaccare tutti i Pokémon che ha intorno, ma subisce danni."
+    },
+    "721": {
+      "name": "Pugni Plasma",
+      "desc": "Chi la usa attacca con pugni carichi di elettricità. Trasforma le mosse di tipo Normale in mosse di tipo Elettro."
+    },
+    "722": {
+      "name": "Geyser Fotonico",
+      "desc": "Attacca il bersaglio con una colonna di luce. Infligge danni in base all’Attacco o all’Attacco Speciale scegliendo il più alto tra i due."
+    },
+    "723": {
+      "name": "Fotodistruzione Apocalittica",
+      "desc": "Infligge danni in base all’Attacco o all’Attacco Speciale scegliendo il più alto tra i due. Questo attacco ignora l’abilità del bersaglio."
+    },
+    "724": {
+      "name": "Supercollisione Solare",
+      "desc": "Grazie al Potere Z, Solgaleo attacca il bersaglio con tutta la sua forza. Questo attacco ignora l’abilità del bersaglio se questa ha effetto sulle mosse."
+    },
+    "725": {
+      "name": "Deflagrazione Lunare",
+      "desc": "Grazie al Potere Z, Lunala attacca il bersaglio con tutta la sua forza. Questo attacco ignora l’abilità del bersaglio se questa ha effetto sulle mosse."
+    },
+    "726": {
+      "name": "Dolcesacco di Botte",
+      "desc": "Grazie al Potere Z, Mimikyu fa appello a tutte le sue forze e attacca il bersaglio tempestandolo di colpi."
+    },
+    "727": {
+      "name": "Litotempesta Radiale",
+      "desc": "Grazie al Potere Z, Lycanroc attacca il bersaglio con tutta la sua forza. Questa mossa annulla anche gli eventuali campi attivi."
+    },
+    "728": {
+      "name": "Dracofonia Divampante",
+      "desc": "Grazie al Potere Z, Kommo-o attacca i nemici con tutta la sua forza. Inoltre, aumenta le proprie statistiche."
+    },
+    "729": {
+      "name": "Sprintaboom",
+      "desc": "Un attacco elettrico ad altissima velocità. Questa mossa ha priorità alta e infligge sicuramente un brutto colpo."
+    },
+    "730": {
+      "name": "Surfasplash",
+      "desc": "Colpisce il bersaglio con un’enorme onda caricata di elettricità che può anche paralizzarlo."
+    },
+    "731": {
+      "name": "Piombaflap",
+      "desc": "Chi la usa si libra in aria per poi piombare addosso al bersaglio. Può anche far tentennare il Pokémon colpito."
+    },
+    "732": {
+      "name": "Pikasaetta",
+      "desc": "Questa mossa infallibile diventa più potente con il rafforzarsi del rapporto tra Pikachu e l’Allenatore."
+    },
+    "733": {
+      "name": "Bollaslurp",
+      "desc": "Chi la usa colpisce il bersaglio con una raffica di bolle, per poi assorbirle e recuperare una quantità di PS pari alla metà del danno inferto."
+    },
+    "734": {
+      "name": "Elettrozap",
+      "desc": "Colpisce il bersaglio con una scarica elettrica che lo paralizza."
+    },
+    "735": {
+      "name": "Fiammabam",
+      "desc": "Chi la usa viene avvolto dalle fiamme e colpisce il bersaglio con forza, scottandolo."
+    },
+    "736": {
+      "name": "Auraswoosh",
+      "desc": "Colpisce il bersaglio ripetutamente con onde di forza psicocinetica e innalza una barriera fantastica che riduce i danni degli attacchi speciali nemici."
+    },
+    "737": {
+      "name": "Zona Buiabuia",
+      "desc": "Chi la usa scatena l’oscurità che ha dentro, colpendo il bersaglio e innalzando una barriera fantastica che riduce i danni degli attacchi fisici nemici."
+    },
+    "738": {
+      "name": "Bombafrush",
+      "desc": "Fa crescere un’enorme pianta che colpisce il bersaglio con una pioggia di semi. Questi sottraggono PS a ogni turno permettendo a chi la usa di curarsi."
+    },
+    "739": {
+      "name": "Scricchiagelo",
+      "desc": "Chi la usa attacca il bersaglio con un cristallo formato da una nube nera congelata, che annulla ogni modifica alle statistiche di tutti i Pokémon."
+    },
+    "740": {
+      "name": "Sbrilluccibufera",
+      "desc": "Chi la usa attacca il bersaglio avvolgendolo in un turbine di profumi soffocanti e cura i problemi di stato propri e degli alleati."
+    },
+    "741": {
+      "name": "Eeveempatto",
+      "desc": "Questa mossa infallibile diventa più potente con il rafforzarsi del rapporto tra Eevee e l’Allenatore."
+    },
+    "742": {
+      "name": "Pugni Corazzati",
+      "desc": "Chi la usa attacca il bersaglio due volte ruotando su se stesso e colpendolo con le braccia. Può anche farlo tentennare."
+    },
+    "743": {
+      "name": "Dynabarriera",
+      "desc": "Permette di eludere tutti gli attacchi. Se usata in successione può fallire."
+    },
+    "744": {
+      "name": "Cannone Dynamax",
+      "desc": "Chi la usa attacca emettendo un raggio dal suo nucleo. Se l’avversario è dynamaxizzato causa il doppio dei danni."
+    },
+    "745": {
+      "name": "Tiromirato",
+      "desc": "Permette di attaccare un bersaglio ignorando gli effetti di mosse e abilità che attirano altre mosse."
+    },
+    "746": {
+      "name": "Morsostretto",
+      "desc": "Impedisce a chi la usa e al bersaglio di essere sostituiti finché non vanno KO. L’effetto svanisce se uno dei due lascia il campo."
+    },
+    "747": {
+      "name": "Riempiguance",
+      "desc": "Se chi la usa ha con sé una bacca, la mangia e la sua Difesa aumenta di molto."
+    },
+    "748": {
+      "name": "Spalle al Muro",
+      "desc": "Chi la usa aumenta tutte le sue statistiche ma non può più fuggire o essere sostituito."
+    },
+    "749": {
+      "name": "Colpocatrame",
+      "desc": "Chi la usa getta catrame appiccicoso sul bersaglio abbassandone la Velocità e rendendolo vulnerabile al tipo Fuoco."
+    },
+    "750": {
+      "name": "Magipolvere",
+      "desc": "Chi la usa getta addosso al bersaglio una polvere magica che lo rende di tipo Psico."
+    },
+    "751": {
+      "name": "Dragofrecce",
+      "desc": "Chi la usa attacca due volte sparando Dreepy. Quando sono presenti due bersagli, vengono colpiti entrambi una sola volta."
+    },
+    "752": {
+      "name": "Ora del Tè",
+      "desc": "Chi la usa invita tutti i Pokémon in campo a prendere il tè. Quelli che hanno con sé una bacca la mangiano."
+    },
+    "753": {
+      "name": "Tentacolock",
+      "desc": "Chi la usa immobilizza il bersaglio impedendogli di fuggire e ne diminuisce la Difesa e la Difesa Speciale a ogni turno."
+    },
+    "754": {
+      "name": "Beccoshock",
+      "desc": "Chi la usa attacca il bersaglio con il becco appuntito carico d’elettricità. Se attacca per primo, la potenza della mossa raddoppia."
+    },
+    "755": {
+      "name": "Branchiomorso",
+      "desc": "Chi la usa morde il bersaglio con le dure branchie. Se attacca per primo, la potenza della mossa raddoppia."
+    },
+    "756": {
+      "name": "Cambiocampo",
+      "desc": "Una forza misteriosa inverte gli effetti attivi sul campo alleato e sul campo avversario."
+    },
+    "757": {
+      "name": "Dynafiammata",
+      "desc": "Un attacco di tipo Fuoco che può essere eseguito dai Pokémon dynamaxizzati. Intensifica i raggi solari per cinque turni."
+    },
+    "758": {
+      "name": "Dynainsetto",
+      "desc": "Un attacco di tipo Coleottero che può essere eseguito dai Pokémon dynamaxizzati. Riduce l’Attacco Speciale dei nemici intorno."
+    },
+    "759": {
+      "name": "Dynasaetta",
+      "desc": "Un attacco di tipo Elettro che può essere eseguito dai Pokémon dynamaxizzati. Per cinque turni il terreno entra nello stato di Campo Elettrico."
+    },
+    "760": {
+      "name": "Dynattacco",
+      "desc": "Un attacco di tipo Normale che può essere eseguito dai Pokémon dynamaxizzati. Riduce la Velocità dei nemici intorno."
+    },
+    "761": {
+      "name": "Dynapugno",
+      "desc": "Un attacco di tipo Lotta che può essere eseguito dai Pokémon dynamaxizzati. Aumenta l’Attacco degli alleati."
+    },
+    "762": {
+      "name": "Dynavuoto",
+      "desc": "Un attacco di tipo Spettro che può essere eseguito dai Pokémon dynamaxizzati. Riduce la Difesa dei nemici intorno."
+    },
+    "763": {
+      "name": "Dynagelo",
+      "desc": "Un attacco di tipo Ghiaccio che può essere eseguito dai Pokémon dynamaxizzati. Causa una grandinata che dura per cinque turni."
+    },
+    "764": {
+      "name": "Dynacorrosione",
+      "desc": "Un attacco di tipo Veleno che può essere eseguito dai Pokémon dynamaxizzati. Aumenta l’Attacco Speciale degli alleati."
+    },
+    "765": {
+      "name": "Dynaflusso",
+      "desc": "Un attacco di tipo Acqua che può essere eseguito dai Pokémon dynamaxizzati. Provoca una forte pioggia per cinque turni."
+    },
+    "766": {
+      "name": "Dynajet",
+      "desc": "Un attacco di tipo Volante che può essere eseguito dai Pokémon dynamaxizzati. Aumenta la Velocità degli alleati."
+    },
+    "767": {
+      "name": "Dynafata",
+      "desc": "Un attacco di tipo Folletto che può essere eseguito dai Pokémon dynamaxizzati. Per cinque turni il terreno entra nello stato di Campo Nebbioso."
+    },
+    "768": {
+      "name": "Dynadragone",
+      "desc": "Un attacco di tipo Drago che può essere eseguito dai Pokémon dynamaxizzati. Riduce l’Attacco dei nemici intorno."
+    },
+    "769": {
+      "name": "Dynapsiche",
+      "desc": "Un attacco di tipo Psico che può essere eseguito dai Pokémon dynamaxizzati. Per cinque turni il terreno entra nello stato di Campo Psichico."
+    },
+    "770": {
+      "name": "Dynamacigno",
+      "desc": "Un attacco di tipo Roccia che può essere eseguito dai Pokémon dynamaxizzati. Causa una tempesta di sabbia per cinque turni."
+    },
+    "771": {
+      "name": "Dynasisma",
+      "desc": "Un attacco di tipo Terra che può essere eseguito dai Pokémon dynamaxizzati. Aumenta la Difesa Speciale degli alleati."
+    },
+    "772": {
+      "name": "Dynatenebre",
+      "desc": "Un attacco di tipo Buio che può essere eseguito dai Pokémon dynamaxizzati. Riduce la Difesa Speciale dei nemici intorno."
+    },
+    "773": {
+      "name": "Dynaflora",
+      "desc": "Un attacco di tipo Erba che può essere eseguito dai Pokémon dynamaxizzati. Per cinque turni il terreno entra nello stato di Campo Erboso."
+    },
+    "774": {
+      "name": "Dynametallo",
+      "desc": "Un attacco di tipo Acciaio che può essere eseguito dai Pokémon dynamaxizzati. Aumenta la Difesa degli alleati."
+    },
+    "775": {
+      "name": "Dracofonia",
+      "desc": "Chi la usa sacrifica un po’ dei suoi PS per aumentare tutte le sue statistiche."
+    },
+    "776": {
+      "name": "Schiacciacorpo",
+      "desc": "Chi la usa schiaccia il bersaglio con il suo corpo. Più la sua Difesa è alta, maggiori sono i danni inflitti."
+    },
+    "777": {
+      "name": "Decorazione",
+      "desc": "Chi la usa agghinda il bersaglio con delle decorazioni aumentandone di molto l’Attacco e l’Attacco Speciale."
+    },
+    "778": {
+      "name": "Tamburattacco",
+      "desc": "Chi la usa percuote il proprio tamburo per controllarne le radici e attaccare il bersaglio, riducendone la Velocità."
+    },
+    "779": {
+      "name": "Tagliola",
+      "desc": "Chi la usa intrappola il bersaglio in una tagliola e lo attacca per quattro o cinque turni."
+    },
+    "780": {
+      "name": "Palla Infuocata",
+      "desc": "Chi la usa attacca con una palla creata incendiando una piccola pietra. Può anche scottare il bersaglio."
+    },
+    "781": {
+      "name": "Taglio Maestoso",
+      "desc": "Chi la usa si trasforma in un’enorme spada e attacca. Se il bersaglio è dynamaxizzato, causa il doppio dei danni."
+    },
+    "782": {
+      "name": "Colpo Maestoso",
+      "desc": "Chi la usa si trasforma in un enorme scudo e attacca. Se il bersaglio è dynamaxizzato, causa il doppio dei danni."
+    },
+    "783": {
+      "name": "Ruota d’Aura",
+      "desc": "Chi la usa emette l’energia accumulata nelle guance per attaccare e aumentare la propria Velocità. Il tipo della mossa cambia in base alla forma assunta da Morpeko."
+    },
+    "784": {
+      "name": "Vastoimpatto",
+      "desc": "Chi la usa attacca i nemici intorno con la sua robusta coda riducendone l’Attacco."
+    },
+    "785": {
+      "name": "Ramostoccata",
+      "desc": "Chi la usa attacca il bersaglio con un ramo incredibilmente appuntito."
+    },
+    "786": {
+      "name": "Overdrive",
+      "desc": "Chi la usa suona la chitarra o il basso creando un’onda sonora potentissima con cui attacca il bersaglio."
+    },
+    "787": {
+      "name": "Acido Malico",
+      "desc": "Chi la usa attacca il bersaglio con un liquido acido ricavato da mele aspre riducendone la Difesa Speciale."
+    },
+    "788": {
+      "name": "Forza G",
+      "desc": "Chi la usa fa cadere una mela sul bersaglio da una grande altezza, infliggendogli danni e riducendone la Difesa."
+    },
+    "789": {
+      "name": "Frantumanima",
+      "desc": "Chi la usa attacca il bersaglio con un tale impeto da fargli perdere la voglia di lottare e ne riduce l’Attacco Speciale."
+    },
+    "790": {
+      "name": "Vapore Incantato",
+      "desc": "Chi la usa attacca il bersaglio con getti di vapore che possono anche confonderlo."
+    },
+    "791": {
+      "name": "Goccia Vitale",
+      "desc": "Sparge tutt’intorno dell’acqua misteriosa che fa recuperare PS a sé a agli alleati in campo."
+    },
+    "792": {
+      "name": "Sbarramento",
+      "desc": "Permette di eludere tutti gli attacchi. Se usata in successione può fallire. Se un Pokémon tocca chi la usa, la sua Difesa diminuisce di molto."
+    },
+    "793": {
+      "name": "Supplicolpo",
+      "desc": "Chi la usa finge di abbassare la testa a mo’ di supplica e attacca il bersaglio con i suoi capelli scarmigliati. Questa mossa va sempre a segno."
+    },
+    "794": {
+      "name": "Sfolgorassalto",
+      "desc": "Chi la usa attacca il bersaglio brandendo un grosso gambo, ma perde l’equilibrio e nel turno successivo non può agire."
+    },
+    "795": {
+      "name": "Raggio Infinito",
+      "desc": "È l’attacco più potente di Eternatus quando assume la sua forma originale. Nel turno successivo non può agire."
+    },
+    "796": {
+      "name": "Raggio d’Acciaio",
+      "desc": "Chi la usa utilizza l’acciaio del proprio corpo per sparare un violento raggio, ma subisce danni."
+    },
+    "797": {
+      "name": "Vastenergia",
+      "desc": "Chi la usa attacca il bersaglio con energia psichica. Se utilizzata quando è attivo un Campo Psichico, la mossa aumenta di potenza e danneggia tutti i nemici."
+    },
+    "798": {
+      "name": "Ferrorullo",
+      "desc": "Chi la usa attacca eliminando lo stato del terreno di lotta. La mossa fallisce se nel terreno non è attivo alcuno stato."
+    },
+    "799": {
+      "name": "Squamacolpo",
+      "desc": "Il Pokémon attacca lanciando delle squame da due a cinque volte di fila. Aumenta la Velocità di chi la usa, ma ne riduce la Difesa."
+    },
+    "800": {
+      "name": "Raggiometeora",
+      "desc": "Chi la usa accumula l’energia dello spazio nel primo turno per aumentare l’Attacco Speciale, quindi attacca nel turno successivo."
+    },
+    "801": {
+      "name": "Armaguscio",
+      "desc": "Il Pokémon esegue un attacco fisico o speciale, in base a quale causa danni maggiori. Può anche avvelenare il bersaglio."
+    },
+    "802": {
+      "name": "Nebbioscoppio",
+      "desc": "Chi la usa attacca tutti i Pokémon che ha intorno, ma poi va KO. La potenza della mossa aumenta quando è attivo un Campo Nebbioso."
+    },
+    "803": {
+      "name": "Erboscivolata",
+      "desc": "Chi la usa attacca il bersaglio scivolando sul terreno. Se utilizzata quando è attivo un Campo Erboso, ha priorità alta."
+    },
+    "804": {
+      "name": "Elettroimpennata",
+      "desc": "Chi la usa attacca con dell’elettricità che si alza dal suolo. La potenza della mossa raddoppia quando l’avversario si trova in un Campo Elettrico."
+    },
+    "805": {
+      "name": "Campopulsar",
+      "desc": "Chi la usa attacca sfruttando l’energia del terreno di lotta. Il tipo e la potenza della mossa variano a seconda dello stato del terreno stesso."
+    },
+    "806": {
+      "name": "Strisciacolpo",
+      "desc": "Chi la usa attacca il bersaglio strisciandogli alle spalle e riducendo il suo Attacco Speciale."
+    },
+    "807": {
+      "name": "Fiamminvidia",
+      "desc": "Chi la usa attacca con la forza dell’invidia, causando una scottatura a tutti i Pokémon le cui statistiche sono aumentate durante quel turno."
+    },
+    "808": {
+      "name": "Sfogarabbia",
+      "desc": "Chi la usa attacca il bersaglio con tutta la propria ira. Se ha subito riduzioni delle statistiche durante quel turno, la potenza della mossa raddoppia."
+    },
+    "809": {
+      "name": "Poltergeist",
+      "desc": "Chi la usa attacca utilizzando lo strumento del bersaglio. La mossa fallisce se quest’ultimo non ha uno strumento."
+    },
+    "810": {
+      "name": "Gas Corrosivo",
+      "desc": "Chi la usa avvolge tutti i Pokémon che ha intorno in un gas altamente acido, dissolvendo i loro strumenti."
+    },
+    "811": {
+      "name": "Coaching",
+      "desc": "Chi la usa aumenta l’Attacco e la Difesa di tutti gli alleati dando loro indicazioni precise."
+    },
+    "812": {
+      "name": "Virata",
+      "desc": "Chi usa questa mossa fa marcia indietro per farsi sostituire dopo aver sferrato l’attacco."
+    },
+    "813": {
+      "name": "Triplo Axel",
+      "desc": "Chi la usa sferra fino a tre calci consecutivi la cui potenza aumenta a ogni colpo."
+    },
+    "814": {
+      "name": "Doppia Ala",
+      "desc": "Chi la usa colpisce il bersaglio due volte di fila urtandolo con le ali."
+    },
+    "815": {
+      "name": "Sabbiardente",
+      "desc": "Chi la usa attacca il bersaglio scagliandogli addosso della sabbia incandescente. Può anche scottarlo."
+    },
+    "816": {
+      "name": "Giunglacura",
+      "desc": "Il Pokémon diventa tutt’uno con la giungla, ripristinando i PS e curando i problemi di stato per sé e per l’alleato in campo."
+    },
+    "817": {
+      "name": "Pugnotenebra",
+      "desc": "Il Pokémon sferra un singolo colpo potentissimo, massima espressione dello stile di tipo Buio. Brutto colpo assicurato."
+    },
+    "818": {
+      "name": "Idroraffica",
+      "desc": "Il Pokémon sferra una fluida serie di tre attacchi, massima espressione dello stile di tipo Acqua. Brutto colpo assicurato."
+    },
+    "819": {
+      "name": "Elettrogabbia",
+      "desc": "Il Pokémon attacca il bersaglio imprigionandolo in una gabbia di elettricità, che sprigiona corrente per quattro o cinque turni."
+    },
+    "820": {
+      "name": "Dragoenergia",
+      "desc": "Il Pokémon attacca i nemici convertendo la propria forza vitale in energia. La potenza della mossa cala man mano che i PS diminuiscono."
+    },
+    "821": {
+      "name": "Sguardo Gelido",
+      "desc": "Il Pokémon attacca rilasciando energia psichica dagli occhi. Può congelare il bersaglio."
+    },
+    "822": {
+      "name": "Furia Ardente",
+      "desc": "Il Pokémon attacca trasformando la sua rabbia in un’aura simile a fiamme. Può anche far tentennare i nemici."
+    },
+    "823": {
+      "name": "Calcio Tonante",
+      "desc": "Il Pokémon sferra calci al bersaglio dopo averlo distratto con movimenti fulminei, riducendone la Difesa."
+    },
+    "824": {
+      "name": "Lancia Glaciale",
+      "desc": "Il Pokémon attacca i nemici scagliando una lancia di ghiaccio accompagnata da una tormenta di neve."
+    },
+    "825": {
+      "name": "Schegge Astrali",
+      "desc": "Il Pokémon attacca i nemici scatenandogli contro una miriade di piccoli spettri."
+    },
+    "826": {
+      "name": "Inquietantesimo",
+      "desc": "Il Pokémon attacca con i suoi potenti poteri psichici. Sottrae tre PP all’ultima mossa usata dal nemico."
+    },
+    "827": {
+      "name": "Artigli Fatali",
+      "desc": ""
+    },
+    "828": {
+      "name": "Barrierassalto",
+      "desc": ""
+    },
+    "829": {
+      "name": "Scambioforza",
+      "desc": ""
+    },
+    "830": {
+      "name": "Rocciascure",
+      "desc": ""
+    },
+    "831": {
+      "name": "Tempesta Zefirea",
+      "desc": ""
+    },
+    "832": {
+      "name": "Forza Mistica",
+      "desc": ""
+    },
+    "833": {
+      "name": "Ira Furente",
+      "desc": ""
+    },
+    "834": {
+      "name": "Ondaschianto",
+      "desc": ""
+    },
+    "835": {
+      "name": "Clorofillaser",
+      "desc": ""
+    },
+    "836": {
+      "name": "Soffio d’Iceberg",
+      "desc": ""
+    },
+    "837": {
+      "name": "Danzavittoria",
+      "desc": ""
+    },
+    "838": {
+      "name": "Scontro Frontale",
+      "desc": ""
+    },
+    "839": {
+      "name": "Mille Fielespine",
+      "desc": ""
+    },
+    "840": {
+      "name": "Ali d’Aura",
+      "desc": ""
+    },
+    "841": {
+      "name": "Livore",
+      "desc": ""
+    },
+    "842": {
+      "name": "Barricata",
+      "desc": ""
+    },
+    "843": {
+      "name": "Triplodardo",
+      "desc": ""
+    },
+    "844": {
+      "name": "Corteo Spettrale",
+      "desc": ""
+    },
+    "845": {
+      "name": "Lama Milleflutti",
+      "desc": ""
+    },
+    "846": {
+      "name": "Tempesta Boreale",
+      "desc": ""
+    },
+    "847": {
+      "name": "Tempesta Tonante",
+      "desc": ""
+    },
+    "848": {
+      "name": "Tempesta Ardente",
+      "desc": ""
+    },
+    "849": {
+      "name": "Invocaluna",
+      "desc": ""
+    },
+    "850": {
+      "name": "Baldimpulso",
+      "desc": ""
+    },
+    "851": {
+      "name": "Terascoppio",
+      "desc": ""
+    },
+    "852": {
+      "name": "Telatrappola",
+      "desc": ""
+    },
+    "853": {
+      "name": "Calcio ad Ascia",
+      "desc": ""
+    },
+    "854": {
+      "name": "Omaggio ai KO",
+      "desc": ""
+    },
+    "855": {
+      "name": "Fotocollisione",
+      "desc": ""
+    },
+    "856": {
+      "name": "Alta Cucina",
+      "desc": ""
+    },
+    "857": {
+      "name": "Pugnojet",
+      "desc": ""
+    },
+    "858": {
+      "name": "Essenza Piccante",
+      "desc": ""
+    },
+    "859": {
+      "name": "Slittaruote",
+      "desc": ""
+    },
+    "860": {
+      "name": "Infestazione",
+      "desc": ""
+    },
+    "861": {
+      "name": "Vortighiaccio",
+      "desc": ""
+    },
+    "862": {
+      "name": "Spadoncarica",
+      "desc": ""
+    },
+    "863": {
+      "name": "Preghiera Vitale",
+      "desc": ""
+    },
+    "864": {
+      "name": "Sotto Sale",
+      "desc": ""
+    },
+    "865": {
+      "name": "Triplo Tuffo",
+      "desc": ""
+    },
+    "866": {
+      "name": "Glitturbine",
+      "desc": ""
+    },
+    "867": {
+      "name": "Ricalco",
+      "desc": ""
+    },
+    "868": {
+      "name": "Alleggerimento",
+      "desc": ""
+    },
+    "869": {
+      "name": "Genufendente",
+      "desc": ""
+    },
+    "870": {
+      "name": "Prestigiafiore",
+      "desc": ""
+    },
+    "871": {
+      "name": "Canzone Ardente",
+      "desc": ""
+    },
+    "872": {
+      "name": "Idroballetto",
+      "desc": ""
+    },
+    "873": {
+      "name": "Scatenatoro",
+      "desc": ""
+    },
+    "874": {
+      "name": "Corsa all’Oro",
+      "desc": ""
+    },
+    "875": {
+      "name": "Psicolama",
+      "desc": ""
+    },
+    "876": {
+      "name": "Idrovapore",
+      "desc": ""
+    },
+    "877": {
+      "name": "Catastrofe",
+      "desc": ""
+    },
+    "878": {
+      "name": "Turboschianto",
+      "desc": ""
+    },
+    "879": {
+      "name": "Fulmiscatto",
+      "desc": ""
+    },
+    "880": {
+      "name": "Tagliacoda",
+      "desc": ""
+    },
+    "881": {
+      "name": "Freddura",
+      "desc": ""
+    },
+    "882": {
+      "name": "Pulizie",
+      "desc": ""
+    },
+    "883": {
+      "name": "Vista Innevata",
+      "desc": ""
+    },
+    "884": {
+      "name": "Balzo",
+      "desc": ""
+    },
+    "885": {
+      "name": "Apripista",
+      "desc": ""
+    },
+    "886": {
+      "name": "Doccia Fredda",
+      "desc": ""
+    },
+    "887": {
+      "name": "Ipertrapano",
+      "desc": ""
+    },
+    "888": {
+      "name": "Doppioraggio",
+      "desc": ""
+    },
+    "889": {
+      "name": "Pugno Furibondo",
+      "desc": ""
+    },
+    "890": {
+      "name": "Corazza Cannone",
+      "desc": ""
+    },
+    "891": {
+      "name": "Lama del Rimorso",
+      "desc": ""
+    },
+    "892": {
+      "name": "Doppiolampo",
+      "desc": ""
+    },
+    "893": {
+      "name": "Granmartello",
+      "desc": ""
+    },
+    "894": {
+      "name": "Ritorsione",
+      "desc": ""
+    },
+    "895": {
+      "name": "Idrotaglio",
+      "desc": ""
+    },
+    "896": {
+      "name": "Turboustione",
+      "desc": ""
+    },
+    "897": {
+      "name": "Turbotenebra",
+      "desc": ""
+    },
+    "898": {
+      "name": "Turbotossina",
+      "desc": ""
+    },
+    "899": {
+      "name": "Turborissa",
+      "desc": ""
+    },
+    "900": {
+      "name": "Turboincanto",
+      "desc": ""
+    },
+    "901": {
+      "name": "Luna Rossa",
+      "desc": ""
+    },
+    "902": {
+      "name": "Spruzzatè",
+      "desc": ""
+    },
+    "903": {
+      "name": "Bomba Sciroppata",
+      "desc": ""
+    },
+    "904": {
+      "name": "Clava di Liane",
+      "desc": ""
+    },
+    "905": {
+      "name": "Elettroraggio",
+      "desc": ""
+    },
+    "906": {
+      "name": "Teracluster",
+      "desc": ""
+    },
+    "907": {
+      "name": "Irregolaser",
+      "desc": ""
+    },
+    "908": {
+      "name": "Egida Ignea",
+      "desc": ""
+    },
+    "909": {
+      "name": "Saetta",
+      "desc": ""
+    },
+    "910": {
+      "name": "Taglio Poderoso",
+      "desc": ""
+    },
+    "911": {
+      "name": "Tachiontaglio",
+      "desc": ""
+    },
+    "912": {
+      "name": "Pressa d’Acciaio",
+      "desc": ""
+    },
+    "913": {
+      "name": "Grido del Drago",
+      "desc": ""
+    },
+    "914": {
+      "name": "Ammaliavoce",
+      "desc": ""
+    },
+    "915": {
+      "name": "Rabbia Bruciante",
+      "desc": ""
+    },
+    "916": {
+      "name": "Elettrotuffo",
+      "desc": ""
+    },
+    "917": {
+      "name": "Psicorumore",
+      "desc": ""
+    },
+    "918": {
+      "name": "Colpo di Mano",
+      "desc": ""
+    },
+    "919": {
+      "name": "Intossicatena",
+      "desc": ""
+    },
+    "10001": {
+      "name": "Ombroraffica",
+      "desc": ""
+    },
+    "10002": {
+      "name": "Ombrolame",
+      "desc": ""
+    },
+    "10003": {
+      "name": "Ombrattacco",
+      "desc": ""
+    },
+    "10004": {
+      "name": "Fulminombra",
+      "desc": ""
+    },
+    "10005": {
+      "name": "Ombrospinta",
+      "desc": ""
+    },
+    "10006": {
+      "name": "Gelodombra",
+      "desc": ""
+    },
+    "10007": {
+      "name": "Fineoscuro",
+      "desc": ""
+    },
+    "10008": {
+      "name": "Fuocoscuro",
+      "desc": ""
+    },
+    "10009": {
+      "name": "Ombrolancia",
+      "desc": ""
+    },
+    "10010": {
+      "name": "Turbinombra",
+      "desc": ""
+    },
+    "10011": {
+      "name": "Ondascura",
+      "desc": ""
+    },
+    "10012": {
+      "name": "Declinoscuro",
+      "desc": ""
+    },
+    "10013": {
+      "name": "Iraoscura",
+      "desc": ""
+    },
+    "10014": {
+      "name": "Retedombra",
+      "desc": ""
+    },
+    "10015": {
+      "name": "Nebbiascura",
+      "desc": ""
+    },
+    "10016": {
+      "name": "Ombrapanico",
+      "desc": ""
+    },
+    "10017": {
+      "name": "Ombrannulla",
+      "desc": ""
+    },
+    "10018": {
+      "name": "Cieloscuro",
+      "desc": ""
+    }
+  },
+  "abilities": {
+    "1": {
+      "name": "Tanfo",
+      "desc": "A volte il cattivo odore fa tentennare i nemici."
+    },
+    "2": {
+      "name": "Piovischio",
+      "desc": "Quando scende in campo, il Pokémon attira la pioggia."
+    },
+    "3": {
+      "name": "Acceleratore",
+      "desc": "La statistica Velocità aumenta gradualmente."
+    },
+    "4": {
+      "name": "Lottascudo",
+      "desc": "Evita che il Pokémon subisca brutti colpi."
+    },
+    "5": {
+      "name": "Vigore",
+      "desc": "Evita che il Pokémon vada KO in un sol colpo."
+    },
+    "6": {
+      "name": "Umidità",
+      "desc": "Impedisce le mosse autodistruttive."
+    },
+    "7": {
+      "name": "Scioltezza",
+      "desc": "Il Pokémon è protetto contro la paralisi."
+    },
+    "8": {
+      "name": "Sabbiavelo",
+      "desc": "L’elusione aumenta durante le tempeste di sabbia."
+    },
+    "9": {
+      "name": "Statico",
+      "desc": "Il contatto fisico con il Pokémon può causare paralisi."
+    },
+    "10": {
+      "name": "Assorbivolt",
+      "desc": "Ridà PS se il Pokémon subisce una mossa di tipo Elettro."
+    },
+    "11": {
+      "name": "Assorbacqua",
+      "desc": "Ridà PS se il Pokémon subisce una mossa di tipo Acqua."
+    },
+    "12": {
+      "name": "Indifferenza",
+      "desc": "Protegge il Pokémon da infatuazioni e provocazioni."
+    },
+    "13": {
+      "name": "Antimeteo",
+      "desc": "Neutralizza gli effetti delle condizioni atmosferiche."
+    },
+    "14": {
+      "name": "Insettocchi",
+      "desc": "Aumenta la precisione del Pokémon."
+    },
+    "15": {
+      "name": "Insonnia",
+      "desc": "Impedisce al Pokémon di addormentarsi."
+    },
+    "16": {
+      "name": "Cambiacolore",
+      "desc": "Il Pokémon acquisisce il tipo della mossa subita."
+    },
+    "17": {
+      "name": "Immunità",
+      "desc": "Impedisce al Pokémon di venire avvelenato."
+    },
+    "18": {
+      "name": "Fuocardore",
+      "desc": "Potenzia le proprie mosse Fuoco se se ne subisce una."
+    },
+    "19": {
+      "name": "Polvoscudo",
+      "desc": "Annulla gli effetti secondari delle mosse subite."
+    },
+    "20": {
+      "name": "Mente Locale",
+      "desc": "Impedisce al Pokémon di venire confuso."
+    },
+    "21": {
+      "name": "Ventose",
+      "desc": "Resiste a strumenti e mosse di sostituzione."
+    },
+    "22": {
+      "name": "Prepotenza",
+      "desc": "Riduce la statistica Attacco del nemico."
+    },
+    "23": {
+      "name": "Pedinombra",
+      "desc": "Impedisce la fuga al nemico."
+    },
+    "24": {
+      "name": "Cartavetro",
+      "desc": "Il nemico che manda a segno una mossa fisica viene danneggiato."
+    },
+    "25": {
+      "name": "Magidifesa",
+      "desc": "Rende vulnerabili solo alle mosse superefficaci."
+    },
+    "26": {
+      "name": "Levitazione",
+      "desc": "Conferisce immunità dagli attacchi di tipo Terra."
+    },
+    "27": {
+      "name": "Spargispora",
+      "desc": "Al contatto può causare avvelenamento, paralisi o sonno."
+    },
+    "28": {
+      "name": "Sincronismo",
+      "desc": "Avvelena, paralizza o scotta il nemico che infligge lo stato."
+    },
+    "29": {
+      "name": "Corpochiaro",
+      "desc": "Le statistiche del Pokémon non possono essere ridotte."
+    },
+    "30": {
+      "name": "Alternacura",
+      "desc": "Cura i problemi di stato quando il Pokémon viene sostituito."
+    },
+    "31": {
+      "name": "Parafulmine",
+      "desc": "Neutralizza mosse di tipo Elettro per aumentare l’Attacco Speciale."
+    },
+    "32": {
+      "name": "Leggiadro",
+      "desc": "Gli effetti secondari delle mosse sono più probabili."
+    },
+    "33": {
+      "name": "Nuotovelox",
+      "desc": "Se piove, la statistica Velocità aumenta."
+    },
+    "34": {
+      "name": "Clorofilla",
+      "desc": "Se c’è il sole, la statistica Velocità aumenta."
+    },
+    "35": {
+      "name": "Risplendi",
+      "desc": "È più probabile incontrare Pokémon selvatici."
+    },
+    "36": {
+      "name": "Traccia",
+      "desc": "Copia l’abilità del nemico."
+    },
+    "37": {
+      "name": "Macroforza",
+      "desc": "Migliora la statistica Attacco del Pokémon."
+    },
+    "38": {
+      "name": "Velenopunto",
+      "desc": "Può avvelenare chi manda a segno una mossa fisica."
+    },
+    "39": {
+      "name": "Forza Interiore",
+      "desc": "Evita che il Pokémon tentenni."
+    },
+    "40": {
+      "name": "Magmascudo",
+      "desc": "Evita che il Pokémon venga congelato."
+    },
+    "41": {
+      "name": "Idrovelo",
+      "desc": "Evita che il Pokémon resti scottato."
+    },
+    "42": {
+      "name": "Magnetismo",
+      "desc": "Impedisce la fuga ai Pokémon di tipo Acciaio."
+    },
+    "43": {
+      "name": "Antisuono",
+      "desc": "Fornisce immunità alle mosse basate sul suono."
+    },
+    "44": {
+      "name": "Copripioggia",
+      "desc": "Il Pokémon recupera PS quando piove."
+    },
+    "45": {
+      "name": "Sabbiafiume",
+      "desc": "Causa una tempesta di sabbia durante la lotta."
+    },
+    "46": {
+      "name": "Pressione",
+      "desc": "Il nemico usa più PP."
+    },
+    "47": {
+      "name": "Grassospesso",
+      "desc": "Aumenta la resistenza alle mosse di tipo Fuoco e Ghiaccio."
+    },
+    "48": {
+      "name": "Sveglialampo",
+      "desc": "Il Pokémon si risveglia rapidamente dal sonno."
+    },
+    "49": {
+      "name": "Corpodifuoco",
+      "desc": "Al contatto subito, chi sferra l’attacco può venire scottato."
+    },
+    "50": {
+      "name": "Fugafacile",
+      "desc": "Garantisce la fuga dai Pokémon selvatici."
+    },
+    "51": {
+      "name": "Sguardofermo",
+      "desc": "Evita che la precisione diminuisca."
+    },
+    "52": {
+      "name": "Ipertaglio",
+      "desc": "Evita che la statistica Attacco venga ridotta."
+    },
+    "53": {
+      "name": "Raccolta",
+      "desc": "Aumenta la probabilità di trovare strumenti."
+    },
+    "54": {
+      "name": "Pigrone",
+      "desc": "Il Pokémon attacca un turno sì e uno no."
+    },
+    "55": {
+      "name": "Tuttafretta",
+      "desc": "Aumenta l’Attacco, ma riduce la precisione."
+    },
+    "56": {
+      "name": "Incantevole",
+      "desc": "Al contatto subito, chi sferra l’attacco può infatuarsi."
+    },
+    "57": {
+      "name": "Più",
+      "desc": "Aumenta l’Attacco Speciale se ci sono Pokémon con Meno o Più."
+    },
+    "58": {
+      "name": "Meno",
+      "desc": "Aumenta l’Attacco Speciale se ci sono Pokémon con Meno o Più."
+    },
+    "59": {
+      "name": "Previsioni",
+      "desc": "La forma di Castform cambia in base alle condizioni atmosferiche."
+    },
+    "60": {
+      "name": "Antifurto",
+      "desc": "Protegge il Pokémon dal furto di strumenti."
+    },
+    "61": {
+      "name": "Muta",
+      "desc": "Può curare i problemi di stato del Pokémon."
+    },
+    "62": {
+      "name": "Dentistretti",
+      "desc": "Aumenta l’Attacco in caso di problemi di stato."
+    },
+    "63": {
+      "name": "Pelledura",
+      "desc": "Aumenta la Difesa in caso di problemi di stato."
+    },
+    "64": {
+      "name": "Melma",
+      "desc": "Danneggia i Pokémon che usano mosse ruba-PS."
+    },
+    "65": {
+      "name": "Erbaiuto",
+      "desc": "Quando si è in difficoltà, potenzia le mosse di tipo Erba."
+    },
+    "66": {
+      "name": "Aiutofuoco",
+      "desc": "Quando si è in difficoltà, potenzia le mosse di tipo Fuoco."
+    },
+    "67": {
+      "name": "Acquaiuto",
+      "desc": "Quando si è in difficoltà, potenzia le mosse di tipo Acqua."
+    },
+    "68": {
+      "name": "Aiutinsetto",
+      "desc": "Quando si è in difficoltà, potenzia le mosse di tipo Coleottero."
+    },
+    "69": {
+      "name": "Testadura",
+      "desc": "Protegge il Pokémon dai contraccolpi."
+    },
+    "70": {
+      "name": "Siccità",
+      "desc": "Il sole brilla intensamente quando il Pokémon entra in campo."
+    },
+    "71": {
+      "name": "Trappoarena",
+      "desc": "Impedisce la fuga al nemico."
+    },
+    "72": {
+      "name": "Spiritovivo",
+      "desc": "Impedisce al Pokémon di addormentarsi."
+    },
+    "73": {
+      "name": "Fumochiaro",
+      "desc": "Le statistiche del Pokémon non possono essere ridotte."
+    },
+    "74": {
+      "name": "Forzapura",
+      "desc": "Migliora la statistica Attacco del Pokémon."
+    },
+    "75": {
+      "name": "Guscioscudo",
+      "desc": "Evita che il Pokémon subisca brutti colpi."
+    },
+    "76": {
+      "name": "Riparo",
+      "desc": "Neutralizza gli effetti delle condizioni atmosferiche."
+    },
+    "77": {
+      "name": "Intricopiedi",
+      "desc": "Aumenta l’elusione se il Pokémon è confuso."
+    },
+    "78": {
+      "name": "Elettrorapid",
+      "desc": "Le mosse di tipo Elettro subite fanno aumentare la Velocità."
+    },
+    "79": {
+      "name": "Antagonismo",
+      "desc": "Rende più forti contro nemici dello stesso sesso."
+    },
+    "80": {
+      "name": "Cuordeciso",
+      "desc": "Aumenta la Velocità se il Pokémon tentenna."
+    },
+    "81": {
+      "name": "Mantelneve",
+      "desc": "Aumenta l’elusione quando grandina."
+    },
+    "82": {
+      "name": "Voracità",
+      "desc": "Favorisce l’uso anticipato di una bacca tenuta dal Pokémon."
+    },
+    "83": {
+      "name": "Grancollera",
+      "desc": "Massimizza l’Attacco se si subisce un brutto colpo."
+    },
+    "84": {
+      "name": "Agiltecnica",
+      "desc": "Aumenta la Velocità dopo aver usato o perso uno strumento."
+    },
+    "85": {
+      "name": "Antifuoco",
+      "desc": "Indebolisce l’effetto di mosse di tipo Fuoco."
+    },
+    "86": {
+      "name": "Disinvoltura",
+      "desc": "Le statistiche possono cambiare senza preavviso."
+    },
+    "87": {
+      "name": "Pellearsa",
+      "desc": "Riduce i PS se fa caldo. In presenza di acqua, ridà PS."
+    },
+    "88": {
+      "name": "Download",
+      "desc": "Regola la potenza in base al nemico."
+    },
+    "89": {
+      "name": "Ferropugno",
+      "desc": "Potenzia le mosse che utilizzano pugni."
+    },
+    "90": {
+      "name": "Velencura",
+      "desc": "Ridà PS se il Pokémon è avvelenato."
+    },
+    "91": {
+      "name": "Adattabilità",
+      "desc": "Potenzia le mosse dello stesso tipo del Pokémon."
+    },
+    "92": {
+      "name": "Abillegame",
+      "desc": "Aumenta la frequenza di mosse multicolpo."
+    },
+    "93": {
+      "name": "Idratazione",
+      "desc": "Cura i problemi di stato se piove."
+    },
+    "94": {
+      "name": "Solarpotere",
+      "desc": "Se c’è il sole aumenta l’Attacco Speciale, ma riduce i PS."
+    },
+    "95": {
+      "name": "Piedisvelti",
+      "desc": "Aumenta la Velocità se c’è un problema di stato."
+    },
+    "96": {
+      "name": "Normalità",
+      "desc": "Le mosse del Pokémon diventano di tipo Normale."
+    },
+    "97": {
+      "name": "Cecchino",
+      "desc": "Aumenta i danni inflitti dai brutti colpi."
+    },
+    "98": {
+      "name": "Magicscudo",
+      "desc": "Il Pokémon subisce danni solo da attacchi diretti."
+    },
+    "99": {
+      "name": "Nullodifesa",
+      "desc": "Le mosse del Pokémon e del nemico vanno sempre a segno."
+    },
+    "100": {
+      "name": "Rallentatore",
+      "desc": "I nemici attaccano sempre per primi, anche se sono più lenti."
+    },
+    "101": {
+      "name": "Tecnico",
+      "desc": "Potenzia le mosse più deboli del Pokémon."
+    },
+    "102": {
+      "name": "Fogliamanto",
+      "desc": "Evita problemi di stato quando c’è il sole."
+    },
+    "103": {
+      "name": "Impaccio",
+      "desc": "Il Pokémon non può usare lo strumento che ha."
+    },
+    "104": {
+      "name": "Rompiforma",
+      "desc": "Neutralizza le abilità che bloccano le mosse."
+    },
+    "105": {
+      "name": "Supersorte",
+      "desc": "Aumenta la probabilità di infliggere brutti colpi."
+    },
+    "106": {
+      "name": "Scoppio",
+      "desc": "Arreca danni al Pokémon che sferra il colpo finale."
+    },
+    "107": {
+      "name": "Presagio",
+      "desc": "Rivela se il nemico ha mosse pericolose."
+    },
+    "108": {
+      "name": "Premonizione",
+      "desc": "Scopre la mossa più potente del nemico."
+    },
+    "109": {
+      "name": "Imprudenza",
+      "desc": "Ignora le modifiche alle statistiche del nemico."
+    },
+    "110": {
+      "name": "Lentifumé",
+      "desc": "Potenzia le mosse non molto efficaci."
+    },
+    "111": {
+      "name": "Filtro",
+      "desc": "Riduce la potenza delle mosse superefficaci."
+    },
+    "112": {
+      "name": "Lentoinizio",
+      "desc": "Dimezza per un po’ l’Attacco e la Velocità."
+    },
+    "113": {
+      "name": "Nervisaldi",
+      "desc": "I Pokémon di tipo Spettro sono colpiti da mosse Normale e Lotta."
+    },
+    "114": {
+      "name": "Acquascolo",
+      "desc": "Neutralizza mosse di tipo Acqua per aumentare l’Attacco Speciale."
+    },
+    "115": {
+      "name": "Corpogelo",
+      "desc": "Il Pokémon recupera PS quando grandina."
+    },
+    "116": {
+      "name": "Solidroccia",
+      "desc": "Riduce la potenza delle mosse superefficaci."
+    },
+    "117": {
+      "name": "Scendineve",
+      "desc": "Il Pokémon provoca una grandinata durante la lotta."
+    },
+    "118": {
+      "name": "Mielincetta",
+      "desc": "Il Pokémon può raccogliere Miele."
+    },
+    "119": {
+      "name": "Indagine",
+      "desc": "Il Pokémon scopre che strumento ha il nemico."
+    },
+    "120": {
+      "name": "Temerarietà",
+      "desc": "Potenzia le mosse che provocano contraccolpi."
+    },
+    "121": {
+      "name": "Multitipo",
+      "desc": "Cambia il tipo del Pokémon a seconda della lastra che ha."
+    },
+    "122": {
+      "name": "Regalfiore",
+      "desc": "Se c’è il sole, potenzia i Pokémon alleati."
+    },
+    "123": {
+      "name": "Sogniamari",
+      "desc": "Riduce i PS dei nemici addormentati."
+    },
+    "124": {
+      "name": "Arraffalesto",
+      "desc": "Al contatto subito, ruba lo strumento di chi lo ha attaccato."
+    },
+    "125": {
+      "name": "Forzabruta",
+      "desc": "Aumenta i danni annullando altri effetti delle mosse."
+    },
+    "126": {
+      "name": "Inversione",
+      "desc": "Le modifiche alle statistiche hanno effetto inverso."
+    },
+    "127": {
+      "name": "Agitazione",
+      "desc": "Il nemico viene intimidito e non può mangiare bacche."
+    },
+    "128": {
+      "name": "Agonismo",
+      "desc": "L’Attacco aumenta quando un nemico fa calare le statistiche."
+    },
+    "129": {
+      "name": "Sconforto",
+      "desc": "Le statistiche scendono se i PS calano a metà o meno."
+    },
+    "130": {
+      "name": "Corpofunesto",
+      "desc": "A volte inibisce l’ultima mossa usata dal nemico."
+    },
+    "131": {
+      "name": "Curacuore",
+      "desc": "A volte cura i problemi di stato degli alleati."
+    },
+    "132": {
+      "name": "Amicoscudo",
+      "desc": "Riduce il danno subito dagli alleati."
+    },
+    "133": {
+      "name": "Sottilguscio",
+      "desc": "Riduce la Difesa e aumenta la Velocità se il Pokémon è colpito."
+    },
+    "134": {
+      "name": "Metalpesante",
+      "desc": "Raddoppia il peso del Pokémon."
+    },
+    "135": {
+      "name": "Metalleggero",
+      "desc": "Dimezza il peso del Pokémon."
+    },
+    "136": {
+      "name": "Multisquame",
+      "desc": "Riduce il danno subito se i PS sono al massimo."
+    },
+    "137": {
+      "name": "Velenimpeto",
+      "desc": "Aumenta l’Attacco se il Pokémon è avvelenato."
+    },
+    "138": {
+      "name": "Bruciaimpeto",
+      "desc": "Aumenta l’Attacco Speciale se il Pokémon è scottato."
+    },
+    "139": {
+      "name": "Coglibacche",
+      "desc": "Può ricreare una bacca utilizzata."
+    },
+    "140": {
+      "name": "Telepatia",
+      "desc": "Prevede ed evita gli attacchi degli alleati."
+    },
+    "141": {
+      "name": "Altalena",
+      "desc": "Aumenta una statistica e ne riduce un’altra."
+    },
+    "142": {
+      "name": "Copricapo",
+      "desc": "Protegge il Pokémon da polvere, sabbia e grandine."
+    },
+    "143": {
+      "name": "Velentocco",
+      "desc": "Può avvelenare il nemico al solo contatto fisico."
+    },
+    "144": {
+      "name": "Rigenergia",
+      "desc": "Il Pokémon recupera un po’ di PS quando viene sostituito."
+    },
+    "145": {
+      "name": "Pettinfuori",
+      "desc": "Evita che la Difesa diminuisca."
+    },
+    "146": {
+      "name": "Remasabbia",
+      "desc": "La Velocità aumenta nelle tempeste di sabbia."
+    },
+    "147": {
+      "name": "Splendicute",
+      "desc": "Resiste più facilmente ai cambiamenti di stato."
+    },
+    "148": {
+      "name": "Ponderazione",
+      "desc": "Se agisce per ultimo, la potenza della mossa sale."
+    },
+    "149": {
+      "name": "Illusione",
+      "desc": "Entra con le sembianze dell’ultimo Pokémon in squadra."
+    },
+    "150": {
+      "name": "Sosia",
+      "desc": "Si trasforma nel Pokémon che ha davanti."
+    },
+    "151": {
+      "name": "Intrapasso",
+      "desc": "Attacca evitando le barriere del nemico."
+    },
+    "152": {
+      "name": "Mummia",
+      "desc": "L’abilità del nemico cambia in Mummia dopo il contatto."
+    },
+    "153": {
+      "name": "Arroganza",
+      "desc": "Aumenta l’Attacco quando manda un nemico KO."
+    },
+    "154": {
+      "name": "Giustizia",
+      "desc": "L’Attacco aumenta se si è colpiti da una mossa di tipo Buio."
+    },
+    "155": {
+      "name": "Paura",
+      "desc": "Per paura di certi tipi di mosse, la Velocità sale."
+    },
+    "156": {
+      "name": "Magispecchio",
+      "desc": "Riflette al mittente le mosse di stato."
+    },
+    "157": {
+      "name": "Mangiaerba",
+      "desc": "Neutralizza le mosse di tipo Erba subite per aumentare l’Attacco."
+    },
+    "158": {
+      "name": "Burla",
+      "desc": "Dà priorità a mosse che alterano lo stato."
+    },
+    "159": {
+      "name": "Silicoforza",
+      "desc": "Potenzia alcune mosse nelle tempeste di sabbia."
+    },
+    "160": {
+      "name": "Spineferrate",
+      "desc": "Se chi attacca mette a segno una mossa fisica, viene danneggiato."
+    },
+    "161": {
+      "name": "Stato Zen",
+      "desc": "Se il Pokémon è in difficoltà, ne cambia l’aspetto."
+    },
+    "162": {
+      "name": "Vittorstella",
+      "desc": "Aumenta la precisione di chi la possiede e quella degli alleati."
+    },
+    "163": {
+      "name": "Piroturbina",
+      "desc": "Neutralizza le abilità che bloccano le mosse."
+    },
+    "164": {
+      "name": "Teravolt",
+      "desc": "Neutralizza le abilità che bloccano le mosse."
+    },
+    "165": {
+      "name": "Aromavelo",
+      "desc": "Protegge sé e gli alleati da mosse che limitano la scelta di attacchi."
+    },
+    "166": {
+      "name": "Fiorvelo",
+      "desc": "Evita il calo delle statistiche degli alleati di tipo Erba."
+    },
+    "167": {
+      "name": "Guancegonfie",
+      "desc": "Fa recuperare PS quando il Pokémon mangia una bacca."
+    },
+    "168": {
+      "name": "Mutatipo",
+      "desc": "Cambia il tipo del Pokémon in quello della mossa usata."
+    },
+    "169": {
+      "name": "Foltopelo",
+      "desc": "Dimezza il danno degli attacchi fisici subiti."
+    },
+    "170": {
+      "name": "Prestigiatore",
+      "desc": "Ruba lo strumento del Pokémon su cui è stata usata una mossa."
+    },
+    "171": {
+      "name": "Antiproiettile",
+      "desc": "Protegge da alcune mosse a base di proiettili e bombe."
+    },
+    "172": {
+      "name": "Tenacia",
+      "desc": "L’Attacco aumenta quando un nemico fa calare le statistiche."
+    },
+    "173": {
+      "name": "Ferromascella",
+      "desc": "La robusta mascella del Pokémon permette morsi molto potenti."
+    },
+    "174": {
+      "name": "Pellegelo",
+      "desc": "Le mosse di tipo Normale diventano di tipo Ghiaccio."
+    },
+    "175": {
+      "name": "Dolcevelo",
+      "desc": "Impedisce a sé e agli alleati di addormentarsi."
+    },
+    "176": {
+      "name": "Accendilotta",
+      "desc": "L’aspetto del Pokémon cambia in base alla modalità di lotta."
+    },
+    "177": {
+      "name": "Aliraffica",
+      "desc": "Dà priorità alle mosse di tipo Volante."
+    },
+    "178": {
+      "name": "Megalancio",
+      "desc": "Potenzia le mosse “pulsar” e altre come Ondasana."
+    },
+    "179": {
+      "name": "Peloderba",
+      "desc": "Aumenta la Difesa durante l’effetto di Campo Erboso."
+    },
+    "180": {
+      "name": "Simbiosi",
+      "desc": "Il Pokémon può passare il suo strumento a un alleato."
+    },
+    "181": {
+      "name": "Unghiedure",
+      "desc": "Potenzia le mosse che causano un contatto fisico."
+    },
+    "182": {
+      "name": "Pellefolletto",
+      "desc": "Le mosse di tipo Normale diventano di tipo Folletto."
+    },
+    "183": {
+      "name": "Viscosità",
+      "desc": "Riduce la Velocità del Pokémon con cui entra in contatto."
+    },
+    "184": {
+      "name": "Pellecielo",
+      "desc": "Le mosse di tipo Normale diventano di tipo Volante."
+    },
+    "185": {
+      "name": "Amorefiliale",
+      "desc": "Il Pokémon e il suo piccolo attaccano insieme."
+    },
+    "186": {
+      "name": "Auratetra",
+      "desc": "Potenzia le mosse di tipo Buio di tutti i Pokémon."
+    },
+    "187": {
+      "name": "Aurafolletto",
+      "desc": "Potenzia le mosse di tipo Folletto di tutti i Pokémon."
+    },
+    "188": {
+      "name": "Frangiaura",
+      "desc": "Inverte gli effetti di tutte le aure."
+    },
+    "189": {
+      "name": "Mare Primordiale",
+      "desc": "Crea un clima che rende inefficaci gli attacchi di tipo Fuoco."
+    },
+    "190": {
+      "name": "Terra Estrema",
+      "desc": "Crea un clima che rende inefficaci gli attacchi di tipo Acqua."
+    },
+    "191": {
+      "name": "Flusso Delta",
+      "desc": "Crea un clima che annulla i punti deboli del tipo Volante."
+    },
+    "192": {
+      "name": "Sopportazione",
+      "desc": "Se il Pokémon subisce un attacco, la sua Difesa aumenta."
+    },
+    "193": {
+      "name": "Fuggifuggi",
+      "desc": "Se i PS scendono a metà o meno, il Pokémon si fa prendere dalla paura e abbandona la lotta in tutta fretta."
+    },
+    "194": {
+      "name": "Passoindietro",
+      "desc": "Se i PS scendono a metà o meno, il Pokémon abbandona la lotta per sfuggire al pericolo."
+    },
+    "195": {
+      "name": "Idrorinforzo",
+      "desc": "Se il Pokémon subisce una mossa di tipo Acqua, la sua Difesa aumenta di molto."
+    },
+    "196": {
+      "name": "Spietatezza",
+      "desc": "Gli attacchi sferrati su un bersaglio avvelenato producono sempre brutti colpi."
+    },
+    "197": {
+      "name": "Scudosoglia",
+      "desc": "Se i PS scendono a metà o meno, il guscio si rompe e il Pokémon si prepara all’offensiva."
+    },
+    "198": {
+      "name": "Sorveglianza",
+      "desc": "Raddoppia i danni inflitti a un bersaglio che è appena entrato in campo per sostituire un altro Pokémon."
+    },
+    "199": {
+      "name": "Bolladacqua",
+      "desc": "Riduce la potenza delle mosse di tipo Fuoco subite e rende immuni alle scottature."
+    },
+    "200": {
+      "name": "Tempracciaio",
+      "desc": "Aumenta la potenza delle mosse di tipo Acciaio."
+    },
+    "201": {
+      "name": "Furore",
+      "desc": "Se i PS scendono a metà o meno a causa di un attacco, l’Attacco Speciale aumenta."
+    },
+    "202": {
+      "name": "Spalaneve",
+      "desc": "Se grandina, la Velocità aumenta."
+    },
+    "203": {
+      "name": "Distacco",
+      "desc": "Il Pokémon è in grado di usare tutte le sue mosse senza entrare in contatto diretto con il bersaglio."
+    },
+    "204": {
+      "name": "Idrovoce",
+      "desc": "Le mosse basate sul suono del Pokémon con questa abilità diventano di tipo Acqua."
+    },
+    "205": {
+      "name": "Primacura",
+      "desc": "Le mosse che ripristinano direttamente i PS del Pokémon acquistano priorità alta."
+    },
+    "206": {
+      "name": "Pellelettro",
+      "desc": "Le mosse di tipo Normale diventano di tipo Elettro e la loro potenza aumenta un po’."
+    },
+    "207": {
+      "name": "Codasurf",
+      "desc": "In presenza di un Campo Elettrico, la Velocità raddoppia."
+    },
+    "208": {
+      "name": "Banco",
+      "desc": "Quando ha molti PS, il Pokémon forma un banco con i propri simili e si rafforza. Quando ne ha pochi, il banco si disperde."
+    },
+    "209": {
+      "name": "Fantasmanto",
+      "desc": "Il panno che ricopre il Pokémon lo protegge da un singolo attacco."
+    },
+    "210": {
+      "name": "Morfosintonia",
+      "desc": "Se il Pokémon manda KO un nemico, il legame con l’Allenatore si rafforza, attivando la trasformazione in Greninja Forma Ash. Acqualame si potenzia."
+    },
+    "211": {
+      "name": "Sciamefusione",
+      "desc": "Se i PS del Pokémon scendono a metà o meno, le cellule si raggruppano e gli permettono di assumere la Forma Perfetta."
+    },
+    "212": {
+      "name": "Corrosione",
+      "desc": "Il Pokémon è in grado di avvelenare il bersaglio anche se questo è di tipo Acciaio o Veleno."
+    },
+    "213": {
+      "name": "Sonno Assoluto",
+      "desc": "Il Pokémon si trova in un costante stato di dormiveglia che gli impedisce di svegliarsi. Può attaccare anche da addormentato."
+    },
+    "214": {
+      "name": "Regalità",
+      "desc": "L’aura di regalità del Pokémon impedisce al nemico di attaccarlo con mosse che hanno priorità alta."
+    },
+    "215": {
+      "name": "Espellinterno",
+      "desc": "Se il Pokémon viene mandato KO da un attacco, infligge a chi lo ha sferrato tanti danni quanti erano i suoi PS prima di ricevere il colpo."
+    },
+    "216": {
+      "name": "Sincrodanza",
+      "desc": "Permette al Pokémon di copiare immediatamente qualsiasi mossa basata sulla danza usata da un altro Pokémon in campo."
+    },
+    "217": {
+      "name": "Batteria",
+      "desc": "Aumenta la potenza delle mosse speciali degli alleati."
+    },
+    "218": {
+      "name": "Morbidone",
+      "desc": "Dimezza il danno causato dagli attacchi diretti di un nemico, ma raddoppia quello subito dalle mosse di tipo Fuoco."
+    },
+    "219": {
+      "name": "Corposgargiante",
+      "desc": "Il Pokémon sbalordisce il nemico e non gli permette di attaccarlo con mosse che hanno priorità alta."
+    },
+    "220": {
+      "name": "Cuoreanima",
+      "desc": "Aumenta l’Attacco Speciale ogni volta che un Pokémon va KO."
+    },
+    "221": {
+      "name": "Boccolidoro",
+      "desc": "Se il Pokémon viene colpito da un attacco diretto, la Velocità di chi l’ha colpito diminuisce."
+    },
+    "222": {
+      "name": "Ricezione",
+      "desc": "Il Pokémon acquisisce l’abilità di un alleato andato KO."
+    },
+    "223": {
+      "name": "Forza Chimica",
+      "desc": "Il Pokémon trasforma la propria abilità in quella di un alleato andato KO."
+    },
+    "224": {
+      "name": "Ultraboost",
+      "desc": "Se il Pokémon ha mandato KO almeno un altro Pokémon nel turno, aumenta la propria statistica di punta."
+    },
+    "225": {
+      "name": "Sistema Primevo",
+      "desc": "Il tipo del Pokémon cambia in base alla ROM installata."
+    },
+    "226": {
+      "name": "Elettrogenesi",
+      "desc": "Quando il Pokémon entra in campo, lo trasforma in un Campo Elettrico."
+    },
+    "227": {
+      "name": "Psicogenesi",
+      "desc": "Quando il Pokémon entra in campo, lo trasforma in un Campo Psichico."
+    },
+    "228": {
+      "name": "Nebbiogenesi",
+      "desc": "Quando il Pokémon entra in campo, lo trasforma in un Campo Nebbioso."
+    },
+    "229": {
+      "name": "Erbogenesi",
+      "desc": "Quando il Pokémon entra in campo, lo trasforma in un Campo Erboso."
+    },
+    "230": {
+      "name": "Metalprotezione",
+      "desc": "Rende immuni alla diminuzione delle statistiche causata da abilità o mosse di altri Pokémon."
+    },
+    "231": {
+      "name": "Spettroguardia",
+      "desc": "Se i PS sono al massimo, riduce il danno subito."
+    },
+    "232": {
+      "name": "Scudoprisma",
+      "desc": "Riduce la potenza delle mosse superefficaci subite."
+    },
+    "233": {
+      "name": "Cerebroforza",
+      "desc": "Potenzia le mosse superefficaci."
+    },
+    "234": {
+      "name": "Spada Indomita",
+      "desc": "Quando il Pokémon entra in campo, il suo Attacco aumenta."
+    },
+    "235": {
+      "name": "Scudo Saldo",
+      "desc": "Quando il Pokémon entra in campo, la sua Difesa aumenta."
+    },
+    "236": {
+      "name": "Libero",
+      "desc": "Cambia il tipo del Pokémon in quello della mossa che usa."
+    },
+    "237": {
+      "name": "Raccattapalle",
+      "desc": "Se il Pokémon non ha uno strumento con sé, raccoglie la Poké Ball del primo tentativo di cattura fallito."
+    },
+    "238": {
+      "name": "Lanugine",
+      "desc": "Se il Pokémon subisce un attacco, sparge della lanugine che diminuisce la Velocità di tutti i Pokémon in campo tranne la sua."
+    },
+    "239": {
+      "name": "Elicopinna",
+      "desc": "Permette di ignorare gli effetti di mosse e abilità che attirano altre mosse."
+    },
+    "240": {
+      "name": "Blindospecchio",
+      "desc": "Rimanda al mittente le diminuzioni alle statistiche subite."
+    },
+    "241": {
+      "name": "Inghiottimissile",
+      "desc": "Quando usa Surf o Sub, il Pokémon cattura una preda. Se subisce dei danni, la sputa fuori per attaccare."
+    },
+    "242": {
+      "name": "Volontà di Ferro",
+      "desc": "Permette di ignorare gli effetti di mosse e abilità che attirano altre mosse."
+    },
+    "243": {
+      "name": "Vapormacchina",
+      "desc": "Se il Pokémon viene colpito da una mossa di tipo Acqua o Fuoco, la sua Velocità aumenta moltissimo."
+    },
+    "244": {
+      "name": "Punk Rock",
+      "desc": "Aumenta la potenza delle mosse basate sul suono. Inoltre, dimezza i danni subiti dal Pokémon se viene colpito da tali mosse."
+    },
+    "245": {
+      "name": "Sputasabbia",
+      "desc": "Quando il Pokémon viene colpito da un attacco, scatena una tempesta di sabbia."
+    },
+    "246": {
+      "name": "Geloscaglie",
+      "desc": "Scaglie di ghiaccio proteggono il Pokémon dalle mosse speciali, dimezzandone i danni subiti."
+    },
+    "247": {
+      "name": "Maturazione",
+      "desc": "Fa maturare le bacche raddoppiandone gli effetti."
+    },
+    "248": {
+      "name": "Gelofaccia",
+      "desc": "Grazie al ghiaccio sulla testa, il Pokémon può incassare i danni causati da mosse fisiche, ma cambia forma. Torna al suo stato originale quando grandina."
+    },
+    "249": {
+      "name": "Fonte Energetica",
+      "desc": "Potenzia le mosse di chi si trova nelle immediate vicinanze."
+    },
+    "250": {
+      "name": "Mimetismo",
+      "desc": "Il tipo del Pokémon cambia a seconda dello stato del campo."
+    },
+    "251": {
+      "name": "Annullabarriere",
+      "desc": "Quando il Pokémon entra in campo, annulla l’effetto di Schermoluce, Riflesso e Velaurora sia per i nemici che per gli alleati."
+    },
+    "252": {
+      "name": "Spiritoferreo",
+      "desc": "Potenzia gli attacchi di tipo Acciaio degli alleati."
+    },
+    "253": {
+      "name": "Ultimotocco",
+      "desc": "Se il Pokémon viene colpito da un attacco diretto, dopo tre turni va KO assieme a chi lo ha attaccato. Se uno dei due viene sostituito, non va KO."
+    },
+    "254": {
+      "name": "Anima Errante",
+      "desc": "Se il Pokémon subisce un attacco diretto, scambia la sua abilità con quella di chi lo ha colpito."
+    },
+    "255": {
+      "name": "Vigorilla",
+      "desc": "Aumenta l’Attacco ma costringe il Pokémon a usare solo la prima mossa selezionata."
+    },
+    "256": {
+      "name": "Gas Reagente",
+      "desc": "Se in campo c’è un Pokémon con Gas Reagente, gli effetti delle abilità di tutti gli altri Pokémon vengono annullati o non si attivano."
+    },
+    "257": {
+      "name": "Pastelvelo",
+      "desc": "Protegge il Pokémon e gli alleati dai problemi di stato causati dal veleno."
+    },
+    "258": {
+      "name": "Pancialterna",
+      "desc": "Alla fine di ogni turno cambia forma, alternando tra Motivo Panciapiena e Motivo Panciavuota."
+    },
+    "259": {
+      "name": "Colpolesto",
+      "desc": "A volte permette al Pokémon di agire per primo."
+    },
+    "260": {
+      "name": "Pugni Invisibili",
+      "desc": "Quando il Pokémon utilizza un attacco diretto, gli effetti di mosse protettive vengono ignorati."
+    },
+    "261": {
+      "name": "Stranofarmaco",
+      "desc": "Quando il Pokémon entra in campo, sparge un farmaco dalla conchiglia che annulla le modifiche alle statistiche degli alleati."
+    },
+    "262": {
+      "name": "Transistor",
+      "desc": "Potenzia le mosse di tipo Elettro."
+    },
+    "263": {
+      "name": "Dragomascelle",
+      "desc": "Potenzia le mosse di tipo Drago."
+    },
+    "264": {
+      "name": "Nitrito Bianco",
+      "desc": "Quando manda KO il nemico, emette un nitrito agghiacciante, aumentando il proprio Attacco."
+    },
+    "265": {
+      "name": "Nitrito Nero",
+      "desc": "Quando manda KO il nemico, emette un nitrito terrificante, aumentando il proprio Attacco Speciale."
+    },
+    "266": {
+      "name": "Sintonia Equina",
+      "desc": "Il Pokémon ha una doppia abilità: Agitazione di Calyrex e Nitrito Bianco di Glastrier."
+    },
+    "267": {
+      "name": "Sintonia Equina",
+      "desc": "Il Pokémon ha una doppia abilità: Agitazione di Calyrex e Nitrito Nero di Spectrier."
+    },
+    "268": {
+      "name": "Odore Tenace",
+      "desc": ""
+    },
+    "269": {
+      "name": "Spargisemi",
+      "desc": ""
+    },
+    "270": {
+      "name": "Termoscambio",
+      "desc": ""
+    },
+    "271": {
+      "name": "Iraguscio",
+      "desc": ""
+    },
+    "272": {
+      "name": "Sale Purificante",
+      "desc": ""
+    },
+    "273": {
+      "name": "Bentostato",
+      "desc": ""
+    },
+    "274": {
+      "name": "Vento Propizio",
+      "desc": ""
+    },
+    "275": {
+      "name": "Cane da Guardia",
+      "desc": ""
+    },
+    "276": {
+      "name": "Portamassi",
+      "desc": ""
+    },
+    "277": {
+      "name": "Energia Eolica",
+      "desc": ""
+    },
+    "278": {
+      "name": "Supercambio",
+      "desc": ""
+    },
+    "279": {
+      "name": "Torre di Comando",
+      "desc": ""
+    },
+    "280": {
+      "name": "Convertivolt",
+      "desc": ""
+    },
+    "281": {
+      "name": "Paleoattivazione",
+      "desc": ""
+    },
+    "282": {
+      "name": "Carica Quark",
+      "desc": ""
+    },
+    "283": {
+      "name": "Corpo Aureo",
+      "desc": ""
+    },
+    "284": {
+      "name": "Vaso Nefasto",
+      "desc": ""
+    },
+    "285": {
+      "name": "Spada Nefasta",
+      "desc": ""
+    },
+    "286": {
+      "name": "Amuleto Nefasto",
+      "desc": ""
+    },
+    "287": {
+      "name": "Monile Nefasto",
+      "desc": ""
+    },
+    "288": {
+      "name": "Ritmo d’Oricalco",
+      "desc": ""
+    },
+    "289": {
+      "name": "Motore Adronico",
+      "desc": ""
+    },
+    "290": {
+      "name": "Scrocco",
+      "desc": ""
+    },
+    "291": {
+      "name": "Ruminante",
+      "desc": ""
+    },
+    "292": {
+      "name": "Affilama",
+      "desc": ""
+    },
+    "293": {
+      "name": "Generale Supremo",
+      "desc": ""
+    },
+    "294": {
+      "name": "Coprotagonismo",
+      "desc": ""
+    },
+    "295": {
+      "name": "Mantossina",
+      "desc": ""
+    },
+    "296": {
+      "name": "Codarmatura",
+      "desc": ""
+    },
+    "297": {
+      "name": "Mangiaterra",
+      "desc": ""
+    },
+    "298": {
+      "name": "Micoforza",
+      "desc": ""
+    },
+    "299": {
+      "name": "Occhio Interiore",
+      "desc": ""
+    },
+    "300": {
+      "name": "Sciroppo Sublime",
+      "desc": ""
+    },
+    "301": {
+      "name": "Ospitalità",
+      "desc": ""
+    },
+    "302": {
+      "name": "Catena Tossica",
+      "desc": ""
+    },
+    "303": {
+      "name": "Albergamemorie",
+      "desc": ""
+    },
+    "304": {
+      "name": "Teramorfosi",
+      "desc": ""
+    },
+    "305": {
+      "name": "Teraguscio",
+      "desc": ""
+    },
+    "306": {
+      "name": "Zeroformazione",
+      "desc": ""
+    },
+    "307": {
+      "name": "Malia Tossica",
+      "desc": ""
+    },
+    "308": {
+      "name": "Punta Perforante",
+      "desc": ""
+    },
+    "309": {
+      "name": "Pelledrago",
+      "desc": ""
+    },
+    "310": {
+      "name": "Megasolar",
+      "desc": ""
+    },
+    "311": {
+      "name": "Spargipiccante",
+      "desc": ""
+    }
+  }
+}

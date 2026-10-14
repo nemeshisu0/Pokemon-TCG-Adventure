@@ -1,0 +1,92 @@
+{
+  "196_neo2_1_holo": {
+    "species": "Espeon",
+    "dex_id": 196,
+    "set": "Neo Discovery",
+    "number": "1",
+    "finish": "holo",
+    "date": "2026-10-05 18:44:36",
+    "is_shiny": false
+  },
+  "196_neo2_1_reverse_holo": {
+    "species": "Espeon",
+    "dex_id": 196,
+    "set": "Neo Discovery",
+    "number": "1",
+    "finish": "reverse holo",
+    "date": "2026-10-05 18:44:36",
+    "is_shiny": false
+  },
+  "906_sv2_12_normale": {
+    "species": "Sprigatito",
+    "dex_id": 906,
+    "set": "Paldea Evolved",
+    "number": "12",
+    "finish": "normale",
+    "date": "2026-10-05 18:44:36",
+    "is_shiny": false
+  },
+  "448_dp1_6_holo": {
+    "species": "Lucario",
+    "dex_id": 448,
+    "set": "Diamond & Pearl",
+    "number": "6",
+    "finish": "holo",
+    "date": "2026-10-05 18:57:35",
+    "is_shiny": false
+  },
+  "448_dp1_6_reverse_holo": {
+    "species": "Lucario",
+    "dex_id": 448,
+    "set": "Diamond & Pearl",
+    "number": "6",
+    "finish": "reverse holo",
+    "date": "2026-10-05 18:57:42",
+    "is_shiny": false
+  },
+  "384_np_39_holo": {
+    "species": "Rayquaza ex",
+    "dex_id": 384,
+    "set": "Nintendo Black Star Promos",
+    "number": "39",
+    "finish": "holo",
+    "date": "2026-10-05 18:57:51",
+    "is_shiny": false
+  },
+  "1007_svp_14_holo": {
+    "species": "Koraidon",
+    "dex_id": 1007,
+    "set": "Scarlet & Violet Black Star Promos",
+    "number": "14",
+    "finish": "holo",
+    "date": "2026-10-05 18:58:04",
+    "is_shiny": false
+  },
+  "6_base1_4_reverse_holo": {
+    "species": "Charizard",
+    "dex_id": 6,
+    "set": "Base",
+    "number": "4",
+    "finish": "reverse holo",
+    "date": "2026-10-10 18:02:30",
+    "is_shiny": false
+  },
+  "129_base5_47_normal": {
+    "species": "Magikarp",
+    "dex_id": 129,
+    "set": "Team Rocket",
+    "number": "47",
+    "finish": "Normal",
+    "date": "2026-10-07 17:32:53",
+    "is_shiny": false
+  },
+  "623_bw6_59_normale": {
+    "species": "Golurk",
+    "dex_id": 623,
+    "set": "Dragons Exalted",
+    "number": "59",
+    "finish": "normale",
+    "date": "2026-10-08 02:04:03",
+    "is_shiny": false
+  }
+}

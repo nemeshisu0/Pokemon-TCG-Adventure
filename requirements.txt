@@ -1,0 +1,20 @@
+# ==============================================================================
+# Pokémon TCG Adventure — Dependencies
+# Cross-Platform: Arch Linux / Ubuntu / Debian / Fedora / Windows 10 & 11
+# ==============================================================================
+
+# GUI Framework (60 FPS Hardware-Accelerated Rendering)
+PyQt6>=6.5.0
+
+# Computer Vision & Real-time Optical Card Scanner
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+
+# ROM & Reverse Engineering Tools
+ndspy>=4.0.0
+capstone>=5.0.0
+
+# Gamepad support (Linux Plug & Play)
+evdev>=1.6.0; sys_platform == 'linux'

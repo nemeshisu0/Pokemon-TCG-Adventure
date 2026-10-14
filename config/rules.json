@@ -1,0 +1,274 @@
+{
+  "project_name": "Pokemon B2W2 TCG Integration",
+  "version": "1.0.0",
+  "anti_duplication": {
+    "enabled": true,
+    "unique_fields": [
+      "species_id",
+      "set_code",
+      "card_number",
+      "finish"
+    ],
+    "description": "Una carta e' unica per combinazione di Specie + Set + Numero Carta + Finitura (Normale, Holo, Reverse Holo)"
+  },
+  "card_rarity_tiers": {
+    "tier_1": {
+      "name": "Comune / Non Comune / Rara Normale",
+      "types": [
+        "Common",
+        "Uncommon",
+        "Rare"
+      ],
+      "min_level": 5,
+      "max_level": 10,
+      "guaranteed_iv_31": 0,
+      "hidden_ability_chance": 0.0,
+      "egg_move_count": 0
+    },
+    "tier_2": {
+      "name": "Reverse Holo / Holo Standard",
+      "types": [
+        "Reverse Holo",
+        "Rare Holo"
+      ],
+      "min_level": 15,
+      "max_level": 20,
+      "guaranteed_iv_31": 0,
+      "hidden_ability_chance": 0.15,
+      "egg_move_count": 0
+    },
+    "tier_3": {
+      "name": "Meccaniche Avanzate Classiche",
+      "types": [
+        "Radiant",
+        "BREAK",
+        "LV.X",
+        "Prime",
+        "Amazing Rare"
+      ],
+      "min_level": 20,
+      "max_level": 25,
+      "guaranteed_iv_31": 1,
+      "hidden_ability_chance": 0.5,
+      "egg_move_count": 0
+    },
+    "tier_3_5": {
+      "name": "Baby Shiny (Shiny Vault)",
+      "types": [
+        "Baby Shiny",
+        "Shiny Rare",
+        "Shiny Holo"
+      ],
+      "min_level": 20,
+      "max_level": 25,
+      "guaranteed_iv_31": 1,
+      "hidden_ability_chance": 0.5,
+      "egg_move_count": 0,
+      "is_card_shiny": true
+    },
+    "tier_4": {
+      "name": "Rule Box Base",
+      "types": [
+        "EX",
+        "GX",
+        "V",
+        "ex Tera Base",
+        "ex"
+      ],
+      "min_level": 30,
+      "max_level": 35,
+      "guaranteed_iv_31": 2,
+      "hidden_ability_chance": 1.0,
+      "egg_move_count": 0
+    },
+    "tier_5": {
+      "name": "Evoluzioni Estreme & Full Art",
+      "types": [
+        "Mega EX",
+        "VMAX",
+        "VSTAR",
+        "Tag Team GX",
+        "Full Art",
+        "Illustration Rare"
+      ],
+      "min_level": 40,
+      "max_level": 45,
+      "guaranteed_iv_31": 3,
+      "hidden_ability_chance": 1.0,
+      "egg_move_count": 1
+    },
+    "tier_6": {
+      "name": "Fuoriserie / Segrete / Gold Star",
+      "types": [
+        "Secret Rare",
+        "Gold",
+        "Gold Star",
+        "Special Illustration Rare",
+        "SIR"
+      ],
+      "min_level": 50,
+      "max_level": 55,
+      "guaranteed_iv_31": 4,
+      "hidden_ability_chance": 1.0,
+      "egg_move_count": 1
+    }
+  },
+  "historical_eras": {
+    "tier_1": {
+      "years": [
+        2022,
+        2026
+      ],
+      "era_name": "Era Scarlatto & Violetto / Teracristal",
+      "ball_grade": "Grado 1: Commerciali Base",
+      "pokeball_name": "Poké Ball",
+      "pokeball_id": 4,
+      "particles": "Standard",
+      "title": null,
+      "ribbon": null
+    },
+    "tier_2": {
+      "years": [
+        2018,
+        2021
+      ],
+      "era_name": "Era Spada & Scudo / Tag Team",
+      "ball_grade": "Grado 2: Tecniche & Situazionali",
+      "pokeball_name": "Premier Ball",
+      "pokeball_id": 12,
+      "particles": "Bagliore Bianco Specchiato",
+      "title": "Il Contemporaneo",
+      "ribbon": null
+    },
+    "tier_3": {
+      "years": [
+        2013,
+        2017
+      ],
+      "era_name": "Era XY & Mega-Evoluzioni",
+      "ball_grade": "Grado 3: Apriball Tradizionali",
+      "pokeball_name": "Luna Ball",
+      "pokeball_id": 23,
+      "particles": "Scintille Azzurre a Rombi",
+      "title": "Il Collaudato",
+      "ribbon": null
+    },
+    "tier_4": {
+      "years": [
+        2010,
+        2012
+      ],
+      "era_name": "Era Bianco & Nero / HGSS",
+      "ball_grade": "Grado 4: Strutture Speciali",
+      "pokeball_name": "Safari Ball",
+      "pokeball_id": 5,
+      "particles": "Fulmini Dorati Vintage",
+      "title": "Il Veterano di Unima",
+      "ribbon": "Fiocco Ricordo"
+    },
+    "tier_5": {
+      "years": [
+        2006,
+        2009
+      ],
+      "era_name": "Era Diamante & Perla (LV.X)",
+      "ball_grade": "Grado 5: Dimensionali & Cattura Assoluta",
+      "pokeball_name": "Dream Ball",
+      "pokeball_id": 25,
+      "particles": "Anelli Rotanti di Energia Dorata",
+      "title": "Il Custode di Sinnoh",
+      "ribbon": "Fiocco Abilita"
+    },
+    "tier_6": {
+      "years": [
+        2003,
+        2005
+      ],
+      "era_name": "Era EX Vintage (Hoenn)",
+      "ball_grade": "Grado 6: Sfere Antiche",
+      "pokeball_name": "Chic Ball Classica",
+      "pokeball_id": 11,
+      "particles": "Stelle Splendenti Retro (Gen 3)",
+      "title": "Il Pioniere di Hoenn",
+      "ribbon": "Fiocco Campione"
+    },
+    "tier_7": {
+      "years": [
+        1999,
+        2002
+      ],
+      "era_name": "Era Classica Wizards (Set Base, Neo)",
+      "ball_grade": "Grado 7: Mitiche & Evento",
+      "pokeball_name": "Cherish Ball",
+      "pokeball_id": 16,
+      "particles": "Aura del Tempo (Retro Pixel Glow)",
+      "title": "Il Patriarca delle Origini",
+      "ribbon": "Fiocco Antico"
+    }
+  },
+  "legendary_nerf": {
+    "enabled": true,
+    "sealed_level": 5,
+    "exp_curve": "Erratic / Slow",
+    "lock_iv_to_card_tier": true,
+    "legendary_ids": [
+      144,
+      145,
+      146,
+      150,
+      151,
+      243,
+      244,
+      245,
+      249,
+      250,
+      251,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      638,
+      639,
+      640,
+      641,
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649
+    ]
+  },
+  "shiny_mechanics": {
+    "base_random_shiny_chance": 0.01,
+    "double_shiny": {
+      "achievement_name": "Risonanza Cosmica",
+      "bonus_guaranteed_iv_31": 1,
+      "particle_effect": "Square Shiny Laser",
+      "ribbon": "Fiocco del Destino"
+    }
+  }
+}
